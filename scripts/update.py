@@ -74,6 +74,8 @@ def search_only():
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(user_agent=UA["User-Agent"], viewport={"width": 430, "height": 900})
+        urls = []
+        pg.on("response", lambda r: urls.append(r.url[:140]) if "json" in (r.headers.get("content-type") or "") else None)
         pg.goto(B + "/sch?keyword=" + urllib.parse.quote("닷컴ONLY") + "&tab=all", wait_until="networkidle", timeout=90000)
         try:
             pg.get_by_text(re.compile(r"^제품")).first.click(timeout=4000); pg.wait_for_timeout(2000)
@@ -92,10 +94,18 @@ def search_only():
     d = parse(html, only_flag=True, tag="닷컴ONLY", loose=True)
     if not d:
         z = BeautifulSoup(html, "html.parser")
+        for t in z(["script", "style", "head"]):
+            t.decompose()
         st = z.find(string=re.compile("ONLY"))
-        status["debug"] = str(st.parent.parent.parent)[:1500] if st else "ONLY 글자 없음"
-        status["errors"].append("진단: %s | 글자수 %d | ONLY %d회 | %s" % (
-            z.title.get_text() if z.title else "-", len(html), html.count("ONLY"), z.get_text(" ", strip=True)[:60]))
+        pa = next((x for x in z.find_all("a", href=True) if PAT.match(x["href"])), None)
+        cs = cards(z, True)
+        status["debug"] = {
+            "ONLY_in_body": str(st.parent.parent.parent)[:900] if st else "본문에 ONLY 없음",
+            "first_product_link": str(pa.parent.parent)[:900] if pa else "상품링크 없음",
+            "counts": "상품링크 %d, 카드 %d, li %d, img %d" % (
+                len([x for x in z.find_all("a", href=True) if PAT.match(x["href"])]), len(cs), len(z.find_all("li")), len(z.find_all("img"))),
+            "json_urls": urls[:12]}
+        status["errors"].append("진단 저장됨")
     return d
 
 items, status = {}, {"errors": []}
