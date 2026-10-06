@@ -18,9 +18,28 @@ def num(p, t):
     m = re.search(p + r"\s*([\d,]{4,})\s*원", t)
     return int(m.group(1).replace(",", "")) if m else None
 
+PAT = re.compile(r"^(https://www\.lge\.co\.kr)?/[a-z\-]+/[a-z0-9\-]+$")
+
+def cards(s, loose):
+    if not loose:
+        return s.find_all("li")
+    out, seen = [], set()
+    for a in s.find_all("a", href=True):
+        if not PAT.match(a["href"]):
+            continue
+        n = a
+        for _ in range(8):
+            q = n.parent
+            if q is None or len({x["href"] for x in q.find_all("a", href=True) if PAT.match(x["href"])}) > 1:
+                break
+            n = q
+        if id(n) not in seen:
+            seen.add(id(n)); out.append(n)
+    return out
+
 def parse(html, only_flag=False, tag="타임딜", loose=False):
     s, out = BeautifulSoup(html, "html.parser"), {}
-    for li in s.find_all("li"):
+    for li in cards(s, loose):
         t = li.get_text(" ", strip=True)
         if ("판매가" not in t and not loose) or "SOLD OUT" in t or "일시품절" in t:
             continue
@@ -70,7 +89,14 @@ def search_only():
             last = n
             if same >= 4: break
         html = pg.content(); b.close()
-    return parse(html, only_flag=True, tag="닷컴ONLY", loose=True)
+    d = parse(html, only_flag=True, tag="닷컴ONLY", loose=True)
+    if not d:
+        z = BeautifulSoup(html, "html.parser")
+        st = z.find(string=re.compile("ONLY"))
+        status["debug"] = str(st.parent.parent.parent)[:1500] if st else "ONLY 글자 없음"
+        status["errors"].append("진단: %s | 글자수 %d | ONLY %d회 | %s" % (
+            z.title.get_text() if z.title else "-", len(html), html.count("ONLY"), z.get_text(" ", strip=True)[:60]))
+    return d
 
 items, status = {}, {"errors": []}
 def merge(d):
