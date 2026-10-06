@@ -1,8 +1,11 @@
 {
- "updated": "2026-10-07 08:43",
+ "updated": "2026-10-07 08:52",
  "status": {
-  "errors": [],
+  "errors": [
+   "진단: LG 닷컴ONLY 검색결과 | LG전자 | 글자수 445687 | ONLY 37회 | LG 닷컴ONLY 검색결과 | LG전자 본문 바로가기 검색 마이페이지 로그인 회원가입 주문/배송/구독 조회 "
+  ],
   "timedeal": 53,
+  "debug": "<html lang=\"ko\"><head><meta charset=\"utf-8\"/><meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\"/><link as=\"image\" href=\"/kr/common/footer/sns_youtube.svg\" rel=\"preload\"/><link as=\"image\" href=\"/kr/common/footer/sns_insta.svg\" rel=\"preload\"/><link as=\"image\" href=\"/kr/common/footer/sns_facebook.svg\" rel=\"preload\"/><link as=\"image\" href=\"/kr/common/footer/sns_newsroom.svg\" rel=\"preload\"/><link as=\"image\" href=\"/kr/common/footer/sns_kakao.svg\" rel=\"preload\"/><link as=\"image\" href=\"/kr/common/footer/sns_blog.svg\" rel=\"preload\"/><link as=\"image\" href=\"https://www.lge.co.kr/kr/common/footer/ethics_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://www.lge.co.kr/kr/common/footer/wa_mark.png\" rel=\"preload\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/7bc2cc88f7c2f99d.css\" rel=\"stylesheet\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/96cc006c5623c6be.css\" rel=\"stylesheet\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/d9820d33bec24f63.css\" rel=\"stylesheet\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/d3d1da19f9ab9a00.css\" rel=\"stylesheet\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/1bcca31541c9841f.css\" rel=\"stylesheet\"/><link data-precedence=\"next\" href=\"https://www.lge.co.kr/sch/_next/static/css/32bdcb29e34e9a3b.css\" rel=\"stylesheet\"/><link data-precedence=\"nex",
   "only": 0
  },
  "items": [
