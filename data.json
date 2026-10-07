@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 14:37",
+ "updated": "2026-10-07 15:02",
  "status": {
   "errors": [],
   "timedeal": 62,
@@ -7,7 +7,7 @@
    "count": "수집 229",
    "pages": "p1:목록100/신규100 p2:목록100/신규100 p3:목록100/신규29 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-07T14:37:32.4194890\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-07T15:02:40.2224770\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10893829\", \"sku\": \"FQ18GU1BH2M.AKOR\", \"salesModelCode\": \"FQ18GU1BH2M\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"READY_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>\", \"modelName\": \"FQ18GU1BH2M\", \"defaultCategoryId\": \"CT50000131\", \"defaultCategoryName\": \"에어컨\", \"superCategoryId\": \"CT50000130\", \"categoryId\": \"CT50000131\", \"subCategoryId\": \"CT50000133\", \"superCategoryName\": \"에어컨/에어케어\", \"categoryName\": \"에어컨\", \"subCategoryName\": \"2in1\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/air-conditioners/md10783854/md10783854-350x350.jpg\", \"smallImageAddr\": \"/kr/images/air-conditioners/md10783854/md10783854-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\":"
   },
   "only": 229
@@ -112,7 +112,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 5,
-   "stock": 16,
+   "stock": 14,
    "sub": "75인치",
    "subn": 75
   },
@@ -171,7 +171,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 5,
-   "stock": 51,
+   "stock": 52,
    "sub": "85인치",
    "subn": 85
   },
@@ -307,7 +307,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 5,
-   "stock": 28,
+   "stock": 27,
    "sub": "77인치",
    "subn": 77
   },
@@ -335,7 +335,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -491,7 +491,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 116,
+   "stock": 115,
    "sub": "",
    "subn": 0
   },
@@ -2464,7 +2464,7 @@
    ],
    "model": "MH67BR",
    "dday": 11,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
