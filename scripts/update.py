@@ -64,7 +64,7 @@ def parse(html, only_flag=False, tag="타임딜", loose=False):
             name = re.sub(r"닷컴\s*ONLY", "", next((i.get("alt", "") for i in li.find_all("img")), "")).strip()
         h = li.find_previous("h3")
         slug = url.split("/")[3]
-        c = SLUG.get(slug) or (re.sub(r"\d+개$", "", h.get_text(strip=True)) if h and not loose else slug)
+        c = SLUG.get(slug) or ("기타" if loose else (re.sub(r"\d+개$", "", h.get_text(strip=True)) if h else slug))
         out[url] = dict(name=name, url=url, img=(B + img if img.startswith("/") else img), price=price,
                         cat=c, tags=[tag] + (["닷컴ONLY"] if only and tag != "닷컴ONLY" else []))
     return out
@@ -75,37 +75,32 @@ def search_only():
         b = p.chromium.launch()
         pg = b.new_page(user_agent=UA["User-Agent"], viewport={"width": 430, "height": 900})
         urls = []
-        pg.on("response", lambda r: urls.append(r.url[:140]) if "json" in (r.headers.get("content-type") or "") else None)
+        pg.on("response", lambda r: urls.append(r.url[:140]) if "searchsvc" in r.url else None)
         pg.goto(B + "/sch?keyword=" + urllib.parse.quote("닷컴ONLY") + "&tab=all", wait_until="networkidle", timeout=90000)
         try:
             pg.get_by_text(re.compile(r"^제품")).first.click(timeout=4000); pg.wait_for_timeout(2000)
         except Exception:
             pass
         last, same = -1, 0
-        for _ in range(150):
-            pg.mouse.wheel(0, 8000); pg.wait_for_timeout(800)
+        for _ in range(300):
+            pg.mouse.wheel(0, 8000); pg.wait_for_timeout(1000)
             try: pg.get_by_role("button", name=re.compile("더보기")).first.click(timeout=600)
             except Exception: pass
             n = pg.locator("li:has(img)").count()
             same = same + 1 if n == last else 0
             last = n
-            if same >= 4: break
+            if same >= 8: break
         html = pg.content(); b.close()
-    d = parse(html, only_flag=True, tag="닷컴ONLY", loose=True)
+    d = parse(html, only_flag=False, tag="닷컴ONLY", loose=True)
+    z = BeautifulSoup(html, "html.parser")
+    for t in z(["script", "style", "head"]):
+        t.decompose()
+    sample = next(iter(d.values()), None)
+    status["debug"] = {"counts": "수집 %d, 상품링크 %d, li %d, img %d, 스크롤 %d회" % (
+        len(d), len([x for x in z.find_all("a", href=True) if PAT.match(x["href"])]), len(z.find_all("li")), len(z.find_all("img")), _ + 1),
+        "sample": sample, "api_urls": sorted(set(urls))[:25]}
     if not d:
-        z = BeautifulSoup(html, "html.parser")
-        for t in z(["script", "style", "head"]):
-            t.decompose()
-        st = z.find(string=re.compile("ONLY"))
-        pa = next((x for x in z.find_all("a", href=True) if PAT.match(x["href"])), None)
-        cs = cards(z, True)
-        status["debug"] = {
-            "ONLY_in_body": str(st.parent.parent.parent)[:900] if st else "본문에 ONLY 없음",
-            "first_product_link": str(pa.parent.parent)[:900] if pa else "상품링크 없음",
-            "counts": "상품링크 %d, 카드 %d, li %d, img %d" % (
-                len([x for x in z.find_all("a", href=True) if PAT.match(x["href"])]), len(cs), len(z.find_all("li")), len(z.find_all("img"))),
-            "json_urls": urls[:12]}
-        status["errors"].append("진단 저장됨")
+        status["errors"].append("닷컴ONLY 0건 - 진단 저장됨")
     return d
 
 items, status = {}, {"errors": []}
@@ -126,7 +121,7 @@ try:
     d = search_only(); status["only"] = len(d); merge(d)
 except Exception as e:
     status["only"] = 0; status["errors"].append("닷컴ONLY 검색: %s" % e)
-for v in list(items.values())[:80]:
+for v in list(items.values())[:200]:
     if not v["img"]:
         try:
             m = re.search(r'property="og:image"\s+content="([^"]+)"', get(v["url"])); v["img"] = m.group(1) if m else ""
