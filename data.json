@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-07 09:21",
+ "updated": "2026-10-07 14:23",
  "status": {
   "errors": [],
-  "timedeal": 53,
+  "timedeal": 62,
   "debug": {
    "count": "수집 229, 페이지 4",
-   "raw": "HTTP 200 {\"timestamp\":\"2026-10-07T09:21:52.1784812\",\"status\":200,\"message\":\"OK\",\"data\":{\"list\":[{\"modelId\":\"MD10744830\",\"sku\":\"16Z95U-G.AS5WK\",\"salesModelCode\":\"16Z95U-G\",\"salesSuffixCode\":\"AS5WK\",\"modelStatusCode\":\"ACTIVE\",\"modelGubun\":\"1\",\"modelDisplayName\":\"LG 그램 Pro AI 2026, Copilot+ PC\",\"modelN"
+   "raw": "HTTP 200 {\"timestamp\":\"2026-10-07T14:23:31.1172296\",\"status\":200,\"message\":\"OK\",\"data\":{\"list\":[{\"modelId\":\"MD10744830\",\"sku\":\"16Z95U-G.AS5WK\",\"salesModelCode\":\"16Z95U-G\",\"salesSuffixCode\":\"AS5WK\",\"modelStatusCode\":\"ACTIVE\",\"modelGubun\":\"1\",\"modelDisplayName\":\"LG 그램 Pro AI 2026, Copilot+ PC\",\"modelN"
   },
   "only": 229
  },
@@ -18,7 +18,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "32LB650BES.AKRG",
+   "sub": "32인치",
+   "subn": 32
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형)",
@@ -28,7 +31,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "43NU850BES.AKRG",
+   "sub": "43인치",
+   "subn": 43
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형) 138cm",
@@ -39,7 +45,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "55NU850BENA",
+   "sub": "55인치",
+   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형) 163cm",
@@ -50,7 +59,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "65NU850BENA",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형)",
@@ -60,7 +72,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "65NU850BEW.AKRG",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG QNED AI (스탠드형) 163cm",
@@ -71,7 +86,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "65QNED65BBA",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) 189cm",
@@ -82,7 +100,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "75NU850BENA",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG QNED AI (벽걸이형)",
@@ -92,7 +113,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "65QNED65BBW.AKRG",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG QNED AI (스탠드형) 189cm",
@@ -102,7 +126,10 @@
    "cat": "TV",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "75QNED65ABA",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C6 138cm",
@@ -112,7 +139,10 @@
    "cat": "TV",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "OLED55C6ENA",
+   "sub": "55인치",
+   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) 214cm",
@@ -123,7 +153,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "85NU850BENA",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG QNED evo AI (스탠드형)",
@@ -133,7 +166,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "65QNED8MBES.AKRG",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG QNED AI (벽걸이형)",
@@ -143,7 +179,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "75QNED65BBW.AKRG",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG 나노셀 AI (벽걸이형)",
@@ -153,7 +192,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "86NANO80AEW.AKRG",
+   "sub": "86인치",
+   "subn": 86
   },
   {
    "name": "LG QNED evo AI (벽걸이형)",
@@ -163,7 +205,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "75QNED8MBEW.AKRG",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C5 163cm",
@@ -174,7 +219,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "OLED65C5ENA",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG QNED AI (벽걸이형)",
@@ -184,7 +232,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "86QNED70AEW.AKRG",
+   "sub": "86인치",
+   "subn": 86
   },
   {
    "name": "LG QNED AI (벽걸이형)",
@@ -194,7 +245,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "85QNED65BBW.AKRG",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG QNED evo AI (벽걸이형)",
@@ -204,7 +258,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "85QNED8MBEW.AKRG",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG QNED evo AI (벽걸이형)",
@@ -214,7 +271,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "75QNED92AGW.AKRQ",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG 올레드 AI (벽걸이형) B6 194cm",
@@ -225,7 +285,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "OLED77B6BNA",
+   "sub": "77인치",
+   "subn": 77
   },
   {
    "name": "LG QNED evo AI (벽걸이형)",
@@ -235,7 +298,10 @@
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "85QNED92AGW.AKRQ",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 하이드로에센셜 + 무빙휠 세트",
@@ -245,7 +311,10 @@
    "cat": "가습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "HY505RWLAHM",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 하이드로타워 + 급수비커 + 무빙휠 세트",
@@ -255,7 +324,10 @@
    "cat": "가습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "HY705RWUABM.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기",
@@ -265,7 +337,10 @@
    "cat": "건조기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "RG20VN.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기",
@@ -275,7 +350,10 @@
    "cat": "건조기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "RG20KN.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기",
@@ -285,7 +363,10 @@
    "cat": "건조기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "RD20KNT.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기 + 스태킹키트",
@@ -295,7 +376,10 @@
    "cat": "건조기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "RD21ESE-KE.AKOR",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기",
@@ -305,7 +389,10 @@
    "cat": "건조기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "RD21ESE.AKOR",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 퓨리케어 360˚ 공기청정기 Hit 50㎡ 2등급",
@@ -316,7 +403,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "AS156HWWL",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 360˚ 공기청정기 Hit 62㎡ 2등급",
@@ -327,7 +417,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "AS186HWWL",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 59.4㎡ 2등급",
@@ -337,7 +430,10 @@
    "cat": "공기청정기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "AS186LSAA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 에어로부스터 48.2㎡ 3등급",
@@ -347,7 +443,10 @@
    "cat": "공기청정기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "AS155GWDL",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트 100㎡ 2등급",
@@ -358,7 +457,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "AS305DWWLM",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스",
@@ -368,7 +470,10 @@
    "cat": "공기청정기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "AS305DWWL.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 115㎡ 2등급",
@@ -378,7 +483,10 @@
    "cat": "공기청정기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "AS356LSAA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5 + 무빙휠 세트 114㎡ 2등급",
@@ -389,7 +497,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "AS356NSLLM",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5",
@@ -399,7 +510,10 @@
    "cat": "공기청정기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "AS356NSLL.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "광파오븐/전자레인지",
@@ -409,7 +523,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MW20GDN.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "광파오븐/전자레인지",
@@ -419,7 +536,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MW30EDN.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 전자레인지",
@@ -429,7 +549,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MW23FDI.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 전자레인지",
@@ -439,7 +562,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MW23FD.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 광파오븐",
@@ -449,7 +575,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MLJ39EW.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 광파오븐",
@@ -459,7 +588,10 @@
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "MLJ39HW.CKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 김치톡톡",
@@ -469,7 +601,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "K220S111.AKOR",
+   "sub": "300L 미만",
+   "subn": 217
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡",
@@ -479,7 +614,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z225MEE152.AKOR",
+   "sub": "300L 미만",
+   "subn": 217
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡",
@@ -489,7 +627,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z330MEEF11.AKOR",
+   "sub": "300L대",
+   "subn": 327
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡",
@@ -499,7 +640,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z330MRRF21.AKOR",
+   "sub": "300L대",
+   "subn": 327
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡",
@@ -509,7 +653,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z490MPSF11.AKOR",
+   "sub": "400L대",
+   "subn": 491
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max",
@@ -519,7 +666,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z334MQQ172.AKOR",
+   "sub": "300L대",
+   "subn": 324
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max ",
@@ -529,7 +679,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z334MQQ101.AKOR",
+   "sub": "300L대",
+   "subn": 324
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -539,7 +692,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z386MEE221.AKOR",
+   "sub": "300L대",
+   "subn": 386
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max",
@@ -549,7 +705,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z334GBB172.AKOR",
+   "sub": "300L대",
+   "subn": 324
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max ",
@@ -559,7 +718,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z484GBB173.AKOR",
+   "sub": "400L대",
+   "subn": 480
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max",
@@ -569,7 +731,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z334SGS172S.AKOR",
+   "sub": "300L대",
+   "subn": 324
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -579,7 +744,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z386GBB261.AKOR",
+   "sub": "300L대",
+   "subn": 386
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -589,7 +757,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z386SVV261.AKOR",
+   "sub": "300L대",
+   "subn": 386
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡",
@@ -599,7 +770,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z495MQQ261.AKOR",
+   "sub": "400L대",
+   "subn": 491
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -609,7 +783,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z386SLL261.AKOR",
+   "sub": "300L대",
+   "subn": 386
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡",
@@ -619,7 +796,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z495GBB261.AKOR",
+   "sub": "400L대",
+   "subn": 491
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡",
@@ -629,7 +809,10 @@
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Z495SKV261.AKOR",
+   "sub": "400L대",
+   "subn": 491
   },
   {
    "name": "[컨버터블 3대 페어용] 오브제컬렉션 Fit & Max 냉장고 설치키트",
@@ -639,7 +822,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "OC-KIT82EA.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 일반냉장고 오브제컬렉션",
@@ -649,7 +835,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D215MHH13.AKOR",
+   "sub": "300L 미만",
+   "subn": 215
   },
   {
    "name": "LG 일반냉장고",
@@ -659,7 +848,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "B312W31.AKOR",
+   "sub": "300L대",
+   "subn": 317
   },
   {
    "name": "LG 디오스 오브제컬렉션 일반냉장고",
@@ -669,7 +861,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D315MHH31.AKOR",
+   "sub": "300L대",
+   "subn": 317
   },
   {
    "name": "LG 일반냉장고 오브제컬렉션",
@@ -679,7 +874,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D463MRR33.AKOR",
+   "sub": "400L대",
+   "subn": 461
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -689,7 +887,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q336MEE133.AKOR",
+   "sub": "300L대",
+   "subn": 333
   },
   {
    "name": "LG 일반냉장고 오브제컬렉션",
@@ -699,7 +900,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D604MPS33.AKOR",
+   "sub": "600L대",
+   "subn": 612
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -709,7 +913,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q405MEE133.AKOR",
+   "sub": "400L대",
+   "subn": 412
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -719,7 +926,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q405MQQ153.AKOR",
+   "sub": "400L대",
+   "subn": 412
   },
   {
    "name": "LG 모던엣지 AI 냉장고 Fit & Max",
@@ -729,7 +939,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "M336MB122.AKOR",
+   "sub": "300L대",
+   "subn": 333
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -739,7 +952,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q336MEE153.AKOR",
+   "sub": "300L대",
+   "subn": 333
   },
   {
    "name": "LG 일반냉장고 오브제컬렉션",
@@ -749,7 +965,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D604MPS52.AKOR",
+   "sub": "600L대",
+   "subn": 612
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -759,7 +978,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q405MEE131.AKOR",
+   "sub": "400L대",
+   "subn": 412
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -769,7 +991,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Q336MQQ171.AKOR",
+   "sub": "300L대",
+   "subn": 333
   },
   {
    "name": "LG DIOS 냉장고 (양문형)",
@@ -779,7 +1004,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836MDS002.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
@@ -789,7 +1017,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836P012.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
@@ -799,7 +1030,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S656P033.CKOR",
+   "sub": "600L대",
+   "subn": 652
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
@@ -809,7 +1043,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836MEE022.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
@@ -819,7 +1056,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836MTE032.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
@@ -829,7 +1069,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S834MTE011.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형, 매직스페이스)",
@@ -839,7 +1082,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836MEE122.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형, 매직스페이스)",
@@ -849,7 +1095,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S834MEE111.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (양문형, 매직스페이스)",
@@ -859,7 +1108,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836MQQ15-F.CKOR",
+   "sub": "800L대",
+   "subn": 827
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형, 매직스페이스)",
@@ -869,7 +1121,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836GBB122.CKOR",
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (양문형, 매직스페이스)",
@@ -879,7 +1134,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "S836GBB16-F.CKOR",
+   "sub": "800L대",
+   "subn": 827
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고",
@@ -889,7 +1147,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T876MQQ011.CKOR",
+   "sub": "800L대",
+   "subn": 870
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고",
@@ -899,7 +1160,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T876MEE041.CKOR",
+   "sub": "800L대",
+   "subn": 860
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스)",
@@ -909,7 +1173,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T876MEE1H1.CKOR",
+   "sub": "800L대",
+   "subn": 870
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (노크온 매직스페이스)",
@@ -919,7 +1186,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T876MEE412.CKOR",
+   "sub": "800L대",
+   "subn": 865
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고",
@@ -929,7 +1199,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "H876GBB011.CKOR",
+   "sub": "800L대",
+   "subn": 870
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (매직스페이스)",
@@ -939,7 +1212,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T876MEE141.CKOR",
+   "sub": "800L대",
+   "subn": 860
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 Fit & Max",
@@ -949,7 +1225,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "G646MEE021.AKOR",
+   "sub": "600L대",
+   "subn": 650
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 Fit & Max (컨버터블 드로어)",
@@ -959,7 +1238,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D646MEE021.CKOR",
+   "sub": "600L대",
+   "subn": 628
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 Fit & Max",
@@ -969,7 +1251,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "G646GBB021.AKOR",
+   "sub": "600L대",
+   "subn": 650
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 Fit & Max",
@@ -979,7 +1264,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "G646GBB071.AKOR",
+   "sub": "600L대",
+   "subn": 635
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 Fit & Max (컨버터블 드로어)",
@@ -989,7 +1277,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "D646GBB071.CKOR",
+   "sub": "600L대",
+   "subn": 616
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 Fit & Max",
@@ -999,7 +1290,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "G646SVV031.AKOR",
+   "sub": "600L대",
+   "subn": 650
   },
   {
    "name": "LG 디오스 오브제컬렉션 STEM 베이직 냉장고 (매직스페이스)",
@@ -1009,7 +1303,10 @@
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "M876GBB161.AKOR",
+   "sub": "800L대",
+   "subn": 854
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -1019,7 +1316,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14U40V-G.AR3WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -1029,7 +1329,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "15U50U-G.AROWK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "17ZD90SU-GXF6K",
@@ -1039,7 +1342,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "17ZD90SU-G.AXF6K",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -1049,7 +1355,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14U40V-G.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램북 AI 2026, Copilot+ PC",
@@ -1059,7 +1368,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16U55U-G.ASOWK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -1069,7 +1381,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14U40V-G.AA5ZK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16Z90SU-GRF6K",
@@ -1079,7 +1394,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90SU-G.ARF6K",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "14ZB90S-GA5WK",
@@ -1089,7 +1407,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14ZB90S-G.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "15ZB90S-GA5WK",
@@ -1099,7 +1420,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "15ZB90S-G.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16ZB90S-GA5WK",
@@ -1109,7 +1433,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16ZB90S-G.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 AI 2026, Copilot+ PC",
@@ -1119,7 +1446,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14Z95U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 AI, Copilot+ PC",
@@ -1129,7 +1459,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90TL-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 AI 2026, Copilot+ PC",
@@ -1139,7 +1472,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "15Z95U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 AI 2026, Copilot+ PC",
@@ -1149,7 +1485,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "14Z90U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 AI 2026, Copilot+ PC",
@@ -1159,7 +1498,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "15Z90U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16ZD90SU-GXF6K",
@@ -1169,7 +1511,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16ZD90SU-G.AXF6K",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16Z90TP-KA5WK",
@@ -1179,7 +1524,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90TP-K.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1189,7 +1537,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1199,7 +1550,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-G.AS5ZK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1209,7 +1563,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z95U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1219,7 +1576,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z95U-G.AS5ZK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1229,7 +1589,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "17Z90U-G.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC + Microsoft 365 Personal (1년권)",
@@ -1239,7 +1602,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z95U-365.GS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC + Microsoft 365 Personal (1년권)",
@@ -1249,7 +1615,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z95U-365.GS5ZK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1259,7 +1628,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-K.AS5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro 360 AI 2026",
@@ -1269,7 +1641,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16T95TP-K.AA5WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16Z90TP-KD7WK",
@@ -1279,7 +1654,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90TP-K.AD7WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1289,7 +1667,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-K.AU7BK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1299,7 +1680,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z95U-G.AU7WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro 360 AI 2026",
@@ -1309,7 +1693,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16T95TP-K.AD7BK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1319,7 +1706,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-K.AU7WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
@@ -1329,7 +1719,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-K.AU7EK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC + Microsoft 365 Personal (1년권)",
@@ -1339,7 +1732,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-365.KU7WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "16Z90TR-ED7WK",
@@ -1349,7 +1745,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90TR-E.AD7WK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC + Microsoft 365 Personal (1년권)",
@@ -1359,7 +1758,10 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "16Z90U-365.KU7EK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "17Z90TR-ED7WK",
@@ -1369,17 +1771,37 @@
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "17Z90TR-E.AD7WK",
+   "sub": "",
+   "subn": 0
   },
   {
-   "name": "LG 울트라기어 게이밍모니터",
+   "name": "LG PC 모니터 FHD",
+   "url": "https://www.lge.co.kr/monitors/32mr50c",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10235826/md10235826-350x350.jpg",
+   "price": 205000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32MR50C",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 게이밍모니터 G5 FHD",
    "url": "https://www.lge.co.kr/monitors/25g520b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10858831/md10858831-350x350.jpg",
    "price": 309000,
    "cat": "모니터",
    "tags": [
-    "닷컴ONLY"
-   ]
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "25G520B",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 울트라기어 게이밍모니터",
@@ -1389,7 +1811,10 @@
    "cat": "모니터",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "27G520B.BKR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 울트라HD 모니터",
@@ -1399,17 +1824,24 @@
    "cat": "모니터",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "27U710B.BKR",
+   "sub": "",
+   "subn": 0
   },
   {
-   "name": "LG 울트라HD 모니터",
+   "name": "LG 울트라HD 모니터 U7 4K",
    "url": "https://www.lge.co.kr/monitors/32u700b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10849830/md10849830-350x350.jpg",
    "price": 449000,
    "cat": "모니터",
    "tags": [
-    "닷컴ONLY"
-   ]
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "32U700B",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 울트라기어 게이밍모니터",
@@ -1419,7 +1851,62 @@
    "cat": "모니터",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "27G64NA.AKRQ",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 게이밍모니터",
+   "url": "https://www.lge.co.kr/monitors/32gs94u",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10531829/md10531829-350x350.jpg",
+   "price": 715200,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32GS94U",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 올레드 게이밍모니터 GX9 WQHD",
+   "url": "https://www.lge.co.kr/monitors/34gx900a",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10625828/md10625828-350x350.jpg",
+   "price": 799800,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "34GX900A",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 올레드 게이밍모니터 4K",
+   "url": "https://www.lge.co.kr/monitors/32gs95uvw",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10461827/md10461827-350x350.jpg",
+   "price": 1254600,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32GS95UVW",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 올레드 게이밍모니터 GX8 4K",
+   "url": "https://www.lge.co.kr/monitors/32gx850a",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10680848/md10680848-350x350.jpg",
+   "price": 1450000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32GX850A",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 울트라기어 AI 게이밍모니터",
@@ -1429,7 +1916,10 @@
    "cat": "모니터",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "25G590B.BKR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -1439,7 +1929,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "TR15DV5.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -1449,7 +1942,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "TR16DV6.AKOR",
+   "sub": "16kg",
+   "subn": 16
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -1459,7 +1955,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T23PX9.AKOR",
+   "sub": "23kg",
+   "subn": 23
   },
   {
    "name": "LG 트롬 세탁기",
@@ -1469,7 +1968,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "F19WDLPR.AKOR2",
+   "sub": "19kg",
+   "subn": 19
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -1479,7 +1981,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T25PX9.AKOR",
+   "sub": "25kg",
+   "subn": 25
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1489,7 +1994,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FG19ENR.AKOR2",
+   "sub": "19kg",
+   "subn": 19
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1499,7 +2007,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FG21WNR.AKOR2",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 통돌이 컴포트 세탁기",
@@ -1509,7 +2020,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "T23OZ9.AKOR",
+   "sub": "23kg",
+   "subn": 23
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1519,7 +2033,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FX24KNTR.AKOR2",
+   "sub": "24kg",
+   "subn": 24
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1529,7 +2046,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FG21VNR.AKOR2",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1539,7 +2059,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FX23VNR.AKOR2",
+   "sub": "23kg",
+   "subn": 23
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
@@ -1549,7 +2072,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FX25WSQR.AKOR2",
+   "sub": "25kg",
+   "subn": 25
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
@@ -1559,7 +2085,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "KX25EA-20EN.AKOR2",
+   "sub": "25kg",
+   "subn": 25
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
@@ -1569,7 +2098,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "KX25GA-20EN.AKOR2",
+   "sub": "25kg",
+   "subn": 25
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
@@ -1579,7 +2111,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "KG24E-20G.AKOR2",
+   "sub": "",
+   "subn": 34
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기",
@@ -1589,7 +2124,10 @@
    "cat": "세탁기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FG24E-20G.AKOR2",
+   "sub": "24kg",
+   "subn": 24
   },
   {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
@@ -1599,7 +2137,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC3GBE52.BKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
@@ -1609,7 +2150,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC3GNE52.BKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
@@ -1619,7 +2163,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC3GNE50.BKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
@@ -1629,7 +2176,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MSR42S.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
@@ -1639,7 +2189,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MRR42S.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
@@ -1649,7 +2202,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MRR62S.BKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 (NEW)",
@@ -1659,7 +2215,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MBR62B.BKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
@@ -1669,7 +2228,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MSR82H.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
@@ -1679,7 +2241,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MBR42CS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
@@ -1689,7 +2254,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5GMR52CS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
@@ -1699,7 +2267,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5GMR80H.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머",
@@ -1709,7 +2280,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MSR82A.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW) + 스티머",
@@ -1719,7 +2293,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MBR82S.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머",
@@ -1729,7 +2306,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5GMR80A.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW) + 스티머",
@@ -1739,7 +2319,10 @@
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "SC5MSR72S.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 스탠바이미 2 Max",
@@ -1749,7 +2332,10 @@
    "cat": "스탠바이미",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "32LX6BEGB.AKR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 식기세척기 (빌트인/12인용)",
@@ -1759,7 +2345,10 @@
    "cat": "식기세척기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DUE1BGL1E.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 식기세척기 (빌트인/12인용)",
@@ -1769,7 +2358,10 @@
    "cat": "식기세척기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DUE4BGL1E.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 식기세척기 (빌트인/14인용)",
@@ -1779,7 +2371,10 @@
    "cat": "식기세척기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DUE6BGL2E.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 식기세척기 (빌트인/14인용)",
@@ -1789,7 +2384,10 @@
    "cat": "식기세척기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DUE6EWL2E.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 식기세척기 (빌트인/14인용)",
@@ -1799,7 +2397,10 @@
    "cat": "식기세척기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DUE6PFL3E.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 힐링미 안마의자 (MX6)",
@@ -1809,7 +2410,10 @@
    "cat": "안마의자",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "MH67BR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 힐링미 안마의자 (MX6)",
@@ -1819,7 +2423,10 @@
    "cat": "안마의자",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "MH65CC",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 힐링미 안마의자 (MX8)",
@@ -1829,7 +2436,10 @@
    "cat": "안마의자",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "MH81CC",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 힐링미 안마의자 (MX8)",
@@ -1839,7 +2449,10 @@
    "cat": "안마의자",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "MH81RR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 벽걸이에어컨 18.7㎡",
@@ -1849,7 +2462,10 @@
    "cat": "에어컨",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "SQ06FA1WDS",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 듀얼쿨 벽걸이에어컨 22.8㎡ 3등급",
@@ -1859,7 +2475,10 @@
    "cat": "에어컨",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "SQ07GS7EAS",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 벽걸이에어컨 31.7㎡",
@@ -1869,7 +2488,10 @@
    "cat": "에어컨",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "SQ10GJ1WAS",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 벽걸이에어컨 18.7㎡ 1등급",
@@ -1879,7 +2501,10 @@
    "cat": "에어컨",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "SQ06GJ1WES",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (1시리즈) ",
@@ -1889,7 +2514,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU1ED1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (1시리즈)",
@@ -1899,7 +2527,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU1EN1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (2시리즈) ",
@@ -1909,7 +2540,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU2ED1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈) ",
@@ -1919,7 +2553,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC1ED1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
@@ -1929,7 +2566,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC1EN1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈) ",
@@ -1939,7 +2579,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC1ED2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
@@ -1949,7 +2592,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC1EY1.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>",
@@ -1959,7 +2605,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU1ED2M.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) + 뷰케이스",
@@ -1969,7 +2618,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU1ET2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (2시리즈) ",
@@ -1979,7 +2631,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GU2ED2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 프로 에어컨 2in1 (3시리즈) ",
@@ -1989,7 +2644,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC3EN2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>",
@@ -1999,7 +2657,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GC1EY2M.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) ",
@@ -2009,7 +2670,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ19GU1ED2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 싱글 (5시리즈) 56.9㎡ 2등급",
@@ -2020,7 +2684,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17FN5BD1",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 싱글 (5시리즈) 매립배관형 56.9㎡ 2등급",
@@ -2031,7 +2698,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17FN5BD1M",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈) 56.9㎡ 2등급",
@@ -2042,7 +2712,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "FQ17FN5BD2",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈) 매립배관형 56.9㎡ 2등급",
@@ -2053,7 +2726,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17FN5BD2M",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰I 에어컨 2in1 (4시리즈)<sup>매립배관형</sup>",
@@ -2063,7 +2739,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GV4ED2M.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰I 에어컨 2in1 (3시리즈)<sup>매립배관형</sup>",
@@ -2073,7 +2752,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GV3ED2M.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰I 프로 에어컨 2in1 (5시리즈)",
@@ -2083,7 +2765,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GV5EN2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 AI 오브제컬렉션 뷰I 프로 에어컨 2in1 (5시리즈)",
@@ -2093,7 +2778,10 @@
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FQ17GV5ED2.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 와인셀러",
@@ -2103,7 +2791,10 @@
    "cat": "와인셀러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W0082GLE.AKOR",
+   "sub": "300L 미만",
+   "subn": 8
   },
   {
    "name": "LG 디오스 오브제컬렉션 와인셀러",
@@ -2113,7 +2804,10 @@
    "cat": "와인셀러",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W1213GG.AKOR",
+   "sub": "300L 미만",
+   "subn": 121
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시콤보",
@@ -2123,7 +2817,10 @@
    "cat": "워시콤보",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FH25KA.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시콤보 + 미니워시",
@@ -2133,7 +2830,10 @@
    "cat": "워시콤보",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "FH25KAX.CKOR",
+   "sub": "",
+   "subn": 4
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트",
@@ -2143,7 +2843,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W1310BN.AKOR1",
+   "sub": "13kg",
+   "subn": 13
   },
   {
    "name": "LG 트롬 워시타워 23/20kg 3등급",
@@ -2153,7 +2856,10 @@
    "cat": "워시타워",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "W2320WANR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트",
@@ -2163,7 +2869,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W1310EGN.AKOR1",
+   "sub": "10kg",
+   "subn": 10
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트",
@@ -2173,7 +2882,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W1310BHN.AKOR1",
+   "sub": "10kg",
+   "subn": 10
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2183,7 +2895,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W2520WZNM.AKOR2",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2193,7 +2908,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W2320VANQR.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2203,7 +2921,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "W20EGZ.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2213,7 +2934,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WL21EGN.AKOR",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2223,7 +2947,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WL21WDU.AKOR",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2233,7 +2960,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WL21EGZU.AKOR",
+   "sub": "21kg",
+   "subn": 21
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -2243,7 +2973,10 @@
    "cat": "워시타워",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WL22EGZU.AKOR",
+   "sub": "22kg",
+   "subn": 22
   },
   {
    "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
@@ -2253,7 +2986,10 @@
    "cat": "전기레인지",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "BEI3HRBLE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
@@ -2264,7 +3000,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "BEI3HSBLE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
@@ -2274,7 +3013,10 @@
    "cat": "전기레인지",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "BEI3HKBLE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
@@ -2285,7 +3027,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "BEI3HKHLE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
@@ -2295,7 +3040,10 @@
    "cat": "전기레인지",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "BEI3HKSLE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션",
@@ -2305,7 +3053,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEI3QKBLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션",
@@ -2315,7 +3066,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEI3ANBLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 인덕션",
@@ -2325,7 +3079,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEI3ASMLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 인덕션",
@@ -2335,7 +3092,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEI3AMBLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션",
@@ -2345,7 +3105,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEF3ANHLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 디오스 인덕션",
@@ -2355,7 +3118,10 @@
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "BEF3ASMLOE.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉정)",
@@ -2366,7 +3132,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD325AHB",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
@@ -2377,7 +3146,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD520AWB",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉온정)",
@@ -2387,7 +3159,10 @@
    "cat": "정수기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WD525AHB.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
@@ -2398,7 +3173,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD520VHT",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기 (빌트인, 냉온정)",
@@ -2408,7 +3186,10 @@
    "cat": "정수기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "WU523AWB",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
@@ -2419,7 +3200,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD523AWB",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
@@ -2430,7 +3214,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD524VHMT",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
@@ -2441,7 +3228,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WD524VHPT",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 냉온정)",
@@ -2451,7 +3241,10 @@
    "cat": "정수기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WD520MH.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
@@ -2462,7 +3255,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD721RE",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
@@ -2473,7 +3269,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WD721RH",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
@@ -2484,7 +3283,10 @@
    "tags": [
     "타임딜",
     "닷컴ONLY"
-   ]
+   ],
+   "model": "WD721RK",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
@@ -2495,7 +3297,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "WD723RH",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 13L 1등급",
@@ -2505,7 +3310,10 @@
    "cat": "제습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "DQ134MWEC",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 18L 1등급",
@@ -2515,7 +3323,10 @@
    "cat": "제습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "DQ185MEGA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기",
@@ -2525,7 +3336,10 @@
    "cat": "제습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DQ154MWGA.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 20L 1등급",
@@ -2536,7 +3350,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "DQ205PEGA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
@@ -2546,7 +3363,10 @@
    "cat": "제습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DQ134MWECS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 18L 1등급",
@@ -2557,7 +3377,10 @@
    "tags": [
     "닷컴ONLY",
     "타임딜"
-   ]
+   ],
+   "model": "DQ185MWGA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 상업용 제습기 35L 3등급",
@@ -2567,7 +3390,10 @@
    "cat": "제습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "DC356SKAA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 21L 1등급",
@@ -2577,7 +3403,10 @@
    "cat": "제습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "DQ214MWGA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
@@ -2587,7 +3416,10 @@
    "cat": "제습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DQ154MWGAS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 23L 1등급",
@@ -2597,7 +3429,10 @@
    "cat": "제습기",
    "tags": [
     "타임딜"
-   ]
+   ],
+   "model": "DQ235MWGA",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
@@ -2607,7 +3442,10 @@
    "cat": "제습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DQ205PEGAS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
@@ -2617,7 +3455,10 @@
    "cat": "제습기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "DQ185MWGAS.AKOR",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 코드제로 오브제컬렉션 A9",
@@ -2627,7 +3468,10 @@
    "cat": "청소기",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "AX948BHE.BKOR1",
+   "sub": "",
+   "subn": 0
   },
   {
    "name": "LG 컨버터블 패키지 오브제컬렉션 Fit & Max (냉장전용고)",
@@ -2637,7 +3481,10 @@
    "cat": "컨버터블 패키지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "X324GB3.AKOR",
+   "sub": "300L대",
+   "subn": 387
   },
   {
    "name": "LG 컨버터블 패키지 오브제컬렉션 Fit & Max (냉동전용고)",
@@ -2647,7 +3494,36 @@
    "cat": "컨버터블 패키지",
    "tags": [
     "닷컴ONLY"
-   ]
+   ],
+   "model": "Y324GB3.AKOR",
+   "sub": "300L대",
+   "subn": 328
+  },
+  {
+   "name": "LG 시네빔 Laser 4K 투사형",
+   "url": "https://www.lge.co.kr/projectors/hu810pw",
+   "img": "https://www.lge.co.kr/kr/images/projectors/md08749625/md08749625-350x350.jpg",
+   "price": 2669100,
+   "cat": "프로젝터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "HU810PW",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 시네빔 Laser 4K 초단초점",
+   "url": "https://www.lge.co.kr/projectors/hu715qp",
+   "img": "https://www.lge.co.kr/kr/images/projectors/md09120827/md09120827-350x350.jpg",
+   "price": 3171300,
+   "cat": "프로젝터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "HU715QP",
+   "sub": "",
+   "subn": 0
   }
  ]
 }
