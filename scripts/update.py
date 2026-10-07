@@ -69,39 +69,61 @@ def parse(html, only_flag=False, tag="타임딜", loose=False):
                         cat=c, tags=[tag] + (["닷컴ONLY"] if only and tag != "닷컴ONLY" else []))
     return out
 
+URLRE = re.compile(r"^(?:https://www\.lge\.co\.kr)?(/[a-z0-9\-]+/[A-Za-z0-9\-_]+)/?(?:\?.*)?$")
+BAD = ("subscri", "month", "rental", "care", "install", "point", "mlb")
+
+def flat(o, out=None):
+    out = {} if out is None else out
+    for k, v in o.items():
+        if isinstance(v, dict): flat(v, out)
+        elif isinstance(v, (str, int, float)): out.setdefault(k, v)
+    return out
+
+def find_products(o, res):
+    if isinstance(o, dict):
+        f = flat(o)
+        url = next((URLRE.match(v).group(1) for v in f.values() if isinstance(v, str) and URLRE.match(v) and not re.search(r"\.(jpg|png|webp|svg)", v)), None)
+        prices = []
+        for k, v in f.items():
+            if "price" in k.lower() and not any(w in k.lower() for w in BAD):
+                try: n = int(float(str(v).replace(",", "")))
+                except Exception: continue
+                if n >= 10000: prices.append(n)
+        if url and prices and B + url not in res:
+            img = next((v for v in f.values() if isinstance(v, str) and re.search(r"\.(jpg|jpeg|png|webp)", v) and ("/kr/" in v or v.startswith("http"))), "")
+            names = [v for k, v in f.items() if isinstance(v, str) and ("name" in k.lower() or "title" in k.lower()) and len(v) >= 5 and not URLRE.match(v)]
+            name = max(names, key=len) if names else url
+            img = (B + img if img.startswith("/") else img)
+            res[B + url] = dict(name=name, url=B + url, img=img, price=min(prices),
+                                cat=SLUG.get(url.split("/")[1], "기타"), tags=["닷컴ONLY"])
+        for v in o.values(): find_products(v, res)
+    elif isinstance(o, list):
+        for v in o: find_products(v, res)
+
 def search_only():
     from playwright.sync_api import sync_playwright
+    res, raw, pages = {}, "", 0
     with sync_playwright() as p:
         b = p.chromium.launch()
-        pg = b.new_page(user_agent=UA["User-Agent"], viewport={"width": 430, "height": 900})
-        urls = []
-        pg.on("response", lambda r: urls.append(r.url[:140]) if "searchsvc" in r.url else None)
-        pg.goto(B + "/sch?keyword=" + urllib.parse.quote("닷컴ONLY") + "&tab=all", wait_until="networkidle", timeout=90000)
-        try:
-            pg.get_by_text(re.compile(r"^제품")).first.click(timeout=4000); pg.wait_for_timeout(2000)
-        except Exception:
-            pass
-        last, same = -1, 0
-        for _ in range(300):
-            pg.mouse.wheel(0, 8000); pg.wait_for_timeout(1000)
-            try: pg.get_by_role("button", name=re.compile("더보기")).first.click(timeout=600)
-            except Exception: pass
-            n = pg.locator("li:has(img)").count()
-            same = same + 1 if n == last else 0
-            last = n
-            if same >= 8: break
-        html = pg.content(); b.close()
-    d = parse(html, only_flag=False, tag="닷컴ONLY", loose=True)
-    z = BeautifulSoup(html, "html.parser")
-    for t in z(["script", "style", "head"]):
-        t.decompose()
-    sample = next(iter(d.values()), None)
-    status["debug"] = {"counts": "수집 %d, 상품링크 %d, li %d, img %d, 스크롤 %d회" % (
-        len(d), len([x for x in z.find_all("a", href=True) if PAT.match(x["href"])]), len(z.find_all("li")), len(z.find_all("img")), _ + 1),
-        "sample": sample, "api_urls": sorted(set(urls))[:25]}
-    if not d:
+        pg = b.new_page(user_agent=UA["User-Agent"])
+        kw = urllib.parse.quote("닷컴ONLY")
+        pg.goto(B + "/sch?keyword=" + kw + "&tab=all", wait_until="networkidle", timeout=90000)
+        H = {"Origin": B, "Referer": B + "/", "Accept": "application/json"}
+        for page in range(1, 80):
+            u = "https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product?keyword=%s&attrs=&sort=BEST&page=%d&size=100" % (kw, page)
+            r = pg.context.request.get(u, headers=H, timeout=60000)
+            txt = r.text()
+            if page == 1: raw = "HTTP %s " % r.status + txt[:1500]
+            before = len(res)
+            try: find_products(json.loads(txt), res)
+            except Exception: break
+            pages = page
+            if len(res) == before: break
+        b.close()
+    status["debug"] = {"count": "수집 %d, 페이지 %d" % (len(res), pages), "raw": raw if not res else raw[:300]}
+    if not res:
         status["errors"].append("닷컴ONLY 0건 - 진단 저장됨")
-    return d
+    return res
 
 items, status = {}, {"errors": []}
 def merge(d):
