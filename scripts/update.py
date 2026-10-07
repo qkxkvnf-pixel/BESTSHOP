@@ -148,6 +148,32 @@ def search_only():
         status["errors"].append("닷컴ONLY 0건 - 진단 저장됨")
     return res
 
+FR = ("냉장고", "김치냉장고", "컨버터블 패키지", "와인셀러")
+WS = ("세탁기", "건조기", "워시타워", "워시콤보")
+
+def enrich(v):
+    m = (v.get("model") or v["url"].split("/")[-1].split("-")[0]).upper()
+    v["model"] = m
+    t = v.pop("txt", "") + " " + v["name"]
+    c, sub, n = v["cat"], "", 0
+    if c == "TV":
+        x, cm = re.match(r"(\d{2,3})", m), re.search(r"(\d{2,3})\s*cm", t)
+        n = int(x.group(1)) if x and 20 <= int(x.group(1)) <= 110 else (min([24, 28, 32, 43, 48, 50, 55, 65, 75, 77, 83, 85, 86, 97, 98], key=lambda z: abs(z - int(cm.group(1)) / 2.54)) if cm else 0)
+        sub = "%d인치" % n if n else ""
+    elif c == "노트북":
+        x, cm = re.match(r"(\d{2})", m), re.search(r"(\d{2}(?:\.\d)?)\s*cm", t)
+        n = int(x.group(1)) if x and 11 <= int(x.group(1)) <= 18 else (round(float(cm.group(1)) / 2.54) if cm else 0)
+        sub = "%d인치" % n if 11 <= n <= 18 else ""
+    elif c in FR:
+        x = re.search(r"(\d{3,4})\s*L\b", t) or re.match(r"[A-Z]{1,2}(\d{3})", m)
+        n = int(x.group(1)) if x else 0
+        sub = ("300L 미만" if n < 300 else "%dL대" % (n // 100 * 100)) if n else ""
+    elif c in WS:
+        x = re.search(r"(\d{1,2})\s*kg", t, re.I) or re.match(r"[A-Z]{1,2}(\d{2})", m)
+        n = int(x.group(1)) if x else 0
+        sub = "%dkg" % n if 5 <= n <= 30 else ""
+    v["sub"], v["subn"] = sub, n
+
 items, status = {}, {"errors": []}
 def merge(d):
     for u, v in d.items():
