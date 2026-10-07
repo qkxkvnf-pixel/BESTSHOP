@@ -1,27 +1,28 @@
 {
- "updated": "2026-10-07 08:58",
+ "updated": "2026-10-07 09:01",
  "status": {
   "errors": [
-   "진단 저장됨"
+   "닷컴ONLY 0건 - 진단 저장됨"
   ],
   "timedeal": 53,
   "debug": {
-   "ONLY_in_body": "<button type=\"button\"><span class=\"CommonPcSearchLayer_line_area__VF8O5\"><span class=\"CommonPcSearchLayer_search_word__6n0z7\">닷컴ONLY </span>세탁기</span><span class=\"CommonPcSearchLayer_type__WKALr\"></span></button>",
-   "first_product_link": "<ul class=\"mp_shortcut\"><li><a href=\"/sso/member/login\" rel=\"noopener\" target=\"_self\">로그인<i class=\"CommonPcGnb_go_out__F_Mvw\"></i></a></li><li><a href=\"/sso/member/join?client_id=lgcom-main-integration&amp;redirect_uri=https://www.lge.co.kr/sso/member/login?state=/\" rel=\"noopener\" target=\"_self\">회원가입<i class=\"CommonPcGnb_go_out__F_Mvw\"></i></a></li><li><a href=\"https://www.lge.co.kr/guest-order-and-delivery-status\" rel=\"noopener\" target=\"_self\">주문/배송/구독 조회<i class=\"CommonPcGnb_go_out__F_Mvw\"></i></a></li><li><a href=\"https://www.lge.co.kr/benefits/newMembership\" rel=\"noopener\" target=\"_self\">멤버십<i class=\"CommonPcGnb_go_out__F_Mvw\"></i></a></li><li><a href=\"https://www.lge.co.kr/my-page/manage-products\" rel=\"noopener\" target=\"_self\">보유제품 관리<i class=\"CommonPcGnb_go_out__F_Mvw\"></i></a></li></ul>",
-   "counts": "상품링크 97, 카드 97, li 480, img 65",
-   "json_urls": [
-    "https://gum.criteo.com/sid/json?origin=onetag&domain=lge.co.kr&sn=ChromeSyncframe&so=undefined&topUrl=www.lge.co.kr",
-    "https://static.lge.co.kr/event/eventDspEventFlag.json",
-    "https://static.lge.co.kr/event/eventDspEventFlag.json",
-    "https://www.lge.co.kr/kr/lottie/pc_AIchat_56x56.json",
-    "https://apiv2.lge.co.kr/commonsvc/ajax/v1/gnb/esg-menu",
-    "https://apiv2.lge.co.kr/commonsvc/ajax/v1/common/message?code=netfunnel_flag&locale=ko_KR",
+   "counts": "수집 0, 상품링크 97, li 480, img 65, 스크롤 9회",
+   "sample": null,
+   "api_urls": [
     "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/ai/briefing-user-prompt?keyword=%EB%8B%B7%EC%BB%B4ONLY",
-    "https://apiv2.lge.co.kr/commonsvc/ajax/v1/gnb/mypage-menu",
-    "https://apiv2.lge.co.kr/commonsvc/ajax/v1/gnb/company-menu",
-    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/spt-psp-cst-sm-model-count?keyword=%EB%8B%B7%EC%BB%B4ONLY",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/category-link?keyword=%EB%8B%B7%EC%BB%B4ONLY",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/log-keyword-history-save",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/lyr-autocomplete?keyword=%EB%8B%B7%EC%BB%B4ONLY&page=1&size=10",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/lyr-recommend-keyword",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/product-quick-filter?keyword=%EB%8B%B7%EC%BB%B4ONLY",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/promotion-banner-count?keyword=%EB%8B%B7%EC%BB%B4ONLY",
     "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/promotion-model-count?keyword=%EB%8B%B7%EC%BB%B4ONLY",
-    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/promotion-banner-count?keyword=%EB%8B%B7%EC%BB%B4ONLY"
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/site-faq/count?keyword=%EB%8B%B7%EC%BB%B4ONLY",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/site-faq/list?keyword=%EB%8B%B7%EC%BB%B4ONLY&page=1&size=5",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v1/search/spt-psp-cst-sm-model-count?keyword=%EB%8B%B7%EC%BB%B4ONLY",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product-count?keyword=%EB%8B%B7%EC%BB%B4ONLY&sort=BEST&page=1&size=20",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product-count?keyword=%EB%8B%B7%EC%BB%B4ONLY&sort=BEST&page=1&size=4",
+    "https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product?keyword=%EB%8B%B7%EC%BB%B4ONLY&attrs=&sort=BEST&page=1&size=4"
    ]
   },
   "only": 0
