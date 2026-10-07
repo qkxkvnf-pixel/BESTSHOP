@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-07 19:06",
+ "updated": "2026-10-07 20:05",
  "status": {
   "errors": [],
-  "timedeal": 73,
+  "timedeal": 74,
   "debug": {
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규29 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-07T19:05:58.2085120\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-07T20:05:23.8815930\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -83,7 +83,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 5,
-   "stock": 39,
+   "stock": 36,
    "sub": "65인치",
    "subn": 65
   },
@@ -128,7 +128,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 5,
-   "stock": 49,
+   "stock": 48,
    "sub": "55인치",
    "subn": 55
   },
@@ -214,7 +214,7 @@
    ],
    "model": "OLED65C5ENA",
    "dday": 5,
-   "stock": 32,
+   "stock": 31,
    "sub": "65인치",
    "subn": 65
   },
@@ -463,7 +463,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 4,
-   "stock": 113,
+   "stock": 112,
    "sub": "",
    "subn": 0
   },
@@ -478,7 +478,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 4,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -509,7 +509,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 112,
+   "stock": 108,
    "sub": "",
    "subn": 0
   },
@@ -2445,6 +2445,21 @@
    "subn": 0
   },
   {
+   "name": "LG 힐링미 오브제컬렉션 안마의자 (아르테)",
+   "url": "https://www.lge.co.kr/massage-chairs/mh20br",
+   "img": "https://www.lge.co.kr/kr/images/massage-chairs/md10343826/md10343826-350x350.jpg",
+   "price": 1664700,
+   "cat": "안마의자",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "MH20BR",
+   "dday": 11,
+   "stock": 89,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 힐링미 안마의자 (MX6)",
    "url": "https://www.lge.co.kr/massage-chairs/mh65cc",
    "img": "https://www.lge.co.kr/kr/images/massage-chairs/md09925826/md09925826-350x350.jpg",
@@ -2560,7 +2575,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 4,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -2607,7 +2622,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 4,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -2736,7 +2751,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 4,
-   "stock": 37,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -2862,7 +2877,7 @@
    ],
    "model": "FQ17FN5BD2",
    "dday": 4,
-   "stock": 6,
+   "stock": 5,
    "sub": "",
    "subn": 0
   },
@@ -3567,7 +3582,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 109,
+   "stock": 107,
    "sub": "",
    "subn": 0
   },
@@ -3597,7 +3612,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 4,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -3627,7 +3642,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 4,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
