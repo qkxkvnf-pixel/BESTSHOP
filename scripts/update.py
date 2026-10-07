@@ -37,6 +37,14 @@ def cards(s, loose):
             seen.add(id(n)); out.append(n)
     return out
 
+def dd(t):
+    r = {}
+    m = re.search(r"D-(\d+|DAY)", t)
+    if m: r["dday"] = 0 if m.group(1) == "DAY" else int(m.group(1))
+    m = re.search(r"(\d+)\s*개 남음", t)
+    if m: r["stock"] = int(m.group(1))
+    return r
+
 def parse(html, only_flag=False, tag="타임딜", loose=False):
     s, out = BeautifulSoup(html, "html.parser"), {}
     for li in cards(s, loose):
@@ -67,7 +75,7 @@ def parse(html, only_flag=False, tag="타임딜", loose=False):
         c = SLUG.get(slug) or ("기타" if loose else (re.sub(r"\d+개$", "", h.get_text(strip=True)) if h else slug))
         out[url] = dict(name=name, url=url, img=(B + img if img.startswith("/") else img), price=price,
                         cat=c, tags=[tag] + (["닷컴ONLY"] if only and tag != "닷컴ONLY" else []),
-                        model=(re.search(r"\b(?=[A-Z0-9\-\.]*\d)(?=[A-Z0-9\-\.]*[A-Z])[A-Z0-9][A-Z0-9\-\.]{5,}\b", t) or [""])[0], txt=t[:1500])
+                        model=(re.search(r"\b(?=[A-Z0-9\-\.]*\d)(?=[A-Z0-9\-\.]*[A-Z])[A-Z0-9][A-Z0-9\-\.]{5,}\b", t) or [""])[0], txt=t[:1500], **dd(t))
     return out
 
 URLRE = re.compile(r"^(?:https://www\.lge\.co\.kr)?(/[a-z0-9\-]+/[A-Za-z0-9\-_]+)/?(?:\?.*)?$")
@@ -104,50 +112,41 @@ def find_products(o, res):
 
 def search_only():
     from playwright.sync_api import sync_playwright
-    res, raw, pages = {}, "", 0
+    res, log, fail, cnt, keys = {}, [], "", "", ""
     with sync_playwright() as p:
         b = p.chromium.launch()
         pg = b.new_page(user_agent=UA["User-Agent"])
         kw = urllib.parse.quote("닷컴ONLY")
         pg.goto(B + "/sch?keyword=" + kw + "&tab=all", wait_until="networkidle", timeout=90000)
         H = {"Origin": B, "Referer": B + "/", "Accept": "application/json"}
+        try:
+            cnt = pg.context.request.get("https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product-count?keyword=%s&sort=BEST&page=1&size=20" % kw, headers=H, timeout=60000).text()[:400]
+        except Exception as e:
+            cnt = str(e)[:200]
+        stale = 0
         for page in range(1, 80):
             u = "https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product?keyword=%s&attrs=&sort=BEST&page=%d&size=100" % (kw, page)
-            r = pg.context.request.get(u, headers=H, timeout=60000)
-            txt = r.text()
-            if page == 1: raw = "HTTP %s " % r.status + txt[:1500]
-            before = len(res)
-            try: find_products(json.loads(txt), res)
-            except Exception: break
-            pages = page
-            if len(res) == before: break
+            txt = pg.context.request.get(u, headers=H, timeout=60000).text()
+            try: j = json.loads(txt)
+            except Exception: log.append("p%d:JSON아님" % page); break
+            d = j.get("data") if isinstance(j, dict) else None
+            lst = d.get("list") if isinstance(d, dict) else None
+            if page == 1 and isinstance(d, dict): keys = ",".join("%s=%s" % (k, v) for k, v in d.items() if not isinstance(v, (list, dict)))[:300]
+            n, new = (len(lst) if isinstance(lst, list) else -1), 0
+            for el in (lst if isinstance(lst, list) else [j]):
+                tmp = {}
+                find_products(el, tmp)
+                if not tmp and not fail: fail = json.dumps(el, ensure_ascii=False)[:800]
+                for k, v in tmp.items():
+                    if k not in res: res[k] = v; new += 1
+            log.append("p%d:목록%d/신규%d" % (page, n, new))
+            stale = stale + 1 if new == 0 else 0
+            if n == 0 or stale >= 3: break
         b.close()
-    status["debug"] = {"count": "수집 %d, 페이지 %d" % (len(res), pages), "raw": raw if not res else raw[:300]}
+    status["debug"] = {"count": "수집 %d" % len(res), "pages": " ".join(log), "info": keys, "total_api": cnt, "fail_sample": fail}
     if not res:
         status["errors"].append("닷컴ONLY 0건 - 진단 저장됨")
     return res
-
-FR = ("냉장고", "김치냉장고", "컨버터블 패키지", "와인셀러")
-WS = ("세탁기", "건조기", "워시타워", "워시콤보")
-
-def enrich(v):
-    m = (v.get("model") or v["url"].split("/")[-1].split("-")[0]).upper()
-    v["model"] = m
-    t = v.pop("txt", "") + " " + v["name"]
-    c, sub, n = v["cat"], "", 0
-    if c == "TV":
-        x, cm = re.match(r"(\d{2,3})", m), re.search(r"(\d{2,3})\s*cm", t)
-        n = int(x.group(1)) if x and 20 <= int(x.group(1)) <= 110 else (min([24, 28, 32, 43, 48, 50, 55, 65, 75, 77, 83, 85, 86, 97, 98], key=lambda z: abs(z - int(cm.group(1)) / 2.54)) if cm else 0)
-        sub = "%d인치" % n if n else ""
-    elif c in FR:
-        x = re.search(r"(\d{3,4})\s*L\b", t) or re.match(r"[A-Z]{1,2}(\d{3})", m)
-        n = int(x.group(1)) if x else 0
-        sub = ("300L 미만" if n < 300 else "%dL대" % (n // 100 * 100)) if n else ""
-    elif c in WS:
-        x = re.search(r"(\d{1,2})\s*kg", t, re.I) or re.match(r"[A-Z]{1,2}(\d{2})", m)
-        n = int(x.group(1)) if x else 0
-        sub = "%dkg" % n if 5 <= n <= 30 else ""
-    v["sub"], v["subn"] = sub, n
 
 items, status = {}, {"errors": []}
 def merge(d):
@@ -156,6 +155,8 @@ def merge(d):
             items[u]["tags"] = sorted(set(items[u]["tags"] + v["tags"]))
             items[u]["price"] = min(items[u]["price"], v["price"])
             items[u]["img"] = items[u]["img"] or v["img"]
+            for k in ("dday", "stock"):
+                if k in v: items[u][k] = v[k]
             items[u]["model"] = items[u].get("model") or v.get("model", "")
             items[u]["txt"] = items[u].get("txt", "") + " " + v.get("txt", "")
         else:
