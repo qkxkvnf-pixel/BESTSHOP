@@ -66,7 +66,8 @@ def parse(html, only_flag=False, tag="타임딜", loose=False):
         slug = url.split("/")[3]
         c = SLUG.get(slug) or ("기타" if loose else (re.sub(r"\d+개$", "", h.get_text(strip=True)) if h else slug))
         out[url] = dict(name=name, url=url, img=(B + img if img.startswith("/") else img), price=price,
-                        cat=c, tags=[tag] + (["닷컴ONLY"] if only and tag != "닷컴ONLY" else []))
+                        cat=c, tags=[tag] + (["닷컴ONLY"] if only and tag != "닷컴ONLY" else []),
+                        model=(re.search(r"\b(?=[A-Z0-9\-\.]*\d)(?=[A-Z0-9\-\.]*[A-Z])[A-Z0-9][A-Z0-9\-\.]{5,}\b", t) or [""])[0], txt=t[:1500])
     return out
 
 URLRE = re.compile(r"^(?:https://www\.lge\.co\.kr)?(/[a-z0-9\-]+/[A-Za-z0-9\-_]+)/?(?:\?.*)?$")
@@ -95,7 +96,8 @@ def find_products(o, res):
             name = max(names, key=len) if names else url
             img = (B + img if img.startswith("/") else img)
             res[B + url] = dict(name=name, url=B + url, img=img, price=min(prices),
-                                cat=SLUG.get(url.split("/")[1], "기타"), tags=["닷컴ONLY"])
+                                cat=SLUG.get(url.split("/")[1], "기타"), tags=["닷컴ONLY"], model=str(f.get("sku") or f.get("salesModelCode") or ""),
+                                txt=" ".join(str(x) for x in f.values() if isinstance(x, str))[:1500])
         for v in o.values(): find_products(v, res)
     elif isinstance(o, list):
         for v in o: find_products(v, res)
@@ -125,6 +127,28 @@ def search_only():
         status["errors"].append("닷컴ONLY 0건 - 진단 저장됨")
     return res
 
+FR = ("냉장고", "김치냉장고", "컨버터블 패키지", "와인셀러")
+WS = ("세탁기", "건조기", "워시타워", "워시콤보")
+
+def enrich(v):
+    m = (v.get("model") or v["url"].split("/")[-1].split("-")[0]).upper()
+    v["model"] = m
+    t = v.pop("txt", "") + " " + v["name"]
+    c, sub, n = v["cat"], "", 0
+    if c == "TV":
+        x, cm = re.match(r"(\d{2,3})", m), re.search(r"(\d{2,3})\s*cm", t)
+        n = int(x.group(1)) if x and 20 <= int(x.group(1)) <= 110 else (min([24, 28, 32, 43, 48, 50, 55, 65, 75, 77, 83, 85, 86, 97, 98], key=lambda z: abs(z - int(cm.group(1)) / 2.54)) if cm else 0)
+        sub = "%d인치" % n if n else ""
+    elif c in FR:
+        x = re.search(r"(\d{3,4})\s*L\b", t) or re.match(r"[A-Z]{1,2}(\d{3})", m)
+        n = int(x.group(1)) if x else 0
+        sub = ("300L 미만" if n < 300 else "%dL대" % (n // 100 * 100)) if n else ""
+    elif c in WS:
+        x = re.search(r"(\d{1,2})\s*kg", t, re.I) or re.match(r"[A-Z]{1,2}(\d{2})", m)
+        n = int(x.group(1)) if x else 0
+        sub = "%dkg" % n if 5 <= n <= 30 else ""
+    v["sub"], v["subn"] = sub, n
+
 items, status = {}, {"errors": []}
 def merge(d):
     for u, v in d.items():
@@ -132,6 +156,8 @@ def merge(d):
             items[u]["tags"] = sorted(set(items[u]["tags"] + v["tags"]))
             items[u]["price"] = min(items[u]["price"], v["price"])
             items[u]["img"] = items[u]["img"] or v["img"]
+            items[u]["model"] = items[u].get("model") or v.get("model", "")
+            items[u]["txt"] = items[u].get("txt", "") + " " + v.get("txt", "")
         else:
             items[u] = v
 
@@ -148,6 +174,8 @@ for v in list(items.values())[:200]:
         try:
             m = re.search(r'property="og:image"\s+content="([^"]+)"', get(v["url"])); v["img"] = m.group(1) if m else ""
         except Exception: pass
+for v in items.values():
+    enrich(v)
 if items:
     kst = datetime.timezone(datetime.timedelta(hours=9))
     json.dump({"updated": datetime.datetime.now(kst).strftime("%Y-%m-%d %H:%M"), "status": status,
