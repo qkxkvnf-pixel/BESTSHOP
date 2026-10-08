@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08 14:05",
+ "updated": "2026-10-08 15:05",
  "status": {
   "errors": [],
   "timedeal": 72,
@@ -7,7 +7,7 @@
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-08T14:04:56.3602241\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-08T15:05:37.2454926\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -46,12 +46,25 @@
    "price": 762600,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "타임딜",
+    "닷컴ONLY"
    ],
    "model": "55NU850BENA",
    "dday": 4,
-   "stock": 61,
+   "stock": 60,
+   "sub": "55인치",
+   "subn": 55
+  },
+  {
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/55nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799854/md10799854-350x350.jpg",
+   "price": 850000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "55NU850BEW.AKRG",
    "sub": "55인치",
    "subn": 55
   },
@@ -67,7 +80,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 4,
-   "stock": 47,
+   "stock": 45,
    "sub": "65인치",
    "subn": 65
   },
@@ -96,7 +109,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 4,
-   "stock": 28,
+   "stock": 26,
    "sub": "65인치",
    "subn": 65
   },
@@ -154,7 +167,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 4,
-   "stock": 27,
+   "stock": 26,
    "sub": "55인치",
    "subn": 55
   },
@@ -165,25 +178,25 @@
    "price": 1618200,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "타임딜",
+    "닷컴ONLY"
    ],
    "model": "85NU850BENA",
    "dday": 4,
-   "stock": 38,
+   "stock": 37,
    "sub": "85인치",
    "subn": 85
   },
   {
-   "name": "LG QNED evo AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/65qned8mbea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10903838/md10903838-350x350.jpg",
+   "name": "LG QNED evo AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/65qned8mbea-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10903837/md10903837-350x350.jpg",
    "price": 1740000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "65QNED8MBEW.AKRG",
+   "model": "65QNED8MBES.AKRG",
    "sub": "65인치",
    "subn": 65
   },
@@ -214,6 +227,19 @@
    "model": "75QNED65BBW.AKRG",
    "sub": "75인치",
    "subn": 75
+  },
+  {
+   "name": "LG NANO 4K UHD AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/85nu850bena-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799847/md10799847-350x350.jpg",
+   "price": 1840000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "85NU850BES.AKRG",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG 나노셀 AI (벽걸이형)",
@@ -300,19 +326,6 @@
   },
   {
    "name": "LG QNED evo AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
-   "price": 3090000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "85QNED8MBEW.AKRG",
-   "sub": "85인치",
-   "subn": 85
-  },
-  {
-   "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/75qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654836/md10654836-350x350.jpg",
    "price": 3090000,
@@ -323,6 +336,19 @@
    "model": "75QNED92AGW.AKRQ",
    "sub": "75인치",
    "subn": 75
+  },
+  {
+   "name": "LG QNED evo AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
+   "price": 3090000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "85QNED8MBEW.AKRG",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG 올레드 AI (벽걸이형) B6 194cm",
@@ -336,7 +362,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 4,
-   "stock": 23,
+   "stock": 22,
    "sub": "77인치",
    "subn": 77
   },
@@ -379,7 +405,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 3,
-   "stock": 66,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -535,7 +561,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 3,
-   "stock": 74,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
@@ -1388,19 +1414,6 @@
   },
   {
    "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1290000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "14U40V-G.AR3WK",
-   "sub": "14인치",
-   "subn": 14
-  },
-  {
-   "name": "LG 그램북 AI 2026",
    "url": "https://www.lge.co.kr/notebook/15u50u-growk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10740831/md10740831-350x350.jpg",
    "price": 1290000,
@@ -1411,6 +1424,19 @@
    "model": "15U50U-G.AROWK",
    "sub": "15인치",
    "subn": 15
+  },
+  {
+   "name": "LG 그램북 AI 2026",
+   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
+   "price": 1290000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "14U40V-G.AR3WK",
+   "sub": "14인치",
+   "subn": 14
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -1912,7 +1938,7 @@
    ],
    "model": "32GS95UVW",
    "dday": 4,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -1927,7 +1953,7 @@
    ],
    "model": "32GX850A",
    "dday": 4,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -1946,19 +1972,6 @@
   },
   {
    "name": "LG 통돌이 세탁기",
-   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
-   "price": 520000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "TR15DV5.AKOR",
-   "sub": "15kg",
-   "subn": 15
-  },
-  {
-   "name": "LG 통돌이 세탁기",
    "url": "https://www.lge.co.kr/washing-machines/tr16dv6",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10578832/md10578832-350x350.jpg",
    "price": 520000,
@@ -1969,6 +1982,19 @@
    "model": "TR16DV6.AKOR",
    "sub": "16kg",
    "subn": 16
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
+   "price": 520000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "TR15DV5.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -2102,19 +2128,6 @@
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/washing-machines/kx25ea-20en-akor2",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476831/md10476831-350x350.jpg",
-   "price": 3590000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KX25EA-20EN.AKOR2",
-   "sub": "25kg",
-   "subn": 25
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
    "url": "https://www.lge.co.kr/washing-machines/kx25ga-20en-akor2",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476830/md10476830-350x350.jpg",
    "price": 3590000,
@@ -2123,6 +2136,19 @@
     "닷컴ONLY"
    ],
    "model": "KX25GA-20EN.AKOR2",
+   "sub": "25kg",
+   "subn": 25
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
+   "url": "https://www.lge.co.kr/washing-machines/kx25ea-20en-akor2",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476831/md10476831-350x350.jpg",
+   "price": 3590000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "KX25EA-20EN.AKOR2",
    "sub": "25kg",
    "subn": 25
   },
@@ -2511,7 +2537,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 3,
-   "stock": 87,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -2618,7 +2644,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 3,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -2873,7 +2899,7 @@
    ],
    "model": "FQ17FN5BD2",
    "dday": 3,
-   "stock": 5,
+   "stock": 4,
    "sub": "",
    "subn": 0
   },
@@ -3021,7 +3047,7 @@
    ],
    "model": "W2320WANR",
    "dday": 10,
-   "stock": 25,
+   "stock": 23,
    "sub": "20kg",
    "subn": 20
   },
@@ -3505,7 +3531,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 3,
-   "stock": 75,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -3520,7 +3546,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 3,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
