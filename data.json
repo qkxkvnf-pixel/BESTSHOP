@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-08 13:05",
+ "updated": "2026-10-08 14:05",
  "status": {
   "errors": [],
-  "timedeal": 73,
+  "timedeal": 72,
   "debug": {
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-08T13:05:08.2267236\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-08T14:04:56.3602241\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -51,7 +51,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 4,
-   "stock": 62,
+   "stock": 61,
    "sub": "55인치",
    "subn": 55
   },
@@ -67,7 +67,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 4,
-   "stock": 48,
+   "stock": 47,
    "sub": "65인치",
    "subn": 65
   },
@@ -154,7 +154,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 4,
-   "stock": 28,
+   "stock": 27,
    "sub": "55인치",
    "subn": 55
   },
@@ -336,7 +336,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 4,
-   "stock": 24,
+   "stock": 23,
    "sub": "77인치",
    "subn": 77
   },
@@ -379,7 +379,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 3,
-   "stock": 68,
+   "stock": 66,
    "sub": "",
    "subn": 0
   },
@@ -489,7 +489,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 3,
-   "stock": 101,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -504,7 +504,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 3,
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -535,7 +535,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 3,
-   "stock": 76,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -1887,21 +1887,6 @@
    "subn": 0
   },
   {
-   "name": "LG 울트라기어 게이밍모니터",
-   "url": "https://www.lge.co.kr/monitors/32gs94u",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10531829/md10531829-350x350.jpg",
-   "price": 715200,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "32GS94U",
-   "dday": 4,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 울트라기어 올레드 게이밍모니터 GX9 WQHD",
    "url": "https://www.lge.co.kr/monitors/34gx900a",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10625828/md10625828-350x350.jpg",
@@ -1942,7 +1927,7 @@
    ],
    "model": "32GX850A",
    "dday": 4,
-   "stock": 49,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -2451,7 +2436,7 @@
    ],
    "model": "MH67BR",
    "dday": 10,
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -2466,7 +2451,7 @@
    ],
    "model": "MH20BR",
    "dday": 10,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -2526,7 +2511,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 3,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -2665,7 +2650,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 3,
-   "stock": 44,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -2775,7 +2760,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 3,
-   "stock": 36,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -3336,7 +3321,7 @@
    ],
    "model": "WD520AWB",
    "dday": 10,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -3365,7 +3350,7 @@
    ],
    "model": "WD520VHT",
    "dday": 10,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -3564,7 +3549,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 3,
-   "stock": 105,
+   "stock": 104,
    "sub": "",
    "subn": 0
   },
