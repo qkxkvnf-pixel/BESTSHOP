@@ -7,7 +7,7 @@
 #lock{max-width:320px;margin:30vh auto;padding:0 20px;text-align:center}
 input,button{font:inherit;padding:11px 14px;border:1px solid var(--ln);border-radius:8px;background:var(--bg);color:var(--tx);width:100%;margin-top:10px}
 button{background:var(--rd);color:#fff;border:0;font-weight:600}
-#app{display:none}header{padding:14px 16px 0;position:sticky;top:0;background:var(--bg)}
+#app{display:block}header{padding:14px 16px 0;position:sticky;top:0;background:var(--bg)}
 h1{font-size:17px;margin:0 0 4px}#meta{color:var(--mu);font-size:12px}
 #tabs,#stabs{display:flex;gap:6px;overflow-x:auto;padding:10px 0;border-bottom:1px solid var(--ln)}
 #tabs b,#stabs b{white-space:nowrap;padding:6px 12px;border-radius:99px;border:1px solid var(--ln);font-weight:500;cursor:pointer}
@@ -17,20 +17,24 @@ a.it{display:flex;gap:14px;padding:14px 16px;border-bottom:1px solid var(--ln);c
 #sbar{padding:8px 0 10px}select{width:auto;margin:0;padding:6px 10px;font-size:13px}.dd{color:var(--rd);font-weight:700;font-size:12px;margin-left:6px}.md{font-size:12px;color:var(--mu)}.nm{font-size:14px}.pr{font-size:18px;font-weight:700;margin-top:2px}.tg{font-size:11px;color:var(--rd);font-weight:600}
 #adm{display:none;margin:10px 16px;padding:10px;border:1px dashed var(--ln);border-radius:8px;font-size:12px;color:var(--mu)}
 </style></head><body>
-<div id="lock"><h1>베스트샵 전용</h1><input id="pw" type="password" placeholder="비밀번호" autocomplete="current-password"><button onclick="login()">입장</button><div id="err" style="color:var(--rd);margin-top:8px"></div></div>
-<div id="app"><header><h1>닷컴ONLY · 타임딜</h1><div id="meta"></div><div id="tabs"></div><div id="stabs"></div><div id="sbar"><select id="so" onchange="draw()"><option value="df">기본 정렬</option><option value="dd">마감 임박순</option><option value="pa">가격 낮은순</option><option value="pd">가격 높은순</option><option value="ma">모델명 A→Z</option><option value="md">모델명 Z→A</option></select></div></header><div id="adm"></div><div id="list"></div></div>
+<div id="app"><header><div style="display:flex;justify-content:space-between;align-items:center"><h1>닷컴ONLY · 타임딜</h1><button id="ab" onclick="adminBtn()" style="width:auto;margin:0;padding:6px 12px;font-size:12px;background:var(--bg);color:var(--mu);border:1px solid var(--ln);font-weight:500">관리자 로그인</button></div><div id="meta"></div><div id="tabs"></div><div id="stabs"></div><div id="sbar"><select id="so" onchange="draw()"><option value="df">기본 정렬</option><option value="dd">마감 임박순</option><option value="pa">가격 낮은순</option><option value="pd">가격 높은순</option><option value="ma">모델명 A→Z</option><option value="md">모델명 Z→A</option></select></div></header><div id="adm"></div><div id="list"></div></div>
+<div id="md2" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:9;align-items:center;justify-content:center"><div style="background:var(--bg);padding:20px;border-radius:12px;width:290px"><b>관리자 로그인</b><input id="pw" type="password" placeholder="관리자 비밀번호"><button onclick="login()">확인</button><button onclick="md2.style.display='none'" style="background:var(--bg);color:var(--mu);border:1px solid var(--ln)">닫기</button><div id="err" style="color:var(--rd);margin-top:8px;font-size:13px"></div></div></div>
 <script>
 const H={user:"a801a48d41d5b8e2e4861c9afdafab333f508f7a7e7533b5986a592fc1e8ea7b",admin:"0130aaadb65a075fe0f67ed79caf6886e0e45580a74a56c72f469a17c85fd502"};
 async function sha(s){const b=await crypto.subtle.digest("SHA-256",new TextEncoder().encode("lgbs:"+s));return[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("")}
-async function login(){const h=await sha(document.getElementById("pw").value);const r=h===H.admin?"admin":h===H.user?"user":null;
-if(!r){err.textContent="비밀번호가 맞지 않아요";return}sessionStorage.r=r;sessionStorage.h=h;start()}
+async function login(){const h=await sha(document.getElementById("pw").value);
+if(h!==H.admin){err.textContent="비밀번호가 맞지 않아요";return}
+sessionStorage.r="admin";md2.style.display="none";pw.value="";err.textContent="";adminUI()}
+function adminBtn(){if(sessionStorage.r=="admin"){sessionStorage.removeItem("r");adminUI()}else{md2.style.display="flex";pw.focus()}}
+function adminUI(){const on=sessionStorage.r=="admin";ab.textContent=on?"관리자 로그아웃":"관리자 로그인";
+if(!on){adm.style.display="none";return}
+const s=(D&&D.status)||{};adm.style.display="block";adm.innerHTML="관리자 · 타임딜 "+(s.timedeal||0)+"개 / 닷컴ONLY "+(s.only||0)+"개"+(s.errors&&s.errors.length?"<br>확인 필요: "+s.errors.join(", "):"")}
 document.getElementById("pw").addEventListener("keydown",e=>e.key=="Enter"&&login());
 let D,cur="전체",sb="전체";
-async function start(){if(!sessionStorage.r)return;lock.style.display="none";app.style.display="block";
+async function start(){
 D=await (await fetch("data.json?"+Date.now())).json();
 meta.textContent="최근 갱신 "+(D.updated||"-")+" · 총 "+D.items.length+"개";
-if(sessionStorage.r=="admin"){adm.style.display="block";const s=D.status||{};adm.innerHTML="관리자 · 타임딜 "+(s.timedeal||0)+"개 / 닷컴ONLY "+(s.only||0)+"개"+(s.errors&&s.errors.length?"<br>확인 필요: "+s.errors.join(", "):"")}
-draw()}
+adminUI();draw()}
 function go(c){cur=c;sb="전체";if(c=="타임딜")so.value="dd";else if(so.value=="dd")so.value="df";draw()}
 function srt(a,b){const v=so.value,d=i=>i.dday==null?999:i.dday;
 if(v=="dd")return d(a)-d(b)||a.price-b.price;if(v=="pa")return a.price-b.price;if(v=="pd")return b.price-a.price;
