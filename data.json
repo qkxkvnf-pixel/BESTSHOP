@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-10 04:05",
+ "updated": "2026-10-10 05:03",
  "status": {
   "errors": [],
-  "timedeal": 71,
+  "timedeal": 70,
   "debug": {
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규29 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-10T04:04:55.0416431\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-10T05:03:14.0517335\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -83,7 +83,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 2,
-   "stock": 63,
+   "stock": 64,
    "sub": "65인치",
    "subn": 65
   },
@@ -1857,21 +1857,6 @@
     "닷컴ONLY"
    ],
    "model": "27G64NA.AKRQ",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라기어 올레드 게이밍모니터 GX9 WQHD",
-   "url": "https://www.lge.co.kr/monitors/34gx900a",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10625828/md10625828-350x350.jpg",
-   "price": 799800,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "34GX900A",
-   "dday": 3,
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
