@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 19:03",
+ "updated": "2026-10-10 20:03",
  "status": {
   "errors": [],
   "timedeal": 70,
@@ -7,7 +7,7 @@
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규29 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-10T19:03:33.9910833\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-10T20:02:57.9781777\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -67,7 +67,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 2,
-   "stock": 19,
+   "stock": 17,
    "sub": "65인치",
    "subn": 65
   },
@@ -83,7 +83,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 2,
-   "stock": 57,
+   "stock": 56,
    "sub": "65인치",
    "subn": 65
   },
@@ -113,7 +113,7 @@
    ],
    "model": "75QNED65ABA",
    "dday": 2,
-   "stock": 87,
+   "stock": 86,
    "sub": "75인치",
    "subn": 75
   },
@@ -310,7 +310,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 2,
-   "stock": 15,
+   "stock": 16,
    "sub": "77인치",
    "subn": 77
   },
@@ -463,7 +463,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 1,
-   "stock": 73,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -2470,7 +2470,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -2500,7 +2500,7 @@
    ],
    "model": "SQ10GJ1WAS",
    "dday": 1,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -2546,7 +2546,7 @@
    ],
    "model": "FQ17GC1EP1",
    "dday": 1,
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -2659,8 +2659,8 @@
    "price": 1934400,
    "cat": "에어컨",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
@@ -2719,20 +2719,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 1,
-   "stock": 32,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gu1ed2m",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783852/md10783852-350x350.jpg",
-   "price": 2200000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GU1ED2M.AKOR",
+   "stock": 31,
    "sub": "",
    "subn": 0
   },
@@ -3464,7 +3451,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 1,
-   "stock": 77,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -3552,7 +3539,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 1,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
