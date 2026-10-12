@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12 12:06",
+ "updated": "2026-10-12 13:07",
  "status": {
   "errors": [],
   "timedeal": 83,
@@ -7,7 +7,7 @@
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-12T12:06:12.1497383\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-12T13:07:18.8873859\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -91,8 +91,8 @@
    "price": 957900,
    "cat": "TV",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "65NU850BENA",
    "stock": 27,
@@ -111,19 +111,6 @@
    "model": "65NU810BENA",
    "dday": 6,
    "stock": 29,
-   "sub": "65인치",
-   "subn": 65
-  },
-  {
-   "name": "LG NANO 4K UHD AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/65nu850bena-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799852/md10799852-350x350.jpg",
-   "price": 1060000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "65NU850BEW.AKRG",
    "sub": "65인치",
    "subn": 65
   },
@@ -153,7 +140,7 @@
     "닷컴ONLY"
    ],
    "model": "65QNED65BBA",
-   "stock": 31,
+   "stock": 28,
    "sub": "65인치",
    "subn": 65
   },
@@ -241,7 +228,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 6,
-   "stock": 78,
+   "stock": 77,
    "sub": "75인치",
    "subn": 75
   },
@@ -285,7 +272,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "stock": 20,
+   "stock": 19,
    "sub": "55인치",
    "subn": 55
   },
@@ -300,7 +287,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 38,
+   "stock": 35,
    "sub": "85인치",
    "subn": 85
   },
@@ -343,7 +330,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 6,
-   "stock": 67,
+   "stock": 66,
    "sub": "75인치",
    "subn": 75
   },
@@ -358,7 +345,7 @@
    ],
    "model": "OLED65B6ENA",
    "dday": 6,
-   "stock": 39,
+   "stock": 38,
    "sub": "65인치",
    "subn": 65
   },
@@ -387,7 +374,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 6,
-   "stock": 69,
+   "stock": 68,
    "sub": "86인치",
    "subn": 86
   },
@@ -477,7 +464,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 6,
-   "stock": 38,
+   "stock": 37,
    "sub": "85인치",
    "subn": 85
   },
@@ -506,7 +493,7 @@
     "타임딜"
    ],
    "model": "86MRGB83BEA",
-   "stock": 18,
+   "stock": 17,
    "sub": "86인치",
    "subn": 86
   },
@@ -646,7 +633,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 6,
-   "stock": 60,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -3567,7 +3554,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 6,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3582,7 +3569,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 6,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -3670,7 +3657,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 6,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
