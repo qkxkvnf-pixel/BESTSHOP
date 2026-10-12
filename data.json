@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12 14:07",
+ "updated": "2026-10-12 15:07",
  "status": {
   "errors": [],
   "timedeal": 84,
@@ -7,7 +7,7 @@
    "count": "수집 224",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규26 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-12T14:07:29.3708119\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-12T15:07:23.5055019\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 224
@@ -37,7 +37,7 @@
    ],
    "model": "43NANO80ANA",
    "dday": 6,
-   "stock": 47,
+   "stock": 46,
    "sub": "43인치",
    "subn": 43
   },
@@ -52,7 +52,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 6,
-   "stock": 36,
+   "stock": 35,
    "sub": "50인치",
    "subn": 50
   },
@@ -80,7 +80,7 @@
     "타임딜"
    ],
    "model": "55NU850BENA",
-   "stock": 28,
+   "stock": 26,
    "sub": "55인치",
    "subn": 55
   },
@@ -110,7 +110,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 6,
-   "stock": 29,
+   "stock": 28,
    "sub": "65인치",
    "subn": 65
   },
@@ -136,11 +136,11 @@
    "price": 1125300,
    "cat": "TV",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "65QNED65BBA",
-   "stock": 29,
+   "stock": 27,
    "sub": "65인치",
    "subn": 65
   },
@@ -172,19 +172,6 @@
    "stock": 47,
    "sub": "43인치",
    "subn": 43
-  },
-  {
-   "name": "LG QNED AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/65qned65bba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784846/md10784846-350x350.jpg",
-   "price": 1280000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "65QNED65BBW.AKRG",
-   "sub": "65인치",
-   "subn": 65
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C5 120cm",
@@ -228,7 +215,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 6,
-   "stock": 77,
+   "stock": 76,
    "sub": "75인치",
    "subn": 75
   },
@@ -272,7 +259,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "stock": 19,
+   "stock": 18,
    "sub": "55인치",
    "subn": 55
   },
@@ -287,7 +274,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 35,
+   "stock": 34,
    "sub": "85인치",
    "subn": 85
   },
@@ -330,7 +317,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 6,
-   "stock": 65,
+   "stock": 63,
    "sub": "75인치",
    "subn": 75
   },
@@ -390,7 +377,7 @@
    ],
    "model": "85QNED65BBA",
    "dday": 6,
-   "stock": 69,
+   "stock": 68,
    "sub": "85인치",
    "subn": 85
   },
@@ -405,7 +392,7 @@
     "타임딜"
    ],
    "model": "OLED65C5ENA",
-   "stock": 16,
+   "stock": 15,
    "sub": "65인치",
    "subn": 65
   },
@@ -421,7 +408,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 6,
-   "stock": 69,
+   "stock": 67,
    "sub": "85인치",
    "subn": 85
   },
@@ -467,7 +454,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 6,
-   "stock": 36,
+   "stock": 33,
    "sub": "85인치",
    "subn": 85
   },
@@ -478,11 +465,24 @@
    "price": 3536300,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "타임딜",
+    "닷컴ONLY"
    ],
    "model": "OLED77B6BNA",
    "stock": 9,
+   "sub": "77인치",
+   "subn": 77
+  },
+  {
+   "name": "LG 올레드 AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/oled77b6bna-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10787828/md10787828-350x350.jpg",
+   "price": 4090000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "OLED77B6BS.AKRG",
    "sub": "77인치",
    "subn": 77
   },
@@ -595,7 +595,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 6,
-   "stock": 126,
+   "stock": 125,
    "sub": "",
    "subn": 0
   },
@@ -610,7 +610,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 6,
-   "stock": 59,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -1497,19 +1497,6 @@
   },
   {
    "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1290000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "14U40V-G.AR3WK",
-   "sub": "14인치",
-   "subn": 14
-  },
-  {
-   "name": "LG 그램북 AI 2026",
    "url": "https://www.lge.co.kr/notebook/15u50u-growk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10740831/md10740831-350x350.jpg",
    "price": 1290000,
@@ -1520,6 +1507,19 @@
    "model": "15U50U-G.AROWK",
    "sub": "15인치",
    "subn": 15
+  },
+  {
+   "name": "LG 그램북 AI 2026",
+   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
+   "price": 1290000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "14U40V-G.AR3WK",
+   "sub": "14인치",
+   "subn": 14
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -2739,7 +2739,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 6,
-   "stock": 49,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -3179,7 +3179,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 6,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3575,7 +3575,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 6,
-   "stock": 118,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
