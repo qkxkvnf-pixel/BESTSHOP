@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-12 16:14",
+ "updated": "2026-10-12 17:08",
  "status": {
   "errors": [],
-  "timedeal": 85,
+  "timedeal": 86,
   "debug": {
    "count": "수집 225",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규27 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-12T16:14:24.2496098\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-12T17:08:09.6839793\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 225
@@ -140,7 +140,7 @@
     "타임딜"
    ],
    "model": "65QNED65BBA",
-   "stock": 26,
+   "stock": 27,
    "sub": "65인치",
    "subn": 65
   },
@@ -215,7 +215,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 6,
-   "stock": 75,
+   "stock": 74,
    "sub": "75인치",
    "subn": 75
   },
@@ -259,7 +259,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "stock": 18,
+   "stock": 17,
    "sub": "55인치",
    "subn": 55
   },
@@ -317,7 +317,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 6,
-   "stock": 62,
+   "stock": 61,
    "sub": "75인치",
    "subn": 75
   },
@@ -332,7 +332,7 @@
    ],
    "model": "OLED65B6ENA",
    "dday": 6,
-   "stock": 39,
+   "stock": 38,
    "sub": "65인치",
    "subn": 65
   },
@@ -451,7 +451,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 6,
-   "stock": 31,
+   "stock": 30,
    "sub": "85인치",
    "subn": 85
   },
@@ -466,7 +466,7 @@
     "타임딜"
    ],
    "model": "OLED77B6BNA",
-   "stock": 9,
+   "stock": 7,
    "sub": "77인치",
    "subn": 77
   },
@@ -594,7 +594,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 6,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -625,7 +625,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 6,
-   "stock": 146,
+   "stock": 145,
    "sub": "",
    "subn": 0
   },
@@ -653,7 +653,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 6,
-   "stock": 50,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -669,7 +669,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 6,
-   "stock": 60,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -1973,7 +1973,7 @@
     "타임딜"
    ],
    "model": "32U700B",
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -1987,6 +1987,20 @@
     "닷컴ONLY"
    ],
    "model": "27G64NA.AKRQ",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 게이밍모니터",
+   "url": "https://www.lge.co.kr/monitors/32gs94u",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10531829/md10531829-350x350.jpg",
+   "price": 715200,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32GS94U",
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2673,7 +2687,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 6,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -2752,7 +2766,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 6,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -3407,7 +3421,7 @@
    ],
    "model": "WU523AWB",
    "dday": 6,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3547,7 +3561,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 6,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3562,7 +3576,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 6,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -3591,7 +3605,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 6,
-   "stock": 115,
+   "stock": 114,
    "sub": "",
    "subn": 0
   },
