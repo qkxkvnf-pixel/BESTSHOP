@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-12 23:13",
+ "updated": "2026-10-13 00:10",
  "status": {
   "errors": [],
-  "timedeal": 86,
+  "timedeal": 74,
   "debug": {
    "count": "수집 225",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규27 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-12T23:13:40.7509420\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-13T00:10:50.3539125\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 225
@@ -30,14 +30,14 @@
    "name": "LG 나노셀 AI (스탠드형) 107cm",
    "url": "https://www.lge.co.kr/tvs/43nano80ana-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10573857/md10573857-350x350.jpg",
-   "price": 541700,
+   "price": 567300,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "43NANO80ANA",
-   "dday": 6,
-   "stock": 45,
+   "dday": 5,
+   "stock": 44,
    "sub": "43인치",
    "subn": 43
   },
@@ -45,14 +45,14 @@
    "name": "LG 울트라 HD TV AI (스탠드형) 125cm",
    "url": "https://www.lge.co.kr/tvs/50ua7500kna-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10575830/md10575830-350x350.jpg",
-   "price": 626300,
+   "price": 660300,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "50UA7500KNA",
-   "dday": 6,
-   "stock": 32,
+   "dday": 5,
+   "stock": 31,
    "sub": "50인치",
    "subn": 50
   },
@@ -70,46 +70,29 @@
    "subn": 43
   },
   {
-   "name": "LG NANO 4K UHD AI (스탠드형) 138cm",
+   "name": "LG NANO 4K UHD AI (스탠드형)",
    "url": "https://www.lge.co.kr/tvs/55nu850bena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10799853/md10799853-350x350.jpg",
-   "price": 719400,
+   "price": 890000,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "55NU850BENA",
-   "stock": 23,
+   "model": "55NU850BES.AKRG",
    "sub": "55인치",
    "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65nu850bena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799851/md10799851-350x350.jpg",
-   "price": 897100,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "65NU850BENA",
-   "stock": 15,
-   "sub": "65인치",
-   "subn": 65
-  },
-  {
-   "name": "LG NANO 4K UHD AI (스탠드형) 163cm",
    "url": "https://www.lge.co.kr/tvs/65nu810bena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10799851/md10799851-350x350.jpg",
-   "price": 905600,
+   "price": 967200,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "65NU810BENA",
-   "dday": 6,
+   "dday": 5,
    "stock": 27,
    "sub": "65인치",
    "subn": 65
@@ -118,73 +101,83 @@
    "name": "LG QNED AI (스탠드형) 138cm",
    "url": "https://www.lge.co.kr/tvs/55qned65bea-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784847/md10784847-350x350.jpg",
-   "price": 1007100,
+   "price": 1078800,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "55QNED65BEA",
-   "dday": 6,
+   "dday": 5,
    "stock": 49,
    "sub": "55인치",
    "subn": 55
   },
   {
-   "name": "LG QNED AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
-   "price": 1083300,
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/65nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799852/md10799852-350x350.jpg",
+   "price": 1090000,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "65QNED65BBA",
-   "stock": 10,
+   "model": "65NU850BEW.AKRG",
    "sub": "65인치",
    "subn": 65
-  },
-  {
-   "name": "LG NANO 4K UHD AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75nu850bena-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799850/md10799850-350x350.jpg",
-   "price": 1083300,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "75NU850BENA",
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C5 105cm",
    "url": "https://www.lge.co.kr/tvs/oled42c5ena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10570843/md10570843-350x350.jpg",
-   "price": 1091800,
+   "price": 1134600,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "OLED42C5ENA",
-   "dday": 6,
-   "stock": 46,
+   "dday": 5,
+   "stock": 45,
    "sub": "43인치",
    "subn": 43
+  },
+  {
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/75nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799850/md10799850-350x350.jpg",
+   "price": 1300000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "75NU850BEW.AKRG",
+   "sub": "75인치",
+   "subn": 75
+  },
+  {
+   "name": "LG QNED AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
+   "price": 1300000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "65QNED65BBS.AKRG",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C5 120cm",
    "url": "https://www.lge.co.kr/tvs/oled48c5ena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10570841/md10570841-350x350.jpg",
-   "price": 1261000,
+   "price": 1320600,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "OLED48C5ENA",
-   "dday": 6,
-   "stock": 48,
+   "dday": 5,
+   "stock": 49,
    "sub": "48인치",
    "subn": 48
   },
@@ -192,13 +185,13 @@
    "name": "LG 올레드 AI (스탠드형) B6 138cm",
    "url": "https://www.lge.co.kr/tvs/oled55b6ena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784832/md10784832-350x350.jpg",
-   "price": 1261000,
+   "price": 1320600,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "OLED55B6ENA",
-   "dday": 6,
+   "dday": 5,
    "stock": 47,
    "sub": "55인치",
    "subn": 55
@@ -207,15 +200,15 @@
    "name": "LG QNED AI (벽걸이형) 189cm",
    "url": "https://www.lge.co.kr/tvs/75qned65bba-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784844/md10784844-350x350.jpg",
-   "price": 1421800,
+   "price": 1469400,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "75QNED65BBA",
-   "dday": 6,
-   "stock": 60,
+   "dday": 5,
+   "stock": 58,
    "sub": "75인치",
    "subn": 75
   },
@@ -223,72 +216,15 @@
    "name": "LG QNED evo AI (스탠드형) 163cm",
    "url": "https://www.lge.co.kr/tvs/65qned8mbea-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903837/md10903837-350x350.jpg",
-   "price": 1430300,
+   "price": 1478700,
    "cat": "TV",
    "tags": [
     "타임딜",
     "닷컴ONLY"
    ],
    "model": "65QNED8MBEA",
-   "dday": 6,
+   "dday": 5,
    "stock": 77,
-   "sub": "65인치",
-   "subn": 65
-  },
-  {
-   "name": "LG QNED AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75qned65aba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10560832/md10560832-350x350.jpg",
-   "price": 1430300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75QNED65ABA",
-   "stock": 81,
-   "sub": "75인치",
-   "subn": 75
-  },
-  {
-   "name": "LG 올레드 evo AI (스탠드형) C6 138cm",
-   "url": "https://www.lge.co.kr/tvs/oled55c6ena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10770847/md10770847-350x350.jpg",
-   "price": 1430300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED55C6ENA",
-   "stock": 13,
-   "sub": "55인치",
-   "subn": 55
-  },
-  {
-   "name": "LG NANO 4K UHD AI (벽걸이형) 214cm",
-   "url": "https://www.lge.co.kr/tvs/85nu850bena-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799848/md10799848-350x350.jpg",
-   "price": 1557200,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "85NU850BENA",
-   "stock": 10,
-   "sub": "85인치",
-   "subn": 85
-  },
-  {
-   "name": "LG Mini RGB evo AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65mrgb83bea-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826840/md10826840-350x350.jpg",
-   "price": 1684200,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "65MRGB83BEA",
-   "stock": 12,
    "sub": "65인치",
    "subn": 65
   },
@@ -309,48 +245,45 @@
    "name": "LG QNED evo AI (벽걸이형) 189cm",
    "url": "https://www.lge.co.kr/tvs/75qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903836/md10903836-350x350.jpg",
-   "price": 1768800,
+   "price": 1832100,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "75QNED8MBEA",
-   "dday": 6,
-   "stock": 56,
+   "dday": 5,
+   "stock": 54,
    "sub": "75인치",
    "subn": 75
+  },
+  {
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/85nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799848/md10799848-350x350.jpg",
+   "price": 1860000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "85NU850BEW.AKRG",
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG 올레드 AI (스탠드형) B6 163cm",
    "url": "https://www.lge.co.kr/tvs/oled65b6ena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784839/md10784839-350x350.jpg",
-   "price": 1853400,
+   "price": 1925100,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
    "model": "OLED65B6ENA",
-   "dday": 6,
+   "dday": 5,
    "stock": 37,
    "sub": "65인치",
    "subn": 65
-  },
-  {
-   "name": "LG QNED AI (벽걸이형) 217cm",
-   "url": "https://www.lge.co.kr/tvs/86qned70aea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10654889/md10654889-350x350.jpg",
-   "price": 1938100,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "86QNED70AEA",
-   "dday": 6,
-   "stock": 63,
-   "sub": "86인치",
-   "subn": 86
   },
   {
    "name": "LG 나노셀 AI (벽걸이형)",
@@ -366,19 +299,20 @@
    "subn": 86
   },
   {
-   "name": "LG 올레드 evo AI (스탠드형) C5 163cm",
-   "url": "https://www.lge.co.kr/tvs/oled65c5ena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10574855/md10574855-350x350.jpg",
-   "price": 2149700,
+   "name": "LG QNED AI (벽걸이형) 217cm",
+   "url": "https://www.lge.co.kr/tvs/86qned70aea-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10654889/md10654889-350x350.jpg",
+   "price": 2018100,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
-   "model": "OLED65C5ENA",
-   "stock": 14,
-   "sub": "65인치",
-   "subn": 65
+   "model": "86QNED70AEA",
+   "dday": 5,
+   "stock": 60,
+   "sub": "86인치",
+   "subn": 86
   },
   {
    "name": "LG QNED AI (벽걸이형)",
@@ -394,18 +328,31 @@
    "subn": 85
   },
   {
+   "name": "LG 올레드 evo AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/oled65c5ena-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10574855/md10574855-350x350.jpg",
+   "price": 2550000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "OLED65C5ES.AKRG",
+   "sub": "65인치",
+   "subn": 65
+  },
+  {
    "name": "LG QNED evo AI (벽걸이형) 214cm",
    "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
-   "price": 2530500,
+   "price": 2669100,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "dday": 6,
-   "stock": 63,
+   "dday": 5,
+   "stock": 64,
    "sub": "85인치",
    "subn": 85
   },
@@ -413,29 +360,15 @@
    "name": "LG QNED evo AI (벽걸이형) 189cm",
    "url": "https://www.lge.co.kr/tvs/75qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654836/md10654836-350x350.jpg",
-   "price": 2530500,
+   "price": 2669100,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "75QNED92AGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 37,
-   "sub": "75인치",
-   "subn": 75
-  },
-  {
-   "name": "LG Mini RGB evo AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75mrgb83bea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826843/md10826843-350x350.jpg",
-   "price": 2953600,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75MRGB83BEA",
-   "stock": 11,
    "sub": "75인치",
    "subn": 75
   },
@@ -443,46 +376,30 @@
    "name": "LG QNED evo AI (벽걸이형) 214cm",
    "url": "https://www.lge.co.kr/tvs/85qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654834/md10654834-350x350.jpg",
-   "price": 3122900,
+   "price": 3264300,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "85QNED92AGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 28,
    "sub": "85인치",
    "subn": 85
   },
   {
-   "name": "LG 올레드 AI (벽걸이형) B6 194cm",
+   "name": "LG 올레드 AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/oled77b6bna-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10787829/md10787829-350x350.jpg",
-   "price": 3361400,
+   "price": 4100000,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "OLED77B6BNA",
-   "stock": 11,
+   "model": "OLED77B6BW.AKRG",
    "sub": "77인치",
    "subn": 77
-  },
-  {
-   "name": "LG Mini RGB evo AI (벽걸이형) 217cm",
-   "url": "https://www.lge.co.kr/tvs/86mrgb83bea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826839/md10826839-350x350.jpg",
-   "price": 3884600,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "86MRGB83BEA",
-   "stock": 16,
-   "sub": "86인치",
-   "subn": 86
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 하이드로에센셜 + 무빙휠 세트",
@@ -495,7 +412,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 6,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -579,7 +496,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 6,
-   "stock": 121,
+   "stock": 120,
    "sub": "",
    "subn": 0
   },
@@ -625,7 +542,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 6,
-   "stock": 136,
+   "stock": 134,
    "sub": "",
    "subn": 0
   },
@@ -2055,7 +1972,7 @@
     "타임딜"
    ],
    "model": "M-X0120BASA",
-   "dday": 7,
+   "dday": 6,
    "stock": 30,
    "sub": "",
    "subn": 0
@@ -2551,7 +2468,7 @@
     "타임딜"
    ],
    "model": "MH67BR",
-   "dday": 6,
+   "dday": 5,
    "stock": 78,
    "sub": "",
    "subn": 0
@@ -2566,7 +2483,7 @@
     "타임딜"
    ],
    "model": "MH20BR",
-   "dday": 6,
+   "dday": 5,
    "stock": 82,
    "sub": "",
    "subn": 0
@@ -2581,7 +2498,7 @@
     "타임딜"
    ],
    "model": "MH65CC",
-   "dday": 6,
+   "dday": 5,
    "stock": 69,
    "sub": "",
    "subn": 0
@@ -2596,7 +2513,7 @@
     "타임딜"
    ],
    "model": "MH81CC",
-   "dday": 6,
+   "dday": 5,
    "stock": 27,
    "sub": "",
    "subn": 0
@@ -2611,7 +2528,7 @@
     "타임딜"
    ],
    "model": "MH81RR",
-   "dday": 6,
+   "dday": 5,
    "stock": 28,
    "sub": "",
    "subn": 0
@@ -2687,7 +2604,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 6,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -2703,7 +2620,7 @@
    ],
    "model": "FQ17GC1EP1",
    "dday": 6,
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -2766,7 +2683,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 6,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -3202,14 +3119,14 @@
    "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hrble",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10666831/md10666831-350x350.jpg",
-   "price": 564700,
+   "price": 621300,
    "cat": "전기레인지",
    "tags": [
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "dday": 6,
-   "stock": 61,
+   "dday": 5,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3217,14 +3134,14 @@
    "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hsble",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10666826/md10666826-350x350.jpg",
-   "price": 565600,
+   "price": 622200,
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "BEI3HSBLE",
-   "dday": 6,
+   "dday": 5,
    "sub": "",
    "subn": 0
   },
@@ -3232,13 +3149,13 @@
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hkble",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10844828/md10844828-350x350.jpg",
-   "price": 686900,
+   "price": 761700,
    "cat": "전기레인지",
    "tags": [
     "타임딜"
    ],
    "model": "BEI3HKBLE",
-   "dday": 6,
+   "dday": 5,
    "sub": "",
    "subn": 0
   },
@@ -3246,14 +3163,14 @@
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hkhle",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10807826/md10807826-350x350.jpg",
-   "price": 686900,
+   "price": 761700,
    "cat": "전기레인지",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
    "model": "BEI3HKHLE",
-   "dday": 6,
+   "dday": 5,
    "sub": "",
    "subn": 0
   },
@@ -3261,13 +3178,13 @@
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hksle",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10844829/md10844829-350x350.jpg",
-   "price": 686900,
+   "price": 761700,
    "cat": "전기레인지",
    "tags": [
     "타임딜"
    ],
    "model": "BEI3HKSLE",
-   "dday": 6,
+   "dday": 5,
    "sub": "",
    "subn": 0
   },
@@ -3360,7 +3277,7 @@
     "타임딜"
    ],
    "model": "WD325AHB",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3376,7 +3293,7 @@
     "타임딜"
    ],
    "model": "WD520AWB",
-   "dday": 6,
+   "dday": 5,
    "stock": 90,
    "sub": "",
    "subn": 0
@@ -3405,7 +3322,7 @@
     "타임딜"
    ],
    "model": "WD520VHT",
-   "dday": 6,
+   "dday": 5,
    "stock": 84,
    "sub": "",
    "subn": 0
@@ -3420,7 +3337,7 @@
     "타임딜"
    ],
    "model": "WU523AWB",
-   "dday": 6,
+   "dday": 5,
    "stock": 81,
    "sub": "",
    "subn": 0
@@ -3436,8 +3353,8 @@
     "타임딜"
    ],
    "model": "WD523AWB",
-   "dday": 6,
-   "stock": 89,
+   "dday": 5,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -3452,7 +3369,7 @@
     "타임딜"
    ],
    "model": "WD524VHMT",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3468,7 +3385,7 @@
     "닷컴ONLY"
    ],
    "model": "WD524VHPT",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3497,7 +3414,7 @@
     "타임딜"
    ],
    "model": "WD721RE",
-   "dday": 6,
+   "dday": 5,
    "stock": 88,
    "sub": "",
    "subn": 0
@@ -3513,7 +3430,7 @@
     "닷컴ONLY"
    ],
    "model": "WD721RH",
-   "dday": 6,
+   "dday": 5,
    "stock": 98,
    "sub": "",
    "subn": 0
@@ -3529,7 +3446,7 @@
     "닷컴ONLY"
    ],
    "model": "WD721RK",
-   "dday": 6,
+   "dday": 5,
    "stock": 96,
    "sub": "",
    "subn": 0
@@ -3545,7 +3462,7 @@
     "타임딜"
    ],
    "model": "WD723RH",
-   "dday": 6,
+   "dday": 5,
    "stock": 93,
    "sub": "",
    "subn": 0
@@ -3561,7 +3478,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 6,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -3679,7 +3596,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 6,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
