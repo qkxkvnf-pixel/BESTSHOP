@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-12 09:04",
+ "updated": "2026-10-12 10:12",
  "status": {
   "errors": [],
-  "timedeal": 68,
+  "timedeal": 48,
   "debug": {
    "count": "수집 226",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=760,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-12T09:04:43.3400304\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
+   "total_api": "{\"timestamp\":\"2026-10-12T10:11:59.2780057\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":760}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 226
@@ -17,7 +17,7 @@
    "name": "LG 일반 LED TV (스탠드형)",
    "url": "https://www.lge.co.kr/tvs/32lb650bena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10791858/md10791858-350x350.jpg",
-   "price": 330000,
+   "price": 320000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -121,7 +121,7 @@
     "타임딜"
    ],
    "model": "75QNED65ABA",
-   "stock": 83,
+   "stock": 81,
    "sub": "75인치",
    "subn": 75
   },
@@ -135,7 +135,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "stock": 20,
+   "stock": 21,
    "sub": "55인치",
    "subn": 55
   },
@@ -155,10 +155,23 @@
    "subn": 85
   },
   {
+   "name": "LG QNED AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/75qned65bba-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10784844/md10784844-350x350.jpg",
+   "price": 1680000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "75QNED65BBW.AKRG",
+   "sub": "75인치",
+   "subn": 75
+  },
+  {
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/65qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903838/md10903838-350x350.jpg",
-   "price": 1740000,
+   "price": 1690000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -182,19 +195,6 @@
    "subn": 65
   },
   {
-   "name": "LG QNED AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/75qned65bba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784844/md10784844-350x350.jpg",
-   "price": 1790000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "75QNED65BBW.AKRG",
-   "sub": "75인치",
-   "subn": 75
-  },
-  {
    "name": "LG 나노셀 AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/86nano80aea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10573846/md10573846-350x350.jpg",
@@ -211,7 +211,7 @@
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/75qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903836/md10903836-350x350.jpg",
-   "price": 2190000,
+   "price": 2090000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -231,7 +231,7 @@
     "타임딜"
    ],
    "model": "OLED65C5ENA",
-   "stock": 17,
+   "stock": 16,
    "sub": "65인치",
    "subn": 65
   },
@@ -239,7 +239,7 @@
    "name": "LG QNED AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/86qned70aea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654889/md10654889-350x350.jpg",
-   "price": 2390000,
+   "price": 2290000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -252,7 +252,7 @@
    "name": "LG QNED AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/85qned65bba-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784842/md10784842-350x350.jpg",
-   "price": 2490000,
+   "price": 2390000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -262,24 +262,10 @@
    "subn": 85
   },
   {
-   "name": "LG Mini RGB evo AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75mrgb83bea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826843/md10826843-350x350.jpg",
-   "price": 3078300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75MRGB83BEA",
-   "stock": 12,
-   "sub": "75인치",
-   "subn": 75
-  },
-  {
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
-   "price": 3090000,
+   "price": 2990000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -292,12 +278,26 @@
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/75qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654836/md10654836-350x350.jpg",
-   "price": 3090000,
+   "price": 2990000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
    ],
    "model": "75QNED92AGW.AKRQ",
+   "sub": "75인치",
+   "subn": 75
+  },
+  {
+   "name": "LG Mini RGB evo AI (벽걸이형) 189cm",
+   "url": "https://www.lge.co.kr/tvs/75mrgb83bea-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10826843/md10826843-350x350.jpg",
+   "price": 3078300,
+   "cat": "TV",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "75MRGB83BEA",
+   "stock": 12,
    "sub": "75인치",
    "subn": 75
   },
@@ -320,7 +320,7 @@
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/85qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654834/md10654834-350x350.jpg",
-   "price": 3790000,
+   "price": 3690000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -353,7 +353,8 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 29,
+   "dday": 6,
+   "stock": 100,
    "sub": "",
    "subn": 0
   },
@@ -436,75 +437,28 @@
    "subn": 21
   },
   {
-   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 50㎡ 2등급",
+   "name": "LG 퓨리케어 360˚ 공기청정기 Hit",
    "url": "https://www.lge.co.kr/air-purifier/as156hwwl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10745834/md10745834-350x350.jpg",
-   "price": 318000,
+   "price": 529000,
    "cat": "공기청정기",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "AS156HWWL",
-   "stock": 48,
+   "model": "AS156HWWL.AKOR",
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 62㎡ 2등급",
+   "name": "LG 퓨리케어 360˚ 공기청정기 Hit",
    "url": "https://www.lge.co.kr/air-purifier/as186hwwl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10745833/md10745833-350x350.jpg",
-   "price": 348000,
+   "price": 679000,
    "cat": "공기청정기",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "AS186HWWL",
-   "stock": 49,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 59.4㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-purifier/as186lsaa",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10698828/md10698828-350x350.jpg",
-   "price": 520800,
-   "cat": "공기청정기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "AS186LSAA",
-   "stock": 36,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 오브제컬렉션 에어로부스터 48.2㎡ 3등급",
-   "url": "https://www.lge.co.kr/air-purifier/as155gwdl",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10495853/md10495853-350x350.jpg",
-   "price": 594300,
-   "cat": "공기청정기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "AS155GWDL",
-   "stock": 37,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트 100㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-purifier/as305dwwlm-akor2",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10772832/md10772832-350x350.jpg",
-   "price": 732000,
-   "cat": "공기청정기",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "AS305DWWLM",
-   "stock": 4,
+   "model": "AS186HWWL.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -522,29 +476,15 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 115㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-purifier/as356lsaa",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10810830/md10810830-350x350.jpg",
-   "price": 799800,
-   "cat": "공기청정기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "AS356LSAA",
-   "stock": 42,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5 + 무빙휠 세트",
-   "url": "https://www.lge.co.kr/air-purifier/as356nsllm",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10762836/md10762836-350x350.jpg",
-   "price": 1480000,
+   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트",
+   "url": "https://www.lge.co.kr/air-purifier/as305dwwlm-akor2",
+   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10772832/md10772832-350x350.jpg",
+   "price": 1388000,
    "cat": "공기청정기",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "AS356NSLLM.AKOR",
+   "model": "AS305DWWLM.AKOR2",
    "sub": "",
    "subn": 0
   },
@@ -558,6 +498,19 @@
     "닷컴ONLY"
    ],
    "model": "AS356NSLL.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5 + 무빙휠 세트",
+   "url": "https://www.lge.co.kr/air-purifier/as356nsllm",
+   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10762836/md10762836-350x350.jpg",
+   "price": 1949000,
+   "cat": "공기청정기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "AS356NSLLM.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -695,7 +648,7 @@
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/z490mpsf11",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10743826/md10743826-350x350.jpg",
-   "price": 1980000,
+   "price": 1990000,
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
@@ -1046,7 +999,7 @@
    "name": "LG DIOS 냉장고 (양문형)",
    "url": "https://www.lge.co.kr/refrigerators/s836mds002",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10873826/md10873826-350x350.jpg",
-   "price": 1320000,
+   "price": 1310000,
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
@@ -1137,7 +1090,7 @@
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형, 매직스페이스)",
    "url": "https://www.lge.co.kr/refrigerators/s834mee111",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10635830/md10635830-350x350.jpg",
-   "price": 1890000,
+   "price": 1880000,
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
@@ -1199,6 +1152,19 @@
    "subn": 870
   },
   {
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스)",
+   "url": "https://www.lge.co.kr/refrigerators/t876mee1h1",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10758826/md10758826-350x350.jpg",
+   "price": 2490000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "T876MEE1H1.CKOR",
+   "sub": "800L대",
+   "subn": 870
+  },
+  {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고",
    "url": "https://www.lge.co.kr/refrigerators/t876mee041",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681847/md10681847-350x350.jpg",
@@ -1210,19 +1176,6 @@
    "model": "T876MEE041.CKOR",
    "sub": "800L대",
    "subn": 860
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스)",
-   "url": "https://www.lge.co.kr/refrigerators/t876mee1h1",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10758826/md10758826-350x350.jpg",
-   "price": 2500000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "T876MEE1H1.CKOR",
-   "sub": "800L대",
-   "subn": 870
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (노크온 매직스페이스)",
@@ -1794,7 +1747,6 @@
     "타임딜"
    ],
    "model": "25G520B",
-   "dday": 1,
    "stock": 98,
    "sub": "",
    "subn": 0
@@ -1836,8 +1788,7 @@
     "타임딜"
    ],
    "model": "32U700B",
-   "dday": 1,
-   "stock": 72,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
@@ -1864,7 +1815,6 @@
     "타임딜"
    ],
    "model": "32GS95UVW",
-   "dday": 1,
    "stock": 47,
    "sub": "",
    "subn": 0
@@ -1879,7 +1829,6 @@
     "타임딜"
    ],
    "model": "32GX850A",
-   "dday": 1,
    "stock": 47,
    "sub": "",
    "subn": 0
@@ -2463,21 +2412,8 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "stock": 75,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 벽걸이에어컨 18.7㎡",
-   "url": "https://www.lge.co.kr/air-conditioners/sq06ea1wcs-akor",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10296826/md10296826-350x350.jpg",
-   "price": 603600,
-   "cat": "에어컨",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "SQ06EA1WCS",
-   "stock": 98,
+   "dday": 6,
+   "stock": 100,
    "sub": "",
    "subn": 0
   },
@@ -2491,7 +2427,8 @@
     "타임딜"
    ],
    "model": "SQ07GS7EAS",
-   "stock": 57,
+   "dday": 6,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2505,7 +2442,8 @@
     "타임딜"
    ],
    "model": "SQ10GJ1WAS",
-   "stock": 53,
+   "dday": 6,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2519,7 +2457,8 @@
     "타임딜"
    ],
    "model": "SQ06GJ1WES",
-   "stock": 48,
+   "dday": 6,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2533,22 +2472,8 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD1",
-   "stock": 76,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 (1시리즈) 56.9㎡ 3등급",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ep1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781869/md10781869-350x350.jpg",
-   "price": 1422900,
-   "cat": "에어컨",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GC1EP1",
-   "stock": 36,
+   "dday": 6,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -2563,7 +2488,8 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU1EP1",
-   "stock": 49,
+   "dday": 6,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -2577,22 +2503,8 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "stock": 62,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈) 56.9㎡ 3등급",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed2",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781883/md10781883-350x350.jpg",
-   "price": 1757700,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "FQ17GC1ED2",
-   "stock": 40,
+   "dday": 6,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -2646,7 +2558,8 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 69,
+   "dday": 6,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -2673,6 +2586,19 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GC1EN1.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈) ",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed2",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781883/md10781883-350x350.jpg",
+   "price": 2010000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17GC1ED2.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2742,36 +2668,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 싱글 (5시리즈) 56.9㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833826/md10833826-350x350.jpg",
-   "price": 2851400,
-   "cat": "에어컨",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "FQ17FN5BD1",
-   "stock": 5,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 싱글 (5시리즈) 매립배관형 56.9㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd1m",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833827/md10833827-350x350.jpg",
-   "price": 2851400,
-   "cat": "에어컨",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "FQ17FN5BD1M",
-   "stock": 5,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) + 뷰케이스",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1et2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10848882/md10848882-350x350.jpg",
@@ -2785,21 +2681,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈) 매립배관형 56.9㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd2m",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833829/md10833829-350x350.jpg",
-   "price": 2901600,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "FQ17FN5BD2M",
-   "stock": 2,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 AI 오브제컬렉션 뷰I 에어컨 2in1 (4시리즈) ",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gv4ed2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10782832/md10782832-350x350.jpg",
@@ -2809,6 +2690,19 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GV4ED2.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈)<sup>매립배관형</sup>",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd2m",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833829/md10833829-350x350.jpg",
+   "price": 3300000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17FN5BD2M.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -3386,34 +3280,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 오브제컬렉션 제습기 13L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq134mwec-akor",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10401830/md10401830-350x350.jpg",
-   "price": 357000,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DQ134MWEC",
-   "stock": 48,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 18L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq185mega",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586834/md10586834-350x350.jpg",
-   "price": 419000,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DQ185MEGA",
-   "stock": 63,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 오브제컬렉션 제습기",
    "url": "https://www.lge.co.kr/dehumidifiers/dq154mwga-akor",
    "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10401829/md10401829-350x350.jpg",
@@ -3427,21 +3293,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 오브제컬렉션 제습기 20L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq205pega-akor",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10544829/md10544829-350x350.jpg",
-   "price": 472500,
-   "cat": "제습기",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "DQ205PEGA",
-   "stock": 75,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
    "url": "https://www.lge.co.kr/dehumidifiers/dq134mwecs",
    "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10597897/md10597897-350x350.jpg",
@@ -3451,77 +3302,6 @@
     "닷컴ONLY"
    ],
    "model": "DQ134MWECS.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 18L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq185mwga",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586832/md10586832-350x350.jpg",
-   "price": 479000,
-   "cat": "제습기",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "DQ185MWGA",
-   "stock": 99,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 상업용 제습기 35L 3등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dc356skaa",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10820839/md10820839-350x350.jpg",
-   "price": 482700,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DC356SKAA",
-   "stock": 30,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 21L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq214mwga",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10372849/md10372849-350x350.jpg",
-   "price": 529200,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DQ214MWGA",
-   "stock": 87,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 23L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq235mega",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586828/md10586828-350x350.jpg",
-   "price": 557100,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DQ235MEGA",
-   "stock": 93,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 23L 1등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq235mwga",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586826/md10586826-350x350.jpg",
-   "price": 557100,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DQ235MWGA",
-   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3561,6 +3341,32 @@
     "닷컴ONLY"
    ],
    "model": "DQ185MWGAS.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 오브제컬렉션 제습기",
+   "url": "https://www.lge.co.kr/dehumidifiers/dq185mwga",
+   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586832/md10586832-350x350.jpg",
+   "price": 709000,
+   "cat": "제습기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "DQ185MWGA.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 오브제컬렉션 제습기",
+   "url": "https://www.lge.co.kr/dehumidifiers/dq205pega-akor",
+   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10544829/md10544829-350x350.jpg",
+   "price": 749000,
+   "cat": "제습기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "DQ205PEGA.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -3613,7 +3419,6 @@
     "타임딜"
    ],
    "model": "HU810PW",
-   "dday": 1,
    "stock": 1,
    "sub": "",
    "subn": 0
@@ -3628,7 +3433,6 @@
     "타임딜"
    ],
    "model": "HU715QP",
-   "dday": 1,
    "stock": 1,
    "sub": "",
    "subn": 0
