@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 06:15",
+ "updated": "2026-10-14 07:13",
  "status": {
   "errors": [],
   "timedeal": 80,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T06:15:28.9335168\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-14T07:13:37.9603876\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -136,7 +136,7 @@
    ],
    "model": "OLED42C5ENA",
    "dday": 4,
-   "stock": 43,
+   "stock": 44,
    "sub": "43인치",
    "subn": 43
   },
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 4,
-   "stock": 44,
+   "stock": 43,
    "sub": "75인치",
    "subn": 75
   },
