@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-13 12:06",
+ "updated": "2026-10-13 13:07",
  "status": {
   "errors": [],
-  "timedeal": 76,
+  "timedeal": 77,
   "debug": {
    "count": "수집 219",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-13T12:05:57.8793997\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-13T13:07:04.8743268\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 219
@@ -253,7 +253,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 5,
-   "stock": 51,
+   "stock": 50,
    "sub": "75인치",
    "subn": 75
   },
@@ -310,20 +310,23 @@
    ],
    "model": "86QNED70AEA",
    "dday": 5,
-   "stock": 60,
+   "stock": 59,
    "sub": "86인치",
    "subn": 86
   },
   {
-   "name": "LG QNED AI (벽걸이형)",
+   "name": "LG QNED AI (벽걸이형) 214cm",
    "url": "https://www.lge.co.kr/tvs/85qned65bba-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10784842/md10784842-350x350.jpg",
-   "price": 2390000,
+   "price": 2111100,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "85QNED65BBW.AKRG",
+   "model": "85QNED65BBA",
+   "dday": 5,
+   "stock": 67,
    "sub": "85인치",
    "subn": 85
   },
@@ -384,7 +387,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 5,
-   "stock": 29,
+   "stock": 28,
    "sub": "85인치",
    "subn": 85
   },
@@ -496,7 +499,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 5,
-   "stock": 114,
+   "stock": 113,
    "sub": "",
    "subn": 0
   },
@@ -511,7 +514,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 5,
-   "stock": 51,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -542,7 +545,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 5,
-   "stock": 120,
+   "stock": 118,
    "sub": "",
    "subn": 0
   },
@@ -586,7 +589,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 5,
-   "stock": 56,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -2382,7 +2385,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 1,
-   "stock": 19,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -2675,7 +2678,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 5,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -2707,7 +2710,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 5,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -3072,7 +3075,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 5,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -3240,7 +3243,7 @@
    ],
    "model": "WD520AWB",
    "dday": 5,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -3284,7 +3287,7 @@
    ],
    "model": "WU523AWB",
    "dday": 5,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3424,7 +3427,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 5,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -3439,7 +3442,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 5,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3527,7 +3530,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 5,
-   "stock": 97,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
