@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-13 09:06",
+ "updated": "2026-10-13 10:12",
  "status": {
   "errors": [],
-  "timedeal": 75,
+  "timedeal": 69,
   "debug": {
-   "count": "수집 225",
-   "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규27 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "count": "수집 220",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-13T09:06:37.7393386\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
-   "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
+   "total_api": "{\"timestamp\":\"2026-10-13T10:12:32.0741034\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "fail_sample": "{\"modelId\": \"MD10783829\", \"sku\": \"FQ17GU2ED1.AKOR\", \"salesModelCode\": \"FQ17GU2ED1\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (2시리즈) \", \"modelName\": \"FQ17GU2ED1\", \"defaultCategoryId\": \"CT50000131\", \"defaultCategoryName\": \"에어컨\", \"superCategoryId\": \"CT50000130\", \"categoryId\": \"CT50000131\", \"subCategoryId\": \"CT50000134\", \"superCategoryName\": \"에어컨/에어케어\", \"categoryName\": \"에어컨\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/air-conditioners/md10783826/md10783826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/air-conditioners/md10783826/md10783826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000010771\", \"m"
   },
-  "only": 225
+  "only": 220
  },
  "items": [
   {
@@ -192,7 +192,7 @@
    ],
    "model": "OLED55B6ENA",
    "dday": 5,
-   "stock": 47,
+   "stock": 48,
    "sub": "55인치",
    "subn": 55
   },
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 5,
-   "stock": 56,
+   "stock": 54,
    "sub": "75인치",
    "subn": 75
   },
@@ -253,7 +253,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 5,
-   "stock": 52,
+   "stock": 51,
    "sub": "75인치",
    "subn": 75
   },
@@ -411,7 +411,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "dday": 6,
+   "dday": 5,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -479,7 +479,7 @@
     "타임딜"
    ],
    "model": "AS156HWWL",
-   "dday": 6,
+   "dday": 5,
    "stock": 48,
    "sub": "",
    "subn": 0
@@ -495,8 +495,8 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "dday": 6,
-   "stock": 117,
+   "dday": 5,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
@@ -510,7 +510,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "dday": 6,
+   "dday": 5,
    "stock": 52,
    "sub": "",
    "subn": 0
@@ -525,24 +525,8 @@
     "타임딜"
    ],
    "model": "AS155GWDL",
-   "dday": 6,
+   "dday": 5,
    "stock": 40,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트 100㎡ 2등급",
-   "url": "https://www.lge.co.kr/air-purifier/as305dwwlm-akor2",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10772832/md10772832-350x350.jpg",
-   "price": 732000,
-   "cat": "공기청정기",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "AS305DWWLM",
-   "dday": 6,
-   "stock": 133,
    "sub": "",
    "subn": 0
   },
@@ -569,8 +553,21 @@
     "타임딜"
    ],
    "model": "AS356LSAA",
-   "dday": 6,
-   "stock": 49,
+   "dday": 5,
+   "stock": 48,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트",
+   "url": "https://www.lge.co.kr/air-purifier/as305dwwlm-akor2",
+   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10772832/md10772832-350x350.jpg",
+   "price": 817000,
+   "cat": "공기청정기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "AS305DWWLM.AKOR2",
    "sub": "",
    "subn": 0
   },
@@ -585,7 +582,7 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "dday": 6,
+   "dday": 5,
    "stock": 57,
    "sub": "",
    "subn": 0
@@ -1839,17 +1836,15 @@
    "subn": 17
   },
   {
-   "name": "LG 울트라기어 게이밍모니터 G5 FHD",
+   "name": "LG 울트라기어 게이밍모니터",
    "url": "https://www.lge.co.kr/monitors/25g520b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10858831/md10858831-350x350.jpg",
    "price": 309000,
    "cat": "모니터",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "25G520B",
-   "stock": 96,
+   "model": "25G520B.BKR",
    "sub": "",
    "subn": 0
   },
@@ -1880,17 +1875,15 @@
    "subn": 0
   },
   {
-   "name": "LG 울트라HD 모니터 U7 4K",
+   "name": "LG 울트라HD 모니터",
    "url": "https://www.lge.co.kr/monitors/32u700b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10849830/md10849830-350x350.jpg",
    "price": 449000,
    "cat": "모니터",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "32U700B",
-   "stock": 63,
+   "model": "32U700B.AKRQ",
    "sub": "",
    "subn": 0
   },
@@ -1904,48 +1897,6 @@
     "닷컴ONLY"
    ],
    "model": "27G64NA.AKRQ",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라기어 게이밍모니터",
-   "url": "https://www.lge.co.kr/monitors/32gs94u",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10531829/md10531829-350x350.jpg",
-   "price": 715200,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "32GS94U",
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라기어 올레드 게이밍모니터 4K",
-   "url": "https://www.lge.co.kr/monitors/32gs95uvw",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10461827/md10461827-350x350.jpg",
-   "price": 1254600,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "32GS95UVW",
-   "stock": 42,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라기어 올레드 게이밍모니터 GX8 4K",
-   "url": "https://www.lge.co.kr/monitors/32gx850a",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10680848/md10680848-350x350.jpg",
-   "price": 1450000,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "32GX850A",
-   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -2381,15 +2332,34 @@
    "subn": 0
   },
   {
-   "name": "LG 스탠바이미 2 Max",
+   "name": "LG 스탠바이미 2 Max 79cm",
    "url": "https://www.lge.co.kr/stan-by-me/32lx6begb",
    "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10801828/md10801828-350x350.jpg",
-   "price": 1400000,
+   "price": 1236900,
    "cat": "스탠바이미",
    "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "32LX6BEGB",
+   "dday": 1,
+   "stock": 20,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스탠바이미 2 Max + LG 스탠바이미 스피커 79cm",
+   "url": "https://www.lge.co.kr/stan-by-me/32lx6begbakxt7sc",
+   "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10894838/md10894838-350x350.jpg",
+   "price": 1431300,
+   "cat": "스탠바이미",
+   "tags": [
+    "타임딜",
     "닷컴ONLY"
    ],
-   "model": "32LX6BEGB.AKR",
+   "model": "32LX6BEGBAKXT7SC",
+   "dday": 5,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -2543,7 +2513,7 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "dday": 6,
+   "dday": 5,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -2558,7 +2528,7 @@
     "타임딜"
    ],
    "model": "SQ06EA1WCS",
-   "dday": 6,
+   "dday": 5,
    "stock": 100,
    "sub": "",
    "subn": 0
@@ -2573,7 +2543,7 @@
     "타임딜"
    ],
    "model": "SQ07GS7EAS",
-   "dday": 6,
+   "dday": 5,
    "stock": 60,
    "sub": "",
    "subn": 0
@@ -2588,7 +2558,7 @@
     "타임딜"
    ],
    "model": "SQ10GJ1WAS",
-   "dday": 6,
+   "dday": 5,
    "stock": 60,
    "sub": "",
    "subn": 0
@@ -2603,7 +2573,7 @@
     "타임딜"
    ],
    "model": "SQ06GJ1WES",
-   "dday": 6,
+   "dday": 5,
    "stock": 60,
    "sub": "",
    "subn": 0
@@ -2618,7 +2588,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD1",
-   "dday": 6,
+   "dday": 5,
    "stock": 76,
    "sub": "",
    "subn": 0
@@ -2634,7 +2604,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GC1EP1",
-   "dday": 6,
+   "dday": 5,
    "stock": 40,
    "sub": "",
    "subn": 0
@@ -2650,7 +2620,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU1EP1",
-   "dday": 6,
+   "dday": 5,
    "stock": 50,
    "sub": "",
    "subn": 0
@@ -2665,7 +2635,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "dday": 6,
+   "dday": 5,
    "stock": 79,
    "sub": "",
    "subn": 0
@@ -2681,7 +2651,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU2EP1",
-   "dday": 6,
+   "dday": 5,
    "stock": 20,
    "sub": "",
    "subn": 0
@@ -2697,7 +2667,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "dday": 6,
+   "dday": 5,
    "stock": 46,
    "sub": "",
    "subn": 0
@@ -2716,32 +2686,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (1시리즈) ",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gu1ed1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783842/md10783842-350x350.jpg",
-   "price": 1790000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GU1ED1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 싱글 전용 (2시리즈) ",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gu2ed1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783826/md10783826-350x350.jpg",
-   "price": 1900000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GU2ED1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) 56.9㎡ 3등급",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1ed2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783852/md10783852-350x350.jpg",
@@ -2752,8 +2696,8 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "dday": 6,
-   "stock": 73,
+   "dday": 5,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -2807,7 +2751,7 @@
     "타임딜"
    ],
    "model": "FQ17GU2ED2",
-   "dday": 6,
+   "dday": 5,
    "stock": 39,
    "sub": "",
    "subn": 0
@@ -2862,7 +2806,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17FN5BD1",
-   "dday": 6,
+   "dday": 5,
    "stock": 5,
    "sub": "",
    "subn": 0
@@ -2891,34 +2835,8 @@
     "타임딜"
    ],
    "model": "FQ17FN5BD2",
-   "dday": 6,
+   "dday": 5,
    "stock": 9,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰I 에어컨 2in1 (4시리즈) ",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gv4ed2",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10782832/md10782832-350x350.jpg",
-   "price": 3100000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GV4ED2.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰I 에어컨 2in1 (3시리즈)<sup>매립배관형</sup>",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gv3ed2m",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10782858/md10782858-350x350.jpg",
-   "price": 3400000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GV3ED2M.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2932,19 +2850,6 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GV5EN2.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 뷰I 프로 에어컨 2in1 (5시리즈)",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gv5ed2",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10742847/md10742847-350x350.jpg",
-   "price": 3950000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GV5ED2.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -3141,7 +3046,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 5,
-   "stock": 58,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -3492,8 +3397,8 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "dday": 6,
-   "stock": 85,
+   "dday": 5,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -3507,7 +3412,7 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 93,
    "sub": "",
    "subn": 0
@@ -3536,8 +3441,8 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "dday": 6,
-   "stock": 109,
+   "dday": 5,
+   "stock": 105,
    "sub": "",
    "subn": 0
   },
@@ -3565,7 +3470,7 @@
     "타임딜"
    ],
    "model": "DQ185MWGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 100,
    "sub": "",
    "subn": 0
@@ -3580,7 +3485,7 @@
     "타임딜"
    ],
    "model": "DC356SKAA",
-   "dday": 6,
+   "dday": 5,
    "stock": 30,
    "sub": "",
    "subn": 0
@@ -3595,7 +3500,7 @@
     "타임딜"
    ],
    "model": "DQ214MWGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3610,7 +3515,7 @@
     "타임딜"
    ],
    "model": "DQ235MEGA",
-   "dday": 6,
+   "dday": 5,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -3625,8 +3530,8 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "dday": 6,
-   "stock": 98,
+   "dday": 5,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -3707,34 +3612,6 @@
    "model": "Y324GB3.AKOR",
    "sub": "300L대",
    "subn": 328
-  },
-  {
-   "name": "LG 시네빔 Laser 4K 투사형",
-   "url": "https://www.lge.co.kr/projectors/hu810pw",
-   "img": "https://www.lge.co.kr/kr/images/projectors/md08749625/md08749625-350x350.jpg",
-   "price": 2669100,
-   "cat": "프로젝터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "HU810PW",
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 시네빔 Laser 4K 초단초점",
-   "url": "https://www.lge.co.kr/projectors/hu715qp",
-   "img": "https://www.lge.co.kr/kr/images/projectors/md09120827/md09120827-350x350.jpg",
-   "price": 3171300,
-   "cat": "프로젝터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "HU715QP",
-   "stock": 1,
-   "sub": "",
-   "subn": 0
   }
  ]
 }
