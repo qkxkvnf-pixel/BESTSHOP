@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15 00:20",
+ "updated": "2026-10-15 01:21",
  "status": {
   "errors": [],
   "timedeal": 82,
@@ -7,7 +7,7 @@
    "count": "수집 216",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-15T00:20:48.5931255\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-15T01:21:09.0379108\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 216
@@ -108,7 +108,7 @@
    ],
    "model": "55QNED65BEA",
    "dday": 3,
-   "stock": 49,
+   "stock": 48,
    "sub": "55인치",
    "subn": 55
   },
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 3,
-   "stock": 24,
+   "stock": 22,
    "sub": "75인치",
    "subn": 75
   },
@@ -412,7 +412,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -516,7 +516,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -560,7 +560,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 4,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -1593,19 +1593,6 @@
   },
   {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
-   "url": "https://www.lge.co.kr/notebook/16z95u-gs5wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10744830/md10744830-350x350.jpg",
-   "price": 2440000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "16Z95U-G.AS5WK",
-   "sub": "16인치",
-   "subn": 16
-  },
-  {
-   "name": "LG 그램 Pro AI 2026, Copilot+ PC",
    "url": "https://www.lge.co.kr/notebook/16z95u-gs5zk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10743827/md10743827-350x350.jpg",
    "price": 2440000,
@@ -1614,6 +1601,19 @@
     "닷컴ONLY"
    ],
    "model": "16Z95U-G.AS5ZK",
+   "sub": "16인치",
+   "subn": 16
+  },
+  {
+   "name": "LG 그램 Pro AI 2026, Copilot+ PC",
+   "url": "https://www.lge.co.kr/notebook/16z95u-gs5wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10744830/md10744830-350x350.jpg",
+   "price": 2440000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "16Z95U-G.AS5WK",
    "sub": "16인치",
    "subn": 16
   },
@@ -2448,7 +2448,7 @@
    ],
    "model": "32LX6BEGBAKXT7SC",
    "dday": 3,
-   "stock": 25,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -3531,7 +3531,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 92,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
