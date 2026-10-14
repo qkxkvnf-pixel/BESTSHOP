@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14 11:14",
+ "updated": "2026-10-14 12:16",
  "status": {
   "errors": [],
-  "timedeal": 80,
+  "timedeal": 79,
   "debug": {
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규20 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
-   "info": "totalCount=762,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T11:14:37.8074608\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
+   "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
+   "total_api": "{\"timestamp\":\"2026-10-14T12:16:19.6662136\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -352,7 +352,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 4,
-   "stock": 58,
+   "stock": 57,
    "sub": "85인치",
    "subn": 85
   },
@@ -368,7 +368,7 @@
    ],
    "model": "75QNED92AGA",
    "dday": 4,
-   "stock": 36,
+   "stock": 35,
    "sub": "75인치",
    "subn": 75
   },
@@ -412,7 +412,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -498,7 +498,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 4,
-   "stock": 44,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -557,7 +557,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 4,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -573,7 +573,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 4,
-   "stock": 50,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -1965,7 +1965,7 @@
    ],
    "model": "49U950AW",
    "dday": 5,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -2514,21 +2514,6 @@
    "subn": 0
   },
   {
-   "name": "LG 힐링미 안마의자 (MX6)",
-   "url": "https://www.lge.co.kr/massage-chairs/mh67br",
-   "img": "https://www.lge.co.kr/kr/images/massage-chairs/md10282840/md10282840-350x350.jpg",
-   "price": 1571700,
-   "cat": "안마의자",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "MH67BR",
-   "dday": 4,
-   "stock": 75,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 힐링미 오브제컬렉션 안마의자 (아르테)",
    "url": "https://www.lge.co.kr/massage-chairs/mh20br",
    "img": "https://www.lge.co.kr/kr/images/massage-chairs/md10343826/md10343826-350x350.jpg",
@@ -2539,7 +2524,7 @@
    ],
    "model": "MH20BR",
    "dday": 4,
-   "stock": 81,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -2599,7 +2584,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 4,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
