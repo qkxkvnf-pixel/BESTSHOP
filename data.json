@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14 17:19",
+ "updated": "2026-10-14 18:20",
  "status": {
   "errors": [],
-  "timedeal": 87,
+  "timedeal": 86,
   "debug": {
    "count": "수집 216",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T17:19:01.0491636\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-14T18:20:10.3589786\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 216
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 4,
-   "stock": 38,
+   "stock": 37,
    "sub": "75인치",
    "subn": 75
   },
@@ -341,22 +341,6 @@
    "subn": 65
   },
   {
-   "name": "LG QNED evo AI (벽걸이형) 214cm",
-   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
-   "price": 2669100,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "85QNED8MBEA",
-   "dday": 4,
-   "stock": 54,
-   "sub": "85인치",
-   "subn": 85
-  },
-  {
    "name": "LG QNED evo AI (벽걸이형) 189cm",
    "url": "https://www.lge.co.kr/tvs/75qned92aga-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10654836/md10654836-350x350.jpg",
@@ -371,6 +355,22 @@
    "stock": 35,
    "sub": "75인치",
    "subn": 75
+  },
+  {
+   "name": "LG QNED evo AI (벽걸이형) 214cm",
+   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
+   "price": 2669100,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "85QNED8MBEA",
+   "dday": 4,
+   "stock": 54,
+   "sub": "85인치",
+   "subn": 85
   },
   {
    "name": "LG QNED evo AI (벽걸이형) 214cm",
@@ -454,7 +454,7 @@
    ],
    "model": "AS156HWWL",
    "dday": 4,
-   "stock": 46,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -470,7 +470,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 4,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -516,7 +516,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -1881,7 +1881,7 @@
    ],
    "model": "43U712A",
    "dday": 5,
-   "stock": 141,
+   "stock": 140,
    "sub": "",
    "subn": 0
   },
@@ -1969,7 +1969,7 @@
    ],
    "model": "39GX950B",
    "dday": 5,
-   "stock": 199,
+   "stock": 197,
    "sub": "",
    "subn": 0
   },
@@ -2339,22 +2339,6 @@
    "subn": 0
   },
   {
-   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5gmr80h",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10217826/md10217826-350x350.jpg",
-   "price": 1636800,
-   "cat": "스타일러",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "SC5GMR80H",
-   "dday": 4,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 스타일러 오브제컬렉션 (NEW)",
    "url": "https://www.lge.co.kr/lg-styler/sc5mbr62b",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10724835/md10724835-350x350.jpg",
@@ -2405,6 +2389,19 @@
     "닷컴ONLY"
    ],
    "model": "SC5GMR52CS.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
+   "url": "https://www.lge.co.kr/lg-styler/sc5gmr80h",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10217826/md10217826-350x350.jpg",
+   "price": 1860000,
+   "cat": "스타일러",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "SC5GMR80H.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2582,7 +2579,7 @@
    ],
    "model": "MH20BR",
    "dday": 4,
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -2642,7 +2639,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 4,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
