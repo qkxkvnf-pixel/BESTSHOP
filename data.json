@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14 10:24",
+ "updated": "2026-10-14 11:14",
  "status": {
   "errors": [],
   "timedeal": 80,
   "debug": {
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규20 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
-   "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T10:23:48.6378191\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "info": "totalCount=762,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
+   "total_api": "{\"timestamp\":\"2026-10-14T11:14:37.8074608\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -52,7 +52,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 4,
-   "stock": 27,
+   "stock": 28,
    "sub": "50인치",
    "subn": 50
   },
@@ -93,7 +93,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 4,
-   "stock": 19,
+   "stock": 18,
    "sub": "65인치",
    "subn": 65
   },
@@ -192,7 +192,7 @@
    ],
    "model": "OLED55B6ENA",
    "dday": 4,
-   "stock": 46,
+   "stock": 44,
    "sub": "55인치",
    "subn": 55
   },
@@ -253,7 +253,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 4,
-   "stock": 40,
+   "stock": 39,
    "sub": "75인치",
    "subn": 75
   },
@@ -412,7 +412,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -529,7 +529,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 92,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -1879,7 +1879,7 @@
    ],
    "model": "32U700B",
    "dday": 5,
-   "stock": 74,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
@@ -2428,7 +2428,7 @@
     "타임딜"
    ],
    "model": "32LX6BEGB",
-   "stock": 11,
+   "stock": 9,
    "sub": "",
    "subn": 0
   },
@@ -2524,7 +2524,7 @@
    ],
    "model": "MH67BR",
    "dday": 4,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -2539,7 +2539,7 @@
    ],
    "model": "MH20BR",
    "dday": 4,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -2614,7 +2614,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 4,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -2659,7 +2659,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 4,
-   "stock": 57,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -3118,7 +3118,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 4,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -3330,7 +3330,7 @@
    ],
    "model": "WU523AWB",
    "dday": 4,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -3514,7 +3514,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
