@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14 19:19",
+ "updated": "2026-10-14 20:18",
  "status": {
   "errors": [],
-  "timedeal": 85,
+  "timedeal": 83,
   "debug": {
    "count": "수집 216",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T19:19:27.0511497\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-14T20:18:38.7881235\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 216
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 4,
-   "stock": 37,
+   "stock": 34,
    "sub": "75인치",
    "subn": 75
   },
@@ -253,7 +253,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 4,
-   "stock": 34,
+   "stock": 33,
    "sub": "75인치",
    "subn": 75
   },
@@ -297,7 +297,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 4,
-   "stock": 52,
+   "stock": 50,
    "sub": "86인치",
    "subn": 86
   },
@@ -355,7 +355,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 4,
-   "stock": 53,
+   "stock": 52,
    "sub": "85인치",
    "subn": 85
   },
@@ -384,7 +384,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 4,
-   "stock": 23,
+   "stock": 21,
    "sub": "85인치",
    "subn": 85
   },
@@ -454,7 +454,7 @@
    ],
    "model": "AS156HWWL",
    "dday": 4,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -516,7 +516,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 78,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -560,7 +560,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 4,
-   "stock": 49,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -1896,7 +1896,7 @@
    ],
    "model": "32U889SAW",
    "dday": 5,
-   "stock": 198,
+   "stock": 197,
    "sub": "",
    "subn": 0
   },
@@ -1969,7 +1969,7 @@
    ],
    "model": "39GX950B",
    "dday": 5,
-   "stock": 196,
+   "stock": 194,
    "sub": "",
    "subn": 0
   },
@@ -2240,22 +2240,6 @@
    "subn": 0
   },
   {
-   "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW) 3벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc3gne50",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10680833/md10680833-350x350.jpg",
-   "price": 1218300,
-   "cat": "스타일러",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "SC3GNE50",
-   "dday": 4,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
    "url": "https://www.lge.co.kr/lg-styler/sc3gne52",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10680834/md10680834-350x350.jpg",
@@ -2282,6 +2266,19 @@
    "subn": 0
   },
   {
+   "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
+   "url": "https://www.lge.co.kr/lg-styler/sc3gne50",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10680833/md10680833-350x350.jpg",
+   "price": 1380000,
+   "cat": "스타일러",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "SC3GNE50.BKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
    "url": "https://www.lge.co.kr/lg-styler/sc5mrr42s",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10754844/md10754844-350x350.jpg",
@@ -2291,22 +2288,6 @@
     "닷컴ONLY"
    ],
    "model": "SC5MRR42S.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5msr82h",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10362828/md10362828-350x350.jpg",
-   "price": 1469400,
-   "cat": "스타일러",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "SC5MSR82H",
-   "dday": 4,
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2348,6 +2329,19 @@
    "model": "SC5GMR70",
    "dday": 4,
    "stock": 1,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
+   "url": "https://www.lge.co.kr/lg-styler/sc5msr82h",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10362828/md10362828-350x350.jpg",
+   "price": 1680000,
+   "cat": "스타일러",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "SC5MSR82H.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2564,7 +2558,7 @@
    ],
    "model": "MH20BR",
    "dday": 4,
-   "stock": 81,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -2624,7 +2618,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 4,
-   "stock": 85,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -2639,7 +2633,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 4,
-   "stock": 94,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -2807,7 +2801,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 4,
-   "stock": 68,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -2849,7 +2843,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 4,
-   "stock": 38,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -2933,7 +2927,7 @@
    ],
    "model": "FQ17FN5BD2",
    "dday": 4,
-   "stock": 7,
+   "stock": 8,
    "sub": "",
    "subn": 0
   },
@@ -3355,7 +3349,7 @@
    ],
    "model": "WU523AWB",
    "dday": 4,
-   "stock": 78,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -3371,7 +3365,7 @@
    ],
    "model": "WD523AWB",
    "dday": 4,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -3495,7 +3489,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 4,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -3568,7 +3562,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 95,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
