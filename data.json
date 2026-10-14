@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 16:30",
+ "updated": "2026-10-14 17:19",
  "status": {
   "errors": [],
   "timedeal": 87,
@@ -7,7 +7,7 @@
    "count": "수집 216",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=761,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-14T16:29:56.5587797\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
+   "total_api": "{\"timestamp\":\"2026-10-14T17:19:01.0491636\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":761}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 216
@@ -52,7 +52,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 4,
-   "stock": 25,
+   "stock": 23,
    "sub": "50인치",
    "subn": 50
   },
@@ -93,7 +93,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 4,
-   "stock": 17,
+   "stock": 39,
    "sub": "65인치",
    "subn": 65
   },
@@ -208,7 +208,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 4,
-   "stock": 40,
+   "stock": 38,
    "sub": "75인치",
    "subn": 75
   },
@@ -310,7 +310,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 4,
-   "stock": 53,
+   "stock": 52,
    "sub": "86인치",
    "subn": 86
   },
@@ -384,7 +384,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 4,
-   "stock": 24,
+   "stock": 23,
    "sub": "85인치",
    "subn": 85
   },
@@ -516,7 +516,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 82,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -1881,7 +1881,7 @@
    ],
    "model": "43U712A",
    "dday": 5,
-   "stock": 144,
+   "stock": 141,
    "sub": "",
    "subn": 0
   },
@@ -1916,6 +1916,19 @@
    "subn": 0
   },
   {
+   "name": "LG 울트라기어 AI 게이밍모니터",
+   "url": "https://www.lge.co.kr/monitors/25g590b",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10891831/md10891831-350x350.jpg",
+   "price": 1360000,
+   "cat": "모니터",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "25G590B.BKR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 울트라기어 올레드 게이밍모니터 GX8 4K",
    "url": "https://www.lge.co.kr/monitors/32gx850a",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10680848/md10680848-350x350.jpg",
@@ -1927,19 +1940,6 @@
    "model": "32GX850A",
    "dday": 5,
    "stock": 50,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라기어 AI 게이밍모니터",
-   "url": "https://www.lge.co.kr/monitors/25g590b",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10891831/md10891831-350x350.jpg",
-   "price": 1490000,
-   "cat": "모니터",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "25G590B.BKR",
    "sub": "",
    "subn": 0
   },
@@ -2471,7 +2471,7 @@
     "타임딜"
    ],
    "model": "32LX6BEGB",
-   "stock": 7,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -2642,7 +2642,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 4,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -2702,7 +2702,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 4,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -2825,7 +2825,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 4,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
