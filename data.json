@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-16 01:18",
+ "updated": "2026-10-16 02:19",
  "status": {
   "errors": [],
-  "timedeal": 104,
+  "timedeal": 103,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=762,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-16T01:18:27.3817569\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
+   "total_api": "{\"timestamp\":\"2026-10-16T02:19:46.0395853\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -446,7 +446,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 2,
-   "stock": 36,
+   "stock": 35,
    "sub": "86인치",
    "subn": 86
   },
@@ -2195,7 +2195,7 @@
    ],
    "model": "39GX950B",
    "dday": 4,
-   "stock": 181,
+   "stock": 180,
    "sub": "",
    "subn": 0
   },
@@ -2551,21 +2551,6 @@
     "닷컴ONLY"
    ],
    "model": "SC5MSR42S.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5mhr60",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10286835/md10286835-350x350.jpg",
-   "price": 1357800,
-   "cat": "스타일러",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "SC5MHR60",
-   "dday": 2,
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -3285,7 +3270,7 @@
    ],
    "model": "FQ17FN5BD2",
    "dday": 3,
-   "stock": 5,
+   "stock": 4,
    "sub": "",
    "subn": 0
   },
@@ -3482,7 +3467,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 2,
-   "stock": 23,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
