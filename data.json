@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15 16:29",
+ "updated": "2026-10-15 17:19",
  "status": {
   "errors": [],
   "timedeal": 107,
@@ -7,7 +7,7 @@
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=762,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-15T16:29:13.2475470\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
+   "total_api": "{\"timestamp\":\"2026-10-15T17:19:09.7651293\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -252,7 +252,7 @@
    ],
    "model": "OLED55B6ENA",
    "dday": 3,
-   "stock": 42,
+   "stock": 41,
    "sub": "55인치",
    "subn": 55
   },
@@ -374,7 +374,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 3,
-   "stock": 28,
+   "stock": 26,
    "sub": "75인치",
    "subn": 75
   },
@@ -476,7 +476,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 3,
-   "stock": 43,
+   "stock": 42,
    "sub": "86인치",
    "subn": 86
   },
@@ -550,7 +550,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 3,
-   "stock": 12,
+   "stock": 11,
    "sub": "85인치",
    "subn": 85
   },
@@ -2996,7 +2996,7 @@
    ],
    "model": "SQ07GS7EAS",
    "dday": 3,
-   "stock": 60,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -3088,7 +3088,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 3,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -3712,7 +3712,7 @@
    ],
    "model": "WD520VHT",
    "dday": 3,
-   "stock": 82,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -3882,7 +3882,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 3,
-   "stock": 72,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
