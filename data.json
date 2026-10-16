@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-16 12:16",
+ "updated": "2026-10-16 13:17",
  "status": {
   "errors": [],
-  "timedeal": 116,
+  "timedeal": 115,
   "debug": {
    "count": "수집 222",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규25 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-16T12:16:29.2982258\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-16T13:17:42.8817904\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 222
@@ -154,21 +154,6 @@
    "model": "65NU850BES.AKRG",
    "sub": "65인치",
    "subn": 65
-  },
-  {
-   "name": "LG 나노셀 AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75nano90aka-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10543859/md10543859-350x350.jpg",
-   "price": 1134600,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75NANO90AKA",
-   "dday": 15,
-   "stock": 1,
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG 올레드 evo AI (스탠드형) C5 105cm",
@@ -551,7 +536,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 2,
-   "stock": 32,
+   "stock": 31,
    "sub": "86인치",
    "subn": 86
   },
@@ -669,7 +654,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 2,
-   "stock": 43,
+   "stock": 42,
    "sub": "85인치",
    "subn": 85
   },
@@ -917,7 +902,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 78,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -932,7 +917,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 2,
-   "stock": 30,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -963,7 +948,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -2300,7 +2285,7 @@
    ],
    "model": "32U700B",
    "dday": 3,
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -2416,7 +2401,7 @@
    ],
    "model": "39GX950B",
    "dday": 3,
-   "stock": 180,
+   "stock": 179,
    "sub": "",
    "subn": 0
   },
@@ -2431,7 +2416,7 @@
    ],
    "model": "40U990AW",
    "dday": 3,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -2446,7 +2431,7 @@
    ],
    "model": "52G930B",
    "dday": 3,
-   "stock": 29,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -2461,7 +2446,7 @@
    ],
    "model": "M-X0120BASA",
    "dday": 3,
-   "stock": 26,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -2700,7 +2685,7 @@
    ],
    "model": "SC5MSR42",
    "dday": 15,
-   "stock": 2,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -3139,7 +3124,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 2,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -3407,7 +3392,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 2,
-   "stock": 35,
+   "stock": 34,
    "sub": "",
    "subn": 0
   },
@@ -3688,7 +3673,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 2,
-   "stock": 23,
+   "stock": 21,
    "sub": "",
    "subn": 0
   },
@@ -4025,7 +4010,7 @@
    ],
    "model": "WD723RH",
    "dday": 2,
-   "stock": 89,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -4084,7 +4069,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -4173,7 +4158,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 2,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
