@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-16 13:17",
+ "updated": "2026-10-16 14:17",
  "status": {
   "errors": [],
-  "timedeal": 115,
+  "timedeal": 114,
   "debug": {
    "count": "수집 222",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규25 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-16T13:17:42.8817904\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-16T14:17:33.3003011\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 222
@@ -108,7 +108,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 2,
-   "stock": 28,
+   "stock": 27,
    "sub": "65인치",
    "subn": 65
   },
@@ -222,7 +222,7 @@
    ],
    "model": "OLED48C5ENA",
    "dday": 2,
-   "stock": 43,
+   "stock": 42,
    "sub": "48인치",
    "subn": 48
   },
@@ -240,22 +240,6 @@
    "stock": 40,
    "sub": "55인치",
    "subn": 55
-  },
-  {
-   "name": "LG QNED AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75qned70aba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10654891/md10654891-350x350.jpg",
-   "price": 1385700,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "75QNED70ABA",
-   "dday": 15,
-   "stock": 1,
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG QNED AI (스탠드형) 189cm",
@@ -284,7 +268,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 2,
-   "stock": 30,
+   "stock": 29,
    "sub": "75인치",
    "subn": 75
   },
@@ -331,6 +315,19 @@
    "model": "75QNED65BBWAS30A",
    "dday": 2,
    "stock": 29,
+   "sub": "75인치",
+   "subn": 75
+  },
+  {
+   "name": "LG QNED AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/75qned70aba-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10654891/md10654891-350x350.jpg",
+   "price": 1590000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "75QNED70ABW.AKRG",
    "sub": "75인치",
    "subn": 75
   },
@@ -654,7 +651,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 2,
-   "stock": 42,
+   "stock": 41,
    "sub": "85인치",
    "subn": 85
   },
@@ -2243,7 +2240,7 @@
    ],
    "model": "25G520B",
    "dday": 3,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -2285,7 +2282,7 @@
    ],
    "model": "32U700B",
    "dday": 3,
-   "stock": 61,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -2313,7 +2310,7 @@
    ],
    "model": "43U712A",
    "dday": 3,
-   "stock": 137,
+   "stock": 136,
    "sub": "",
    "subn": 0
   },
@@ -2401,7 +2398,7 @@
    ],
    "model": "39GX950B",
    "dday": 3,
-   "stock": 179,
+   "stock": 178,
    "sub": "",
    "subn": 0
   },
@@ -2945,6 +2942,22 @@
    "subn": 0
   },
   {
+   "name": "LG 스탠바이미 2 Max 79cm",
+   "url": "https://www.lge.co.kr/stan-by-me/32lx6begb",
+   "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10801828/md10801828-350x350.jpg",
+   "price": 1236900,
+   "cat": "스탠바이미",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "32LX6BEGB",
+   "dday": 3,
+   "stock": 29,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 스탠바이미 2 Max + LG 스탠바이미 스피커 79cm",
    "url": "https://www.lge.co.kr/stan-by-me/32lx6begbakxt7sc",
    "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10894838/md10894838-350x350.jpg",
@@ -2957,19 +2970,6 @@
    "model": "32LX6BEGBAKXT7SC",
    "dday": 2,
    "stock": 19,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스탠바이미 2 Max",
-   "url": "https://www.lge.co.kr/stan-by-me/32lx6begb",
-   "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10801828/md10801828-350x350.jpg",
-   "price": 1450000,
-   "cat": "스탠바이미",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "32LX6BEGB.AKR",
    "sub": "",
    "subn": 0
   },
@@ -3276,7 +3276,7 @@
    ],
    "model": "FQ18HDWHU2M",
    "dday": 2,
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -3337,7 +3337,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 2,
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -3392,7 +3392,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 2,
-   "stock": 34,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -3673,7 +3673,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 2,
-   "stock": 21,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -4010,7 +4010,7 @@
    ],
    "model": "WD723RH",
    "dday": 2,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -4250,21 +4250,6 @@
     "타임딜"
    ],
    "model": "HU810PW",
-   "dday": 3,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 시네빔 Laser 4K 초단초점",
-   "url": "https://www.lge.co.kr/projectors/hu715qp",
-   "img": "https://www.lge.co.kr/kr/images/projectors/md09120827/md09120827-350x350.jpg",
-   "price": 3171300,
-   "cat": "프로젝터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "HU715QP",
    "dday": 3,
    "stock": 1,
    "sub": "",
