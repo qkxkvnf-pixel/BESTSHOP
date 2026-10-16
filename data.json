@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 15:17",
+ "updated": "2026-10-16 16:26",
  "status": {
   "errors": [],
   "timedeal": 114,
@@ -7,7 +7,7 @@
    "count": "수집 222",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규25 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-16T15:16:56.3246217\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-16T16:26:37.6891644\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 222
@@ -37,7 +37,7 @@
    ],
    "model": "43NANO80ANA",
    "dday": 2,
-   "stock": 35,
+   "stock": 34,
    "sub": "43인치",
    "subn": 43
   },
@@ -67,7 +67,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 2,
-   "stock": 11,
+   "stock": 16,
    "sub": "50인치",
    "subn": 50
   },
@@ -108,7 +108,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 2,
-   "stock": 26,
+   "stock": 24,
    "sub": "65인치",
    "subn": 65
   },
@@ -268,7 +268,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 2,
-   "stock": 27,
+   "stock": 24,
    "sub": "75인치",
    "subn": 75
   },
@@ -401,7 +401,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 2,
-   "stock": 21,
+   "stock": 19,
    "sub": "75인치",
    "subn": 75
   },
@@ -651,7 +651,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 2,
-   "stock": 41,
+   "stock": 40,
    "sub": "85인치",
    "subn": 85
   },
@@ -697,7 +697,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 2,
-   "stock": 8,
+   "stock": 14,
    "sub": "85인치",
    "subn": 85
   },
@@ -899,7 +899,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -922,14 +922,14 @@
    "name": "LG 퓨리케어 오브제컬렉션 에어로부스터 48.2㎡ 3등급",
    "url": "https://www.lge.co.kr/air-purifier/as155gwdl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10495853/md10495853-350x350.jpg",
-   "price": 594300,
+   "price": 585000,
    "cat": "공기청정기",
    "tags": [
     "타임딜"
    ],
    "model": "AS155GWDL",
    "dday": 2,
-   "stock": 39,
+   "stock": 30,
    "sub": "",
    "subn": 0
   },
@@ -2969,7 +2969,7 @@
    ],
    "model": "32LX6BEGBAKXT7SC",
    "dday": 2,
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -3169,7 +3169,7 @@
    ],
    "model": "SQ10GJ1WAS",
    "dday": 2,
-   "stock": 58,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -3246,7 +3246,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 2,
-   "stock": 75,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -3673,7 +3673,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 2,
-   "stock": 20,
+   "stock": 19,
    "sub": "",
    "subn": 0
   },
@@ -3870,7 +3870,7 @@
    ],
    "model": "WD520VHT",
    "dday": 2,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -4087,6 +4087,21 @@
    "subn": 0
   },
   {
+   "name": "LG 휘센 상업용 제습기 35L 3등급",
+   "url": "https://www.lge.co.kr/dehumidifiers/dc356skaa",
+   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10820839/md10820839-350x350.jpg",
+   "price": 479000,
+   "cat": "제습기",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "DC356SKAA",
+   "dday": 2,
+   "stock": 30,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 휘센 오브제컬렉션 제습기 18L 1등급",
    "url": "https://www.lge.co.kr/dehumidifiers/dq185mwga",
    "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586832/md10586832-350x350.jpg",
@@ -4103,21 +4118,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 상업용 제습기 35L 3등급",
-   "url": "https://www.lge.co.kr/dehumidifiers/dc356skaa",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10820839/md10820839-350x350.jpg",
-   "price": 482700,
-   "cat": "제습기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "DC356SKAA",
-   "dday": 2,
-   "stock": 30,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 오브제컬렉션 제습기 21L 1등급",
    "url": "https://www.lge.co.kr/dehumidifiers/dq214mwga",
    "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10372849/md10372849-350x350.jpg",
@@ -4128,7 +4128,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 2,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
