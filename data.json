@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 10:22",
+ "updated": "2026-10-16 11:17",
  "status": {
   "errors": [],
   "timedeal": 116,
@@ -7,7 +7,7 @@
    "count": "수집 221",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규24 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=762,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-16T10:22:23.8141869\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
+   "total_api": "{\"timestamp\":\"2026-10-16T11:17:44.2601047\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":762}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 221
@@ -67,7 +67,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 2,
-   "stock": 13,
+   "stock": 12,
    "sub": "50인치",
    "subn": 50
   },
@@ -88,7 +88,7 @@
    "name": "LG NANO 4K UHD AI (스탠드형)",
    "url": "https://www.lge.co.kr/tvs/55nu850bena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10799853/md10799853-350x350.jpg",
-   "price": 890000,
+   "price": 850000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -108,7 +108,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 2,
-   "stock": 29,
+   "stock": 28,
    "sub": "65인치",
    "subn": 65
   },
@@ -237,7 +237,7 @@
    ],
    "model": "OLED48C5ENA",
    "dday": 2,
-   "stock": 44,
+   "stock": 43,
    "sub": "48인치",
    "subn": 48
   },
@@ -299,7 +299,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 2,
-   "stock": 32,
+   "stock": 31,
    "sub": "75인치",
    "subn": 75
   },
@@ -454,6 +454,19 @@
    "subn": 65
   },
   {
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/85nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799848/md10799848-350x350.jpg",
+   "price": 1840000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "85NU850BEW.AKRG",
+   "sub": "85인치",
+   "subn": 85
+  },
+  {
    "name": "LG QNED evo AI (스탠드형) + LG 사운드바",
    "url": "https://www.lge.co.kr/tvs/75qned8mbesas30a",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10935838/md10935838-350x350.jpg",
@@ -482,19 +495,6 @@
    "stock": 29,
    "sub": "75인치",
    "subn": 75
-  },
-  {
-   "name": "LG NANO 4K UHD AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/85nu850bena-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799848/md10799848-350x350.jpg",
-   "price": 1860000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "85NU850BEW.AKRG",
-   "sub": "85인치",
-   "subn": 85
   },
   {
    "name": "LG 올레드 AI (스탠드형) B6 163cm",
@@ -551,7 +551,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 2,
-   "stock": 33,
+   "stock": 32,
    "sub": "86인치",
    "subn": 86
   },
@@ -669,7 +669,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 2,
-   "stock": 45,
+   "stock": 44,
    "sub": "85인치",
    "subn": 85
   },
@@ -833,7 +833,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 2,
-   "stock": 67,
+   "stock": 66,
    "sub": "",
    "subn": 0
   },
@@ -904,7 +904,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -950,7 +950,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 46,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -2287,7 +2287,7 @@
    ],
    "model": "32U700B",
    "dday": 3,
-   "stock": 65,
+   "stock": 62,
    "sub": "",
    "subn": 0
   },
@@ -2330,7 +2330,7 @@
    ],
    "model": "32U889SAW",
    "dday": 3,
-   "stock": 195,
+   "stock": 194,
    "sub": "",
    "subn": 0
   },
@@ -2958,7 +2958,7 @@
    ],
    "model": "32LX6BEGBAKXT7SC",
    "dday": 2,
-   "stock": 21,
+   "stock": 19,
    "sub": "",
    "subn": 0
   },
@@ -3887,7 +3887,7 @@
    ],
    "model": "WU523AWB",
    "dday": 2,
-   "stock": 74,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -4071,7 +4071,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
