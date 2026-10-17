@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-17 16:23",
+ "updated": "2026-10-17 17:11",
  "status": {
   "errors": [],
-  "timedeal": 112,
+  "timedeal": 111,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-17T16:23:24.7535589\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-17T17:11:44.2477044\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -108,7 +108,7 @@
    ],
    "model": "65NU810BENA",
    "dday": 1,
-   "stock": 20,
+   "stock": 19,
    "sub": "65인치",
    "subn": 65
   },
@@ -225,21 +225,6 @@
    "stock": 35,
    "sub": "55인치",
    "subn": 55
-  },
-  {
-   "name": "LG QNED AI (스탠드형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75qned70bga-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784843/md10784843-350x350.jpg",
-   "price": 1432200,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75QNED70BGA",
-   "dday": 14,
-   "stock": 1,
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG QNED AI (벽걸이형) 189cm",
@@ -386,7 +371,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 1,
-   "stock": 7,
+   "stock": 5,
    "sub": "75인치",
    "subn": 75
   },
@@ -636,7 +621,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 1,
-   "stock": 33,
+   "stock": 32,
    "sub": "85인치",
    "subn": 85
   },
@@ -900,7 +885,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 23,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -944,7 +929,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 1,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -2237,7 +2222,7 @@
    ],
    "model": "32U700B",
    "dday": 2,
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -2685,7 +2670,7 @@
    ],
    "model": "SC3GNE52",
    "dday": 1,
-   "stock": 41,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -3071,7 +3056,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 67,
+   "stock": 66,
    "sub": "",
    "subn": 0
   },
@@ -3131,7 +3116,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 1,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -3162,7 +3147,7 @@
    ],
    "model": "FQ17GC1EP1",
    "dday": 1,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -3208,7 +3193,7 @@
    ],
    "model": "FQ18HDWHU2",
    "dday": 1,
-   "stock": 26,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -3284,7 +3269,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
-   "stock": 57,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -3938,7 +3923,7 @@
    ],
    "model": "WD721RK",
    "dday": 1,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3969,7 +3954,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 1,
-   "stock": 26,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -4087,7 +4072,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 1,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
