@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-17 09:09",
+ "updated": "2026-10-17 10:23",
  "status": {
   "errors": [],
-  "timedeal": 110,
+  "timedeal": 117,
   "debug": {
-   "count": "수집 222",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규25 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "count": "수집 220",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-17T09:09:40.6747612\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-17T10:23:47.2468162\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
-  "only": 222
+  "only": 220
  },
  "items": [
   {
@@ -253,7 +253,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 1,
-   "stock": 16,
+   "stock": 15,
    "sub": "75인치",
    "subn": 75
   },
@@ -386,7 +386,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 1,
-   "stock": 12,
+   "stock": 9,
    "sub": "75인치",
    "subn": 75
   },
@@ -518,7 +518,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 1,
-   "stock": 26,
+   "stock": 27,
    "sub": "86인치",
    "subn": 86
   },
@@ -784,7 +784,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "dday": 2,
+   "dday": 1,
    "stock": 55,
    "sub": "",
    "subn": 0
@@ -852,7 +852,7 @@
     "타임딜"
    ],
    "model": "AS156HWWL",
-   "dday": 2,
+   "dday": 1,
    "stock": 42,
    "sub": "",
    "subn": 0
@@ -868,8 +868,8 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "dday": 2,
-   "stock": 64,
+   "dday": 1,
+   "stock": 63,
    "sub": "",
    "subn": 0
   },
@@ -883,7 +883,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "dday": 2,
+   "dday": 1,
    "stock": 23,
    "sub": "",
    "subn": 0
@@ -914,7 +914,7 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "dday": 2,
+   "dday": 1,
    "stock": 25,
    "sub": "",
    "subn": 0
@@ -942,7 +942,7 @@
     "타임딜"
    ],
    "model": "AS356LSAA",
-   "dday": 2,
+   "dday": 1,
    "stock": 42,
    "sub": "",
    "subn": 0
@@ -958,7 +958,7 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "dday": 2,
+   "dday": 1,
    "stock": 45,
    "sub": "",
    "subn": 0
@@ -2209,7 +2209,7 @@
     "타임딜"
    ],
    "model": "25G520B",
-   "dday": 3,
+   "dday": 2,
    "stock": 94,
    "sub": "",
    "subn": 0
@@ -2251,7 +2251,7 @@
     "타임딜"
    ],
    "model": "32U700B",
-   "dday": 3,
+   "dday": 2,
    "stock": 54,
    "sub": "",
    "subn": 0
@@ -2279,7 +2279,7 @@
     "타임딜"
    ],
    "model": "43U712A",
-   "dday": 3,
+   "dday": 2,
    "stock": 135,
    "sub": "",
    "subn": 0
@@ -2294,7 +2294,7 @@
     "타임딜"
    ],
    "model": "32U889SAW",
-   "dday": 3,
+   "dday": 2,
    "stock": 192,
    "sub": "",
    "subn": 0
@@ -2309,7 +2309,7 @@
     "타임딜"
    ],
    "model": "32GS95UVW",
-   "dday": 3,
+   "dday": 2,
    "stock": 48,
    "sub": "",
    "subn": 0
@@ -2337,7 +2337,7 @@
     "타임딜"
    ],
    "model": "32GX850A",
-   "dday": 3,
+   "dday": 2,
    "stock": 49,
    "sub": "",
    "subn": 0
@@ -2352,7 +2352,7 @@
     "타임딜"
    ],
    "model": "49U950AW",
-   "dday": 3,
+   "dday": 2,
    "stock": 33,
    "sub": "",
    "subn": 0
@@ -2367,7 +2367,7 @@
     "타임딜"
    ],
    "model": "39GX950B",
-   "dday": 3,
+   "dday": 2,
    "stock": 172,
    "sub": "",
    "subn": 0
@@ -2382,7 +2382,7 @@
     "타임딜"
    ],
    "model": "40U990AW",
-   "dday": 3,
+   "dday": 2,
    "stock": 46,
    "sub": "",
    "subn": 0
@@ -2397,7 +2397,7 @@
     "타임딜"
    ],
    "model": "52G930B",
-   "dday": 3,
+   "dday": 2,
    "stock": 28,
    "sub": "",
    "subn": 0
@@ -2635,8 +2635,24 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "dday": 2,
+   "dday": 1,
    "stock": 56,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) 5벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5msr42",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10351835/md10351835-350x350.jpg",
+   "price": 1009100,
+   "cat": "스타일러",
+   "tags": [
+    "타임딜",
+    "닷컴ONLY"
+   ],
+   "model": "SC5MSR42",
+   "dday": 14,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2651,21 +2667,39 @@
     "타임딜"
    ],
    "model": "SC3GBE52",
-   "dday": 2,
+   "dday": 1,
    "stock": 16,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW)",
-   "url": "https://www.lge.co.kr/lg-styler/sc3rbe52",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10719841/md10719841-350x350.jpg",
-   "price": 1115000,
+   "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW) 5벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5mer42s",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10754845/md10754845-350x350.jpg",
+   "price": 1078800,
    "cat": "스타일러",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "SC3RBE52.BKOR",
+   "model": "SC5MER42S",
+   "dday": 14,
+   "stock": 1,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 3벌+바지 1벌",
+   "url": "https://www.lge.co.kr/lg-styler/s3bof-bkor",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10513830/md10513830-350x350.jpg",
+   "price": 1106700,
+   "cat": "스타일러",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "S3BOF",
+   "dday": 1,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2680,21 +2714,23 @@
     "타임딜"
    ],
    "model": "SC3GNE52",
-   "dday": 2,
+   "dday": 1,
    "stock": 42,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW)",
-   "url": "https://www.lge.co.kr/lg-styler/sc5mer42s",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10754845/md10754845-350x350.jpg",
-   "price": 1190000,
+   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) 5벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5msr40",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10245830/md10245830-350x350.jpg",
+   "price": 1218300,
    "cat": "스타일러",
    "tags": [
-    "닷컴ONLY"
+    "타임딜"
    ],
-   "model": "SC5MER42S.AKOR",
+   "model": "SC5MSR40",
+   "dday": 14,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2708,6 +2744,21 @@
     "닷컴ONLY"
    ],
    "model": "SC5MSR42S.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) 5벌+바지 1벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5mhr60",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10286835/md10286835-350x350.jpg",
+   "price": 1357800,
+   "cat": "스타일러",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "SC5MHR60",
+   "dday": 1,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2734,6 +2785,22 @@
     "닷컴ONLY"
    ],
    "model": "SC5MRR42S.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머 5벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5msr72",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544844/md10544844-350x350.jpg",
+   "price": 1432200,
+   "cat": "스타일러",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "SC5MSR72",
+   "dday": 14,
+   "stock": 4,
    "sub": "",
    "subn": 0
   },
@@ -2779,28 +2846,17 @@
    "subn": 0
   },
   {
-   "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머",
-   "url": "https://www.lge.co.kr/lg-styler/sc5msr72",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544844/md10544844-350x350.jpg",
-   "price": 1640000,
+   "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머 5벌",
+   "url": "https://www.lge.co.kr/lg-styler/sc5gmr70",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544842/md10544842-350x350.jpg",
+   "price": 1664700,
    "cat": "스타일러",
    "tags": [
-    "닷컴ONLY"
+    "타임딜"
    ],
-   "model": "SC5MSR72.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
-   "url": "https://www.lge.co.kr/lg-styler/sc5msr82h",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10362828/md10362828-350x350.jpg",
-   "price": 1680000,
-   "cat": "스타일러",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "SC5MSR82H.AKOR",
+   "model": "SC5GMR70",
+   "dday": 1,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -3077,7 +3133,7 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "dday": 2,
+   "dday": 1,
    "stock": 69,
    "sub": "",
    "subn": 0
@@ -3092,7 +3148,7 @@
     "타임딜"
    ],
    "model": "SQ06EA1WCS",
-   "dday": 2,
+   "dday": 1,
    "stock": 93,
    "sub": "",
    "subn": 0
@@ -3107,7 +3163,7 @@
     "타임딜"
    ],
    "model": "SQ07GS7EAS",
-   "dday": 2,
+   "dday": 1,
    "stock": 58,
    "sub": "",
    "subn": 0
@@ -3122,7 +3178,7 @@
     "타임딜"
    ],
    "model": "SQ10GJ1WAS",
-   "dday": 2,
+   "dday": 1,
    "stock": 57,
    "sub": "",
    "subn": 0
@@ -3137,7 +3193,7 @@
     "타임딜"
    ],
    "model": "SQ06GJ1WES",
-   "dday": 2,
+   "dday": 1,
    "stock": 54,
    "sub": "",
    "subn": 0
@@ -3152,7 +3208,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD1",
-   "dday": 2,
+   "dday": 1,
    "stock": 74,
    "sub": "",
    "subn": 0
@@ -3168,7 +3224,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GC1EP1",
-   "dday": 2,
+   "dday": 1,
    "stock": 39,
    "sub": "",
    "subn": 0
@@ -3184,7 +3240,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU1EP1",
-   "dday": 2,
+   "dday": 1,
    "stock": 50,
    "sub": "",
    "subn": 0
@@ -3199,7 +3255,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "dday": 2,
+   "dday": 1,
    "stock": 72,
    "sub": "",
    "subn": 0
@@ -3245,7 +3301,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU2EP1",
-   "dday": 2,
+   "dday": 1,
    "stock": 19,
    "sub": "",
    "subn": 0
@@ -3261,7 +3317,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "dday": 2,
+   "dday": 1,
    "stock": 39,
    "sub": "",
    "subn": 0
@@ -3290,7 +3346,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "dday": 2,
+   "dday": 1,
    "stock": 57,
    "sub": "",
    "subn": 0
@@ -3345,7 +3401,7 @@
     "타임딜"
    ],
    "model": "FQ17GU2ED2",
-   "dday": 2,
+   "dday": 1,
    "stock": 34,
    "sub": "",
    "subn": 0
@@ -3400,7 +3456,7 @@
     "타임딜"
    ],
    "model": "FQ17FN5BD1",
-   "dday": 2,
+   "dday": 1,
    "stock": 5,
    "sub": "",
    "subn": 0
@@ -3962,7 +4018,7 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "dday": 2,
+   "dday": 1,
    "stock": 27,
    "sub": "",
    "subn": 0
@@ -3977,8 +4033,8 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "dday": 2,
-   "stock": 66,
+   "dday": 1,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -4006,8 +4062,8 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "dday": 2,
-   "stock": 68,
+   "dday": 1,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -4050,7 +4106,7 @@
     "타임딜"
    ],
    "model": "DQ185MWGA",
-   "dday": 2,
+   "dday": 1,
    "stock": 98,
    "sub": "",
    "subn": 0
@@ -4065,7 +4121,7 @@
     "타임딜"
    ],
    "model": "DQ214MWGA",
-   "dday": 2,
+   "dday": 1,
    "stock": 94,
    "sub": "",
    "subn": 0
@@ -4080,7 +4136,7 @@
     "타임딜"
    ],
    "model": "DQ235MEGA",
-   "dday": 2,
+   "dday": 1,
    "stock": 89,
    "sub": "",
    "subn": 0
@@ -4095,7 +4151,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "dday": 2,
+   "dday": 1,
    "stock": 88,
    "sub": "",
    "subn": 0
@@ -4188,7 +4244,7 @@
     "타임딜"
    ],
    "model": "HU810PW",
-   "dday": 3,
+   "dday": 2,
    "stock": 1,
    "sub": "",
    "subn": 0
