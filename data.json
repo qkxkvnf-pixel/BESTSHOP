@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-17 17:11",
+ "updated": "2026-10-17 18:13",
  "status": {
   "errors": [],
-  "timedeal": 111,
+  "timedeal": 110,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-17T17:11:44.2477044\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-17T18:13:00.5165718\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -371,7 +371,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 1,
-   "stock": 5,
+   "stock": 4,
    "sub": "75인치",
    "subn": 75
   },
@@ -474,7 +474,7 @@
    ],
    "model": "OLED65B6ENA",
    "dday": 1,
-   "stock": 28,
+   "stock": 27,
    "sub": "65인치",
    "subn": 65
   },
@@ -503,7 +503,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 1,
-   "stock": 23,
+   "stock": 22,
    "sub": "86인치",
    "subn": 86
   },
@@ -589,7 +589,7 @@
    ],
    "model": "85QNED8MBEWAS30A",
    "dday": 1,
-   "stock": 28,
+   "stock": 27,
    "sub": "85인치",
    "subn": 85
   },
@@ -621,7 +621,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 1,
-   "stock": 32,
+   "stock": 31,
    "sub": "85인치",
    "subn": 85
   },
@@ -885,7 +885,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 22,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -913,7 +913,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 1,
-   "stock": 42,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -929,7 +929,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 1,
-   "stock": 42,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -2338,7 +2338,7 @@
    ],
    "model": "39GX950B",
    "dday": 2,
-   "stock": 171,
+   "stock": 170,
    "sub": "",
    "subn": 0
   },
@@ -2684,21 +2684,6 @@
     "닷컴ONLY"
    ],
    "model": "SC5MSR42S.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스타일러 오브제컬렉션 (ALL NEW) 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5mhr60",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10286835/md10286835-350x350.jpg",
-   "price": 1357800,
-   "cat": "스타일러",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "SC5MHR60",
-   "dday": 1,
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -3056,7 +3041,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -3071,7 +3056,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 1,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3131,7 +3116,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 1,
-   "stock": 73,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -3240,7 +3225,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 1,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -3269,7 +3254,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -3397,15 +3382,15 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈)<sup>매립배관형</sup>",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd2m",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833829/md10833829-350x350.jpg",
-   "price": 3300000,
+   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 싱글 (5시리즈)<sup>매립배관형</sup>",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd1m",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833827/md10833827-350x350.jpg",
+   "price": 3246000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "FQ17FN5BD2M.AKOR",
+   "model": "FQ17FN5BD1M.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -3954,7 +3939,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 1,
-   "stock": 27,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -3969,7 +3954,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 1,
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -3998,7 +3983,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 1,
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -4087,7 +4072,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 1,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
