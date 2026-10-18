@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 13:16",
+ "updated": "2026-10-18 14:14",
  "status": {
   "errors": [],
   "timedeal": 109,
@@ -7,7 +7,7 @@
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-18T13:16:18.4699676\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-18T14:14:05.2048137\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -65,7 +65,7 @@
     "타임딜"
    ],
    "model": "50UA7500KNA",
-   "stock": 13,
+   "stock": 12,
    "sub": "50인치",
    "subn": 50
   },
@@ -105,7 +105,7 @@
     "타임딜"
    ],
    "model": "65NU810BENA",
-   "stock": 17,
+   "stock": 16,
    "sub": "65인치",
    "subn": 65
   },
@@ -260,7 +260,7 @@
     "타임딜"
    ],
    "model": "75QNED65BBA",
-   "stock": 20,
+   "stock": 19,
    "sub": "75인치",
    "subn": 75
   },
@@ -597,7 +597,7 @@
     "타임딜"
    ],
    "model": "75QNED92AGA",
-   "stock": 31,
+   "stock": 32,
    "sub": "75인치",
    "subn": 75
   },
@@ -655,7 +655,7 @@
     "타임딜"
    ],
    "model": "85QNED92AGA",
-   "stock": 6,
+   "stock": 5,
    "sub": "85인치",
    "subn": 85
   },
@@ -742,7 +742,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 52,
+   "stock": 51,
    "sub": "",
    "subn": 0
   },
@@ -824,7 +824,7 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "stock": 41,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -2245,7 +2245,7 @@
    ],
    "model": "32U889SAW",
    "dday": 1,
-   "stock": 191,
+   "stock": 190,
    "sub": "",
    "subn": 0
   },
@@ -2318,7 +2318,7 @@
    ],
    "model": "39GX950B",
    "dday": 1,
-   "stock": 166,
+   "stock": 165,
    "sub": "",
    "subn": 0
   },
@@ -2585,7 +2585,7 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "stock": 50,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -2600,7 +2600,7 @@
     "타임딜"
    ],
    "model": "SC3GBE52",
-   "stock": 22,
+   "stock": 19,
    "sub": "",
    "subn": 0
   },
@@ -2823,8 +2823,8 @@
    "price": 1236900,
    "cat": "스탠바이미",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "32LX6BEGB",
    "dday": 1,
@@ -2839,11 +2839,11 @@
    "price": 1431300,
    "cat": "스탠바이미",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "타임딜",
+    "닷컴ONLY"
    ],
    "model": "32LX6BEGBAKXT7SC",
-   "stock": 13,
+   "stock": 12,
    "sub": "",
    "subn": 0
   },
@@ -3246,7 +3246,7 @@
     "타임딜"
    ],
    "model": "FQ17GU2ED2",
-   "stock": 33,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -3509,7 +3509,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "stock": 11,
+   "stock": 9,
    "sub": "",
    "subn": 0
   },
@@ -3845,7 +3845,7 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "stock": 18,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -3859,7 +3859,7 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "stock": 58,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -3943,7 +3943,7 @@
     "타임딜"
    ],
    "model": "DQ214MWGA",
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
