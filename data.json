@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 14:14",
+ "updated": "2026-10-18 15:12",
  "status": {
   "errors": [],
   "timedeal": 109,
@@ -7,7 +7,7 @@
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-18T14:14:05.2048137\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-18T15:12:13.4375831\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -65,7 +65,7 @@
     "타임딜"
    ],
    "model": "50UA7500KNA",
-   "stock": 12,
+   "stock": 11,
    "sub": "50인치",
    "subn": 50
   },
@@ -372,7 +372,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEA",
-   "stock": 21,
+   "stock": 20,
    "sub": "75인치",
    "subn": 75
   },
@@ -742,7 +742,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -909,7 +909,7 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -1721,19 +1721,6 @@
   },
   {
    "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1290000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "14U40V-G.AR3WK",
-   "sub": "14인치",
-   "subn": 14
-  },
-  {
-   "name": "LG 그램북 AI 2026",
    "url": "https://www.lge.co.kr/notebook/15u50u-growk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10740831/md10740831-350x350.jpg",
    "price": 1290000,
@@ -1747,14 +1734,14 @@
   },
   {
    "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-ga5wk",
+   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1640000,
+   "price": 1290000,
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "14U40V-G.AA5WK",
+   "model": "14U40V-G.AR3WK",
    "sub": "14인치",
    "subn": 14
   },
@@ -1770,6 +1757,19 @@
    "model": "16U55U-G.ASOWK",
    "sub": "16인치",
    "subn": 16
+  },
+  {
+   "name": "LG 그램북 AI 2026",
+   "url": "https://www.lge.co.kr/notebook/14u40v-ga5wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
+   "price": 1640000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "14U40V-G.AA5WK",
+   "sub": "14인치",
+   "subn": 14
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -2318,7 +2318,7 @@
    ],
    "model": "39GX950B",
    "dday": 1,
-   "stock": 165,
+   "stock": 164,
    "sub": "",
    "subn": 0
   },
@@ -2585,7 +2585,7 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "stock": 49,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -2600,7 +2600,7 @@
     "타임딜"
    ],
    "model": "SC3GBE52",
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -2992,7 +2992,7 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "stock": 66,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -3164,7 +3164,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "stock": 35,
+   "stock": 34,
    "sub": "",
    "subn": 0
   },
@@ -3192,7 +3192,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 50,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -3509,7 +3509,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "stock": 9,
+   "stock": 7,
    "sub": "",
    "subn": 0
   },
@@ -3671,7 +3671,7 @@
     "타임딜"
    ],
    "model": "WD520AWB",
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -3845,7 +3845,7 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "stock": 17,
+   "stock": 16,
    "sub": "",
    "subn": 0
   },
@@ -3859,7 +3859,7 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "stock": 57,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -3887,7 +3887,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 60,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
