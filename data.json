@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-18 10:23",
+ "updated": "2026-10-18 11:16",
  "status": {
   "errors": [],
-  "timedeal": 108,
+  "timedeal": 109,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-18T10:23:40.5649702\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-18T11:16:01.1343374\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -36,7 +36,7 @@
     "타임딜"
    ],
    "model": "43NANO80ANA",
-   "stock": 23,
+   "stock": 24,
    "sub": "43인치",
    "subn": 43
   },
@@ -122,6 +122,21 @@
    "stock": 47,
    "sub": "55인치",
    "subn": 55
+  },
+  {
+   "name": "LG 올레드 evo (스탠드형) C4 105cm",
+   "url": "https://www.lge.co.kr/tvs/oled42c4ena-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10319920/md10319920-350x350.jpg",
+   "price": 1078800,
+   "cat": "TV",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "OLED42C4ENA",
+   "dday": 13,
+   "stock": 1,
+   "sub": "43인치",
+   "subn": 43
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형)",
@@ -215,7 +230,7 @@
     "타임딜"
    ],
    "model": "OLED55B6ENA",
-   "stock": 33,
+   "stock": 32,
    "sub": "55인치",
    "subn": 55
   },
@@ -357,7 +372,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEA",
-   "stock": 25,
+   "stock": 24,
    "sub": "75인치",
    "subn": 75
   },
@@ -428,7 +443,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS30A",
-   "stock": 26,
+   "stock": 25,
    "sub": "75인치",
    "subn": 75
   },
@@ -727,7 +742,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -809,7 +824,7 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "stock": 45,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -2348,7 +2363,7 @@
    ],
    "model": "M-X0120BASA",
    "dday": 1,
-   "stock": 24,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -2585,7 +2600,7 @@
     "타임딜"
    ],
    "model": "SC3GBE52",
-   "stock": 24,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -2813,7 +2828,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 1,
-   "stock": 16,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -2963,7 +2978,7 @@
     "타임딜"
    ],
    "model": "MH81RR",
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -3149,7 +3164,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "stock": 36,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -3844,7 +3859,7 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "stock": 57,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3872,7 +3887,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -3956,7 +3971,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
