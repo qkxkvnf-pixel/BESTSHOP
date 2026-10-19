@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-19 08:08",
+ "updated": "2026-10-19 09:09",
  "status": {
   "errors": [],
-  "timedeal": 74,
+  "timedeal": 72,
   "debug": {
-   "count": "수집 220",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
-   "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-19T08:08:41.2170842\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "count": "수집 221",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규24 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
+   "total_api": "{\"timestamp\":\"2026-10-19T09:09:36.1041404\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
-  "only": 220
+  "only": 221
  },
  "items": [
   {
@@ -25,21 +25,6 @@
    "model": "32LB650BES.AKRG",
    "sub": "32인치",
    "subn": 32
-  },
-  {
-   "name": "LG 울트라 HD TV AI (스탠드형) 125cm",
-   "url": "https://www.lge.co.kr/tvs/50ua7500gna-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10575830/md10575830-350x350.jpg",
-   "price": 651000,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "50UA7500GNA",
-   "dday": 12,
-   "stock": 1,
-   "sub": "50인치",
-   "subn": 50
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형)",
@@ -129,7 +114,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 9,
-   "stock": 99,
+   "stock": 97,
    "sub": "75인치",
    "subn": 75
   },
@@ -189,7 +174,7 @@
    ],
    "model": "75QNED65ABA",
    "dday": 9,
-   "stock": 65,
+   "stock": 64,
    "sub": "75인치",
    "subn": 75
   },
@@ -853,6 +838,19 @@
     "닷컴ONLY"
    ],
    "model": "MW30EDN.CKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 디오스 오브제컬렉션 광파오븐",
+   "url": "https://www.lge.co.kr/microwaves-and-ovens/mlj28ern",
+   "img": "https://www.lge.co.kr/kr/images/microwaves-and-ovens/md10615852/md10615852-350x350.jpg",
+   "price": 350000,
+   "cat": "광파오븐/전자레인지",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "MLJ28ERN.DKOR",
    "sub": "",
    "subn": 0
   },
@@ -3509,7 +3507,7 @@
     "타임딜"
    ],
    "model": "DQ185MEGA",
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -3688,21 +3686,6 @@
    "model": "Y324GB3.AKOR",
    "sub": "300L대",
    "subn": 328
-  },
-  {
-   "name": "LG 시네빔 Laser 4K 투사형",
-   "url": "https://www.lge.co.kr/projectors/hu810pw",
-   "img": "https://www.lge.co.kr/kr/images/projectors/md08749625/md08749625-350x350.jpg",
-   "price": 2669100,
-   "cat": "프로젝터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "HU810PW",
-   "dday": 1,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
   }
  ]
 }
