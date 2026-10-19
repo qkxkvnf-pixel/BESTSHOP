@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 01:20",
+ "updated": "2026-10-20 02:18",
  "status": {
   "errors": [],
   "timedeal": 135,
@@ -7,7 +7,7 @@
    "count": "수집 219",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규22 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-20T01:19:54.4275669\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-20T02:18:31.0088309\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 219
@@ -114,7 +114,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 8,
-   "stock": 51,
+   "stock": 50,
    "sub": "75인치",
    "subn": 75
   },
@@ -855,7 +855,7 @@
    ],
    "model": "MW20GDN",
    "dday": 8,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -987,7 +987,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 8,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -1814,6 +1814,19 @@
   },
   {
    "name": "LG 그램북 AI 2026",
+   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
+   "price": 1290000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "14U40V-G.AR3WK",
+   "sub": "14인치",
+   "subn": 14
+  },
+  {
+   "name": "LG 그램북 AI 2026",
    "url": "https://www.lge.co.kr/notebook/15u50u-growk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10740831/md10740831-350x350.jpg",
    "price": 1290000,
@@ -1827,14 +1840,14 @@
   },
   {
    "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-gr3wk",
+   "url": "https://www.lge.co.kr/notebook/14u40v-ga5wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1290000,
+   "price": 1640000,
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "14U40V-G.AR3WK",
+   "model": "14U40V-G.AA5WK",
    "sub": "14인치",
    "subn": 14
   },
@@ -1850,19 +1863,6 @@
    "model": "16U55U-G.ASOWK",
    "sub": "16인치",
    "subn": 16
-  },
-  {
-   "name": "LG 그램북 AI 2026",
-   "url": "https://www.lge.co.kr/notebook/14u40v-ga5wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10896826/md10896826-350x350.jpg",
-   "price": 1640000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "14U40V-G.AA5WK",
-   "sub": "14인치",
-   "subn": 14
   },
   {
    "name": "LG 그램북 AI 2026",
@@ -2252,7 +2252,7 @@
     "타임딜"
    ],
    "model": "25G520B",
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -2334,7 +2334,7 @@
     "타임딜"
    ],
    "model": "32U889SAW",
-   "stock": 181,
+   "stock": 180,
    "sub": "",
    "subn": 0
   },
@@ -2417,7 +2417,7 @@
     "타임딜"
    ],
    "model": "40U990AW",
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -2437,19 +2437,6 @@
   },
   {
    "name": "LG 통돌이 세탁기",
-   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
-   "price": 520000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "TR15DV5.AKOR",
-   "sub": "15kg",
-   "subn": 15
-  },
-  {
-   "name": "LG 통돌이 세탁기",
    "url": "https://www.lge.co.kr/washing-machines/tr16dv6",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10578832/md10578832-350x350.jpg",
    "price": 520000,
@@ -2460,6 +2447,19 @@
    "model": "TR16DV6.AKOR",
    "sub": "16kg",
    "subn": 16
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
+   "price": 520000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "TR15DV5.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -3100,7 +3100,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 8,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3427,6 +3427,32 @@
    "subn": 0
   },
   {
+   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈) ",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed1",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781869/md10781869-350x350.jpg",
+   "price": 1930000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17GC1ED1.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1en1",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837828/md10837828-350x350.jpg",
+   "price": 1930000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17GC1EN1.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) 56.9㎡ 3등급",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1ed2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783852/md10783852-350x350.jpg",
@@ -3443,36 +3469,10 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈) ",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781869/md10781869-350x350.jpg",
-   "price": 1946000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GC1ED1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1en1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837828/md10837828-350x350.jpg",
-   "price": 1946000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GC1EN1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ey1",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837829/md10837829-350x350.jpg",
-   "price": 2046000,
+   "price": 2030000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3514,7 +3514,7 @@
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ey2m",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10840830/md10840830-350x350.jpg",
-   "price": 2550000,
+   "price": 2525000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3540,7 +3540,7 @@
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) + 뷰케이스",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1et2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10848882/md10848882-350x350.jpg",
-   "price": 2900000,
+   "price": 2875000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3561,7 +3561,7 @@
    ],
    "model": "FQ17FN5BD2",
    "dday": 8,
-   "stock": 4,
+   "stock": 3,
    "sub": "",
    "subn": 0
   },
@@ -3916,7 +3916,7 @@
    ],
    "model": "BEI3AMBLOE",
    "dday": 8,
-   "stock": 78,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -3932,7 +3932,7 @@
    ],
    "model": "BEF3ANHLOE",
    "dday": 8,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -4124,7 +4124,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 8,
-   "stock": 109,
+   "stock": 108,
    "sub": "",
    "subn": 0
   },
@@ -4328,7 +4328,7 @@
    ],
    "model": "AI937WA",
    "dday": 8,
-   "stock": 192,
+   "stock": 193,
    "sub": "",
    "subn": 0
   },
