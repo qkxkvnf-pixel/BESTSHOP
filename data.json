@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-20 20:18",
+ "updated": "2026-10-20 21:17",
  "status": {
   "errors": [],
-  "timedeal": 128,
+  "timedeal": 126,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-20T20:18:20.7793848\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-20T21:17:47.9428070\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -67,7 +67,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 8,
-   "stock": 76,
+   "stock": 75,
    "sub": "65인치",
    "subn": 65
   },
@@ -83,7 +83,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 4,
-   "stock": 56,
+   "stock": 55,
    "sub": "65인치",
    "subn": 65
   },
@@ -99,7 +99,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 8,
-   "stock": 23,
+   "stock": 18,
    "sub": "75인치",
    "subn": 75
   },
@@ -174,7 +174,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 8,
-   "stock": 28,
+   "stock": 27,
    "sub": "55인치",
    "subn": 55
   },
@@ -574,7 +574,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 8,
-   "stock": 96,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -719,7 +719,7 @@
    ],
    "model": "AS235DWSA",
    "dday": 3,
-   "stock": 42,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -781,7 +781,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 8,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -799,18 +799,15 @@
    "subn": 0
   },
   {
-   "name": "LG 전자레인지 20L",
+   "name": "광파오븐/전자레인지",
    "url": "https://www.lge.co.kr/microwaves-and-ovens/mw20gdn",
    "img": "https://www.lge.co.kr/kr/images/microwaves-and-ovens/md10101826/md10101826-350x350.jpg",
    "price": 134000,
    "cat": "광파오븐/전자레인지",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "MW20GDN",
-   "dday": 8,
-   "stock": 2,
+   "model": "MW20GDN.CKOR",
    "sub": "",
    "subn": 0
   },
@@ -826,7 +823,7 @@
    ],
    "model": "MW30EDN",
    "dday": 8,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -942,7 +939,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 8,
-   "stock": 64,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -1033,7 +1030,7 @@
    ],
    "model": "MLJ32EWSO",
    "dday": 8,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -1048,7 +1045,7 @@
    ],
    "model": "MLJ32HWS",
    "dday": 8,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -2348,7 +2345,7 @@
    ],
    "model": "39GX950B",
    "dday": 6,
-   "stock": 199,
+   "stock": 198,
    "sub": "",
    "subn": 0
   },
@@ -2363,7 +2360,7 @@
    ],
    "model": "40U990AW",
    "dday": 6,
-   "stock": 29,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -2601,7 +2598,7 @@
    ],
    "model": "SC3GVE",
    "dday": 8,
-   "stock": 60,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -2617,7 +2614,7 @@
    ],
    "model": "SC3GNE52",
    "dday": 8,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -2659,7 +2656,7 @@
    ],
    "model": "SC5MBR62B",
    "dday": 3,
-   "stock": 82,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -2675,7 +2672,7 @@
    ],
    "model": "SC5MSR72",
    "dday": 11,
-   "stock": 2,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -2895,7 +2892,7 @@
    ],
    "model": "DUE1BGLE",
    "dday": 8,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -2910,7 +2907,7 @@
    ],
    "model": "DUE4BGE",
    "dday": 8,
-   "stock": 89,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -2941,7 +2938,7 @@
    ],
    "model": "DUE5BGL1E",
    "dday": 8,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -3001,7 +2998,7 @@
    ],
    "model": "DUE6BGL3E",
    "dday": 8,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -3017,7 +3014,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 8,
-   "stock": 43,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -3033,7 +3030,7 @@
    ],
    "model": "DUE6EWL2E",
    "dday": 8,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -3049,7 +3046,7 @@
    ],
    "model": "DUE6PFL3E",
    "dday": 8,
-   "stock": 95,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -3064,7 +3061,7 @@
    ],
    "model": "DUE6BGL1E",
    "dday": 8,
-   "stock": 76,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -3094,7 +3091,7 @@
    ],
    "model": "DFE6BGHE",
    "dday": 8,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3169,7 +3166,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 8,
-   "stock": 59,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3262,7 +3259,7 @@
    ],
    "model": "FQ17GU1EP1",
    "dday": 8,
-   "stock": 50,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -3339,7 +3336,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 8,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -3467,18 +3464,15 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈) 56.9㎡ 2등급",
+   "name": "LG 휘센 AI 오브제컬렉션 타워I 에어컨 2in1 (5시리즈)",
    "url": "https://www.lge.co.kr/air-conditioners/fq17fn5bd2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10833828/md10833828-350x350.jpg",
-   "price": 2901600,
+   "price": 3300000,
    "cat": "에어컨",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "FQ17FN5BD2",
-   "dday": 8,
-   "stock": 1,
+   "model": "FQ17FN5BD2.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -3722,7 +3716,7 @@
    ],
    "model": "BEI3HKHLE",
    "dday": 8,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -3768,7 +3762,7 @@
    ],
    "model": "BEI3QKBLOE",
    "dday": 8,
-   "stock": 77,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -3799,7 +3793,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 8,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -3846,7 +3840,7 @@
    ],
    "model": "BEI3AMBLOE",
    "dday": 8,
-   "stock": 71,
+   "stock": 69,
    "sub": "",
    "subn": 0
   },
@@ -4025,7 +4019,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 8,
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -4054,7 +4048,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 8,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -4113,7 +4107,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 8,
-   "stock": 95,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -4128,7 +4122,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 8,
-   "stock": 94,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -4212,7 +4206,7 @@
    ],
    "model": "A737WA",
    "dday": 11,
-   "stock": 133,
+   "stock": 131,
    "sub": "",
    "subn": 0
   },
@@ -4227,7 +4221,7 @@
    ],
    "model": "AX920BWE",
    "dday": 8,
-   "stock": 113,
+   "stock": 108,
    "sub": "",
    "subn": 0
   },
@@ -4243,7 +4237,7 @@
    ],
    "model": "AX948BHE",
    "dday": 8,
-   "stock": 184,
+   "stock": 183,
    "sub": "",
    "subn": 0
   },
@@ -4273,7 +4267,7 @@
    ],
    "model": "AX958BWE",
    "dday": 8,
-   "stock": 168,
+   "stock": 166,
    "sub": "",
    "subn": 0
   },
