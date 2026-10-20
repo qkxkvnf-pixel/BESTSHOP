@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-20 19:16",
+ "updated": "2026-10-20 20:18",
  "status": {
   "errors": [],
-  "timedeal": 129,
+  "timedeal": 128,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-20T19:16:16.4564781\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "total_api": "{\"timestamp\":\"2026-10-20T20:18:20.7793848\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -51,7 +51,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 8,
-   "stock": 8,
+   "stock": 6,
    "sub": "55인치",
    "subn": 55
   },
@@ -83,7 +83,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 4,
-   "stock": 59,
+   "stock": 56,
    "sub": "65인치",
    "subn": 65
   },
@@ -99,7 +99,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 8,
-   "stock": 24,
+   "stock": 23,
    "sub": "75인치",
    "subn": 75
   },
@@ -174,7 +174,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 8,
-   "stock": 29,
+   "stock": 28,
    "sub": "55인치",
    "subn": 55
   },
@@ -217,7 +217,7 @@
    ],
    "model": "75QNED80BEWAS30A",
    "dday": 8,
-   "stock": 29,
+   "stock": 28,
    "sub": "75인치",
    "subn": 75
   },
@@ -516,22 +516,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 8,
-   "stock": 41,
-   "sub": "77인치",
-   "subn": 77
-  },
-  {
-   "name": "LG 올레드 AI (벽걸이형) B6 194cm",
-   "url": "https://www.lge.co.kr/tvs/oled77b6nna-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784838/md10784838-350x350.jpg",
-   "price": 3423400,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED77B6NNA",
-   "dday": 11,
-   "stock": 1,
+   "stock": 39,
    "sub": "77인치",
    "subn": 77
   },
@@ -673,7 +658,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 8,
-   "stock": 109,
+   "stock": 107,
    "sub": "",
    "subn": 0
   },
@@ -734,7 +719,7 @@
    ],
    "model": "AS235DWSA",
    "dday": 3,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -796,7 +781,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 8,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -825,7 +810,7 @@
    ],
    "model": "MW20GDN",
    "dday": 8,
-   "stock": 9,
+   "stock": 2,
    "sub": "",
    "subn": 0
   },
@@ -841,7 +826,7 @@
    ],
    "model": "MW30EDN",
    "dday": 8,
-   "stock": 80,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -957,7 +942,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 8,
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -1033,7 +1018,7 @@
    ],
    "model": "MLJ32PWSO",
    "dday": 8,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -1048,7 +1033,7 @@
    ],
    "model": "MLJ32EWSO",
    "dday": 8,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -2616,7 +2601,7 @@
    ],
    "model": "SC3GVE",
    "dday": 8,
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2674,7 +2659,7 @@
    ],
    "model": "SC5MBR62B",
    "dday": 3,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -2941,7 +2926,7 @@
    ],
    "model": "DUE4BGL1E",
    "dday": 8,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -2956,7 +2941,7 @@
    ],
    "model": "DUE5BGL1E",
    "dday": 8,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -3032,7 +3017,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 8,
-   "stock": 49,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -3064,7 +3049,7 @@
    ],
    "model": "DUE6PFL3E",
    "dday": 8,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3079,7 +3064,7 @@
    ],
    "model": "DUE6BGL1E",
    "dday": 8,
-   "stock": 78,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -3292,7 +3277,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 8,
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -3359,32 +3344,6 @@
    "subn": 0
   },
   {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈) ",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781869/md10781869-350x350.jpg",
-   "price": 1930000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GC1ED1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
-   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1en1",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837828/md10837828-350x350.jpg",
-   "price": 1930000,
-   "cat": "에어컨",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FQ17GC1EN1.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) 56.9㎡ 3등급",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1ed2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10783852/md10783852-350x350.jpg",
@@ -3401,10 +3360,36 @@
    "subn": 0
   },
   {
+   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈) ",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ed1",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10781869/md10781869-350x350.jpg",
+   "price": 1946000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17GC1ED1.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
+   "url": "https://www.lge.co.kr/air-conditioners/fq17gc1en1",
+   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837828/md10837828-350x350.jpg",
+   "price": 1946000,
+   "cat": "에어컨",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FQ17GC1EN1.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 싱글 전용 (1시리즈)",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ey1",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10837829/md10837829-350x350.jpg",
-   "price": 2030000,
+   "price": 2046000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3446,7 +3431,7 @@
    "name": "LG 휘센 AI 오브제컬렉션 쿨 에어컨 2in1 (1시리즈)<sup>매립배관형</sup>",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gc1ey2m",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10840830/md10840830-350x350.jpg",
-   "price": 2525000,
+   "price": 2550000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3472,7 +3457,7 @@
    "name": "LG 휘센 AI 오브제컬렉션 뷰II 에어컨 2in1 (1시리즈) + 뷰케이스",
    "url": "https://www.lge.co.kr/air-conditioners/fq17gu1et2",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10848882/md10848882-350x350.jpg",
-   "price": 2875000,
+   "price": 2900000,
    "cat": "에어컨",
    "tags": [
     "닷컴ONLY"
@@ -3690,7 +3675,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 8,
-   "stock": 90,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -3737,7 +3722,7 @@
    ],
    "model": "BEI3HKHLE",
    "dday": 8,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -3767,7 +3752,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 8,
-   "stock": 84,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3830,7 +3815,7 @@
    ],
    "model": "BEI3ASMLOE",
    "dday": 8,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -4040,7 +4025,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 8,
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -4069,7 +4054,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 8,
-   "stock": 97,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -4128,7 +4113,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 8,
-   "stock": 97,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -4227,7 +4212,7 @@
    ],
    "model": "A737WA",
    "dday": 11,
-   "stock": 134,
+   "stock": 133,
    "sub": "",
    "subn": 0
   },
@@ -4242,7 +4227,7 @@
    ],
    "model": "AX920BWE",
    "dday": 8,
-   "stock": 116,
+   "stock": 113,
    "sub": "",
    "subn": 0
   },
