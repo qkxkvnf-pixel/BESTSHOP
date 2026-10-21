@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 11:17",
+ "updated": "2026-10-21 12:18",
  "status": {
   "errors": [],
   "timedeal": 124,
@@ -7,7 +7,7 @@
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-21T11:17:20.2096261\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-21T12:18:45.3481559\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -82,7 +82,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 7,
-   "stock": 74,
+   "stock": 73,
    "sub": "65인치",
    "subn": 65
   },
@@ -98,7 +98,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 3,
-   "stock": 51,
+   "stock": 50,
    "sub": "65인치",
    "subn": 65
   },
@@ -132,21 +132,6 @@
    "stock": 29,
    "sub": "75인치",
    "subn": 75
-  },
-  {
-   "name": "LG 올레드 AI (스탠드형) B5 138cm",
-   "url": "https://www.lge.co.kr/tvs/oled55b5ena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10579833/md10579833-350x350.jpg",
-   "price": 1274100,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED55B5ENA",
-   "dday": 10,
-   "stock": 1,
-   "sub": "55인치",
-   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) + LG 사운드바",
@@ -189,7 +174,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 7,
-   "stock": 24,
+   "stock": 25,
    "sub": "55인치",
    "subn": 55
   },
@@ -303,7 +288,7 @@
    ],
    "model": "OLED65B5HNA",
    "dday": 10,
-   "stock": 3,
+   "stock": 2,
    "sub": "65인치",
    "subn": 65
   },
@@ -658,7 +643,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 7,
-   "stock": 98,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -750,7 +735,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 7,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -939,7 +924,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 7,
-   "stock": 48,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -1030,7 +1015,7 @@
    ],
    "model": "MLJ32EWSO",
    "dday": 7,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -1045,7 +1030,7 @@
    ],
    "model": "MLJ32HWS",
    "dday": 7,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -2287,7 +2272,7 @@
    ],
    "model": "32U889SAW",
    "dday": 5,
-   "stock": 147,
+   "stock": 148,
    "sub": "",
    "subn": 0
   },
@@ -2315,7 +2300,7 @@
    ],
    "model": "32GX850A",
    "dday": 5,
-   "stock": 50,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -2656,7 +2641,7 @@
    ],
    "model": "SC5MBR62B",
    "dday": 2,
-   "stock": 73,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -2889,7 +2874,7 @@
    ],
    "model": "DUE1BGLE",
    "dday": 7,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -2935,7 +2920,7 @@
    ],
    "model": "DUE5BGL1E",
    "dday": 7,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -3011,7 +2996,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 7,
-   "stock": 16,
+   "stock": 15,
    "sub": "",
    "subn": 0
   },
@@ -3103,7 +3088,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 7,
-   "stock": 90,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -3743,7 +3728,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 7,
-   "stock": 75,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -3759,7 +3744,23 @@
    ],
    "model": "BEI3QKBLOE",
    "dday": 7,
-   "stock": 72,
+   "stock": 71,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
+   "url": "https://www.lge.co.kr/electric-ranges/bei3anbloe",
+   "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10525832/md10525832-350x350.jpg",
+   "price": 985800,
+   "cat": "전기레인지",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "BEI3ANBLOE",
+   "dday": 7,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -3790,7 +3791,7 @@
    ],
    "model": "BEI3ASMLOE",
    "dday": 7,
-   "stock": 82,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -3805,20 +3806,7 @@
    ],
    "model": "BEI3QMBLOE",
    "dday": 7,
-   "stock": 88,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 디오스 오브제컬렉션 인덕션",
-   "url": "https://www.lge.co.kr/electric-ranges/bei3anbloe",
-   "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10525832/md10525832-350x350.jpg",
-   "price": 1090000,
-   "cat": "전기레인지",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "BEI3ANBLOE.AKOR",
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -3850,7 +3838,7 @@
    ],
    "model": "BEF3ANHLOE",
    "dday": 7,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -3866,7 +3854,7 @@
    ],
    "model": "BEF3ASMLOE",
    "dday": 7,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -4013,7 +4001,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 7,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -4042,7 +4030,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 7,
-   "stock": 92,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -4116,7 +4104,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 7,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -4185,7 +4173,7 @@
    ],
    "model": "A727TA",
    "dday": 10,
-   "stock": 156,
+   "stock": 155,
    "sub": "",
    "subn": 0
   },
@@ -4215,7 +4203,7 @@
    ],
    "model": "AX920BWE",
    "dday": 7,
-   "stock": 93,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -4276,7 +4264,7 @@
    ],
    "model": "AI948WB",
    "dday": 7,
-   "stock": 194,
+   "stock": 192,
    "sub": "",
    "subn": 0
   },
