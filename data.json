@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-21 08:14",
+ "updated": "2026-10-21 09:12",
  "status": {
   "errors": [],
-  "timedeal": 124,
+  "timedeal": 125,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
-   "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-21T08:14:31.6852882\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
+   "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
+   "total_api": "{\"timestamp\":\"2026-10-21T09:12:10.0241957\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -38,6 +38,21 @@
    "model": "43NU850BES.AKRG",
    "sub": "43인치",
    "subn": 43
+  },
+  {
+   "name": "LG NANO 4K UHD AI (스탠드형) 138cm",
+   "url": "https://www.lge.co.kr/tvs/55nu850bxna-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799853/md10799853-350x350.jpg",
+   "price": 753300,
+   "cat": "TV",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "55NU850BXNA",
+   "dday": 10,
+   "stock": 1,
+   "sub": "55인치",
+   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형) 138cm",
@@ -174,7 +189,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 7,
-   "stock": 26,
+   "stock": 25,
    "sub": "55인치",
    "subn": 55
   },
@@ -559,7 +574,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 7,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -720,7 +735,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 7,
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -924,7 +939,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 7,
-   "stock": 50,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -970,7 +985,7 @@
    ],
    "model": "MLJ39PR",
    "dday": 7,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -1015,7 +1030,7 @@
    ],
    "model": "MLJ32EWSO",
    "dday": 7,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -2065,7 +2080,7 @@
    "name": "16Z90TP-KD7WK",
    "url": "https://www.lge.co.kr/notebook/16z90tp-kd7wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10529827/md10529827-350x350.jpg",
-   "price": 3090000,
+   "price": 3140000,
    "cat": "노트북",
    "tags": [
     "닷컴ONLY"
@@ -2272,7 +2287,7 @@
    ],
    "model": "32U889SAW",
    "dday": 6,
-   "stock": 149,
+   "stock": 147,
    "sub": "",
    "subn": 0
   },
@@ -2905,7 +2920,7 @@
    ],
    "model": "DUE4BGL1E",
    "dday": 7,
-   "stock": 89,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -2996,7 +3011,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 7,
-   "stock": 25,
+   "stock": 23,
    "sub": "",
    "subn": 0
   },
@@ -3667,7 +3682,7 @@
    ],
    "model": "BEI3HSBLE",
    "dday": 7,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -3775,7 +3790,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 7,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -3791,7 +3806,7 @@
    ],
    "model": "BEI3ASMLOE",
    "dday": 7,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -4001,7 +4016,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 7,
-   "stock": 73,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -4188,7 +4203,7 @@
    ],
    "model": "A737WA",
    "dday": 10,
-   "stock": 128,
+   "stock": 126,
    "sub": "",
    "subn": 0
   },
@@ -4203,7 +4218,7 @@
    ],
    "model": "AX920BWE",
    "dday": 7,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
