@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-21 10:26",
+ "updated": "2026-10-21 11:17",
  "status": {
   "errors": [],
-  "timedeal": 125,
+  "timedeal": 124,
   "debug": {
    "count": "수집 220",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규23 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-21T10:26:27.6447250\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-21T11:17:20.2096261\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 220
@@ -114,7 +114,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 7,
-   "stock": 8,
+   "stock": 3,
    "sub": "75인치",
    "subn": 75
   },
@@ -361,7 +361,7 @@
    ],
    "model": "75QNED80BEWAS60TR",
    "dday": 7,
-   "stock": 28,
+   "stock": 29,
    "sub": "75인치",
    "subn": 75
   },
@@ -574,7 +574,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 7,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -658,7 +658,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 7,
-   "stock": 101,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -673,7 +673,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 7,
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -719,7 +719,7 @@
    ],
    "model": "AS235DWSA",
    "dday": 2,
-   "stock": 42,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -735,7 +735,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 7,
-   "stock": 76,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -823,7 +823,7 @@
    ],
    "model": "MW30EDN",
    "dday": 7,
-   "stock": 71,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -873,7 +873,7 @@
    "name": "LG 디오스 오브제컬렉션 광파오븐",
    "url": "https://www.lge.co.kr/microwaves-and-ovens/mlj28ern",
    "img": "https://www.lge.co.kr/kr/images/microwaves-and-ovens/md10615852/md10615852-350x350.jpg",
-   "price": 350000,
+   "price": 320000,
    "cat": "광파오븐/전자레인지",
    "tags": [
     "닷컴ONLY"
@@ -924,7 +924,7 @@
    ],
    "model": "MLJ39WW",
    "dday": 7,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -970,7 +970,7 @@
    ],
    "model": "MLJ39KR",
    "dday": 7,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -1030,7 +1030,7 @@
    ],
    "model": "MLJ32EWSO",
    "dday": 7,
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -1045,7 +1045,7 @@
    ],
    "model": "MLJ32HWS",
    "dday": 7,
-   "stock": 89,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -2287,7 +2287,7 @@
    ],
    "model": "32U889SAW",
    "dday": 5,
-   "stock": 148,
+   "stock": 147,
    "sub": "",
    "subn": 0
   },
@@ -2874,7 +2874,7 @@
    ],
    "model": "DUE1BGL1E",
    "dday": 7,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -3011,7 +3011,7 @@
    ],
    "model": "DUE6BGL2E",
    "dday": 7,
-   "stock": 22,
+   "stock": 16,
    "sub": "",
    "subn": 0
   },
@@ -3027,7 +3027,7 @@
    ],
    "model": "DUE6EWL2E",
    "dday": 7,
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -3058,7 +3058,7 @@
    ],
    "model": "DUE6BGL1E",
    "dday": 7,
-   "stock": 72,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
@@ -3103,7 +3103,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 7,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -3271,7 +3271,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 7,
-   "stock": 74,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -3743,7 +3743,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 7,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -3765,22 +3765,6 @@
   },
   {
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
-   "url": "https://www.lge.co.kr/electric-ranges/bei3anbloe",
-   "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10525832/md10525832-350x350.jpg",
-   "price": 1003500,
-   "cat": "전기레인지",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "BEI3ANBLOE",
-   "dday": 7,
-   "stock": 96,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
    "url": "https://www.lge.co.kr/electric-ranges/bei3qkhloe",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10372829/md10372829-350x350.jpg",
    "price": 1017500,
@@ -3790,7 +3774,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 7,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -3806,7 +3790,7 @@
    ],
    "model": "BEI3ASMLOE",
    "dday": 7,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -3826,6 +3810,19 @@
    "subn": 0
   },
   {
+   "name": "LG 디오스 오브제컬렉션 인덕션",
+   "url": "https://www.lge.co.kr/electric-ranges/bei3anbloe",
+   "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10525832/md10525832-350x350.jpg",
+   "price": 1090000,
+   "cat": "전기레인지",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "BEI3ANBLOE.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 디오스 인덕션 1등급 미라듀어",
    "url": "https://www.lge.co.kr/electric-ranges/bei3ambloe",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10372843/md10372843-350x350.jpg",
@@ -3837,7 +3834,7 @@
    ],
    "model": "BEI3AMBLOE",
    "dday": 7,
-   "stock": 62,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -4001,7 +3998,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 7,
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -4016,7 +4013,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 7,
-   "stock": 71,
+   "stock": 69,
    "sub": "",
    "subn": 0
   },
@@ -4045,7 +4042,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 7,
-   "stock": 94,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -4188,7 +4185,7 @@
    ],
    "model": "A727TA",
    "dday": 10,
-   "stock": 159,
+   "stock": 156,
    "sub": "",
    "subn": 0
   },
@@ -4218,7 +4215,7 @@
    ],
    "model": "AX920BWE",
    "dday": 7,
-   "stock": 97,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -4234,7 +4231,7 @@
    ],
    "model": "AX948BHE",
    "dday": 7,
-   "stock": 175,
+   "stock": 174,
    "sub": "",
    "subn": 0
   },
@@ -4249,7 +4246,7 @@
    ],
    "model": "AI937WA",
    "dday": 7,
-   "stock": 187,
+   "stock": 186,
    "sub": "",
    "subn": 0
   },
