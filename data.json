@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 07:17",
+ "updated": "2026-10-24 08:14",
  "status": {
   "errors": [],
   "timedeal": 161,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-24T07:17:33.6812134\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-24T08:14:09.1208173\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -160,7 +160,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 4,
-   "stock": 57,
+   "stock": 56,
    "sub": "75인치",
    "subn": 75
   },
@@ -251,7 +251,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 1,
-   "stock": 24,
+   "stock": 23,
    "sub": "75인치",
    "subn": 75
   },
@@ -281,7 +281,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 4,
-   "stock": 14,
+   "stock": 13,
    "sub": "55인치",
    "subn": 55
   },
@@ -1018,7 +1018,7 @@
    ],
    "model": "MW23FDI",
    "dday": 4,
-   "stock": 348,
+   "stock": 347,
    "sub": "",
    "subn": 0
   },
@@ -3845,7 +3845,7 @@
     "타임딜"
    ],
    "model": "W2520WZNM",
-   "stock": 175,
+   "stock": 174,
    "sub": "20kg",
    "subn": 20
   },
@@ -4533,7 +4533,7 @@
    ],
    "model": "AX948BHE",
    "dday": 4,
-   "stock": 152,
+   "stock": 151,
    "sub": "",
    "subn": 0
   },
