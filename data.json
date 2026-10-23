@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-23 10:29",
+ "updated": "2026-10-23 11:18",
  "status": {
   "errors": [],
-  "timedeal": 154,
+  "timedeal": 164,
   "debug": {
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-23T10:29:31.3856209\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-23T11:17:59.0863050\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -99,7 +99,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 5,
-   "stock": 59,
+   "stock": 58,
    "sub": "65인치",
    "subn": 65
   },
@@ -145,7 +145,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 1,
-   "stock": 15,
+   "stock": 12,
    "sub": "65인치",
    "subn": 65
   },
@@ -161,7 +161,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 5,
-   "stock": 37,
+   "stock": 35,
    "sub": "75인치",
    "subn": 75
   },
@@ -176,7 +176,7 @@
    ],
    "model": "OLED42C5ENA",
    "dday": 2,
-   "stock": 18,
+   "stock": 17,
    "sub": "43인치",
    "subn": 43
   },
@@ -386,24 +386,9 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 2,
-   "stock": 29,
+   "stock": 28,
    "sub": "75인치",
    "subn": 75
-  },
-  {
-   "name": "LG 올레드 AI (벽걸이형) B5 163cm",
-   "url": "https://www.lge.co.kr/tvs/oled65b5fna-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10582828/md10582828-350x350.jpg",
-   "price": 1832100,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED65B5FNA",
-   "dday": 8,
-   "stock": 1,
-   "sub": "65인치",
-   "subn": 65
   },
   {
    "name": "LG 올레드 AI (스탠드형) B5 163cm",
@@ -489,7 +474,7 @@
    ],
    "model": "OLED65B6ENA",
    "dday": 2,
-   "stock": 29,
+   "stock": 28,
    "sub": "65인치",
    "subn": 65
   },
@@ -743,7 +728,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 5,
-   "stock": 31,
+   "stock": 29,
    "sub": "77인치",
    "subn": 77
   },
@@ -917,7 +902,7 @@
     "타임딜"
    ],
    "model": "AS305DWWL",
-   "stock": 38,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -947,7 +932,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 5,
-   "stock": 35,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -976,7 +961,7 @@
     "타임딜"
    ],
    "model": "FS065PSKA",
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -1034,7 +1019,7 @@
    ],
    "model": "MW30EDN",
    "dday": 5,
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -1076,7 +1061,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 7,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -1137,7 +1122,7 @@
    ],
    "model": "MLJ39ER",
    "dday": 5,
-   "stock": 9,
+   "stock": 6,
    "sub": "",
    "subn": 0
   },
@@ -1153,7 +1138,7 @@
    ],
    "model": "MLJ39HW",
    "dday": 5,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -2831,7 +2816,7 @@
    ],
    "model": "SC3GNE52",
    "dday": 5,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -2872,7 +2857,7 @@
     "타임딜"
    ],
    "model": "SC5MBR62B",
-   "stock": 58,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -3230,7 +3215,7 @@
    ],
    "model": "DUE6EWL2E",
    "dday": 5,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -3261,7 +3246,7 @@
    ],
    "model": "DUE6BGL1E",
    "dday": 5,
-   "stock": 27,
+   "stock": 26,
    "sub": "",
    "subn": 0
   },
@@ -3304,7 +3289,7 @@
    ],
    "model": "DFE6BGHE",
    "dday": 5,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -3454,7 +3439,7 @@
    ],
    "model": "SQ10GJ1WAS",
    "dday": 5,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -3838,7 +3823,7 @@
     "타임딜"
    ],
    "model": "FH25KAX",
-   "stock": 141,
+   "stock": 139,
    "sub": "",
    "subn": 4
   },
@@ -3892,7 +3877,7 @@
     "타임딜"
    ],
    "model": "W2520WZNM",
-   "stock": 180,
+   "stock": 179,
    "sub": "20kg",
    "subn": 20
   },
@@ -4039,7 +4024,7 @@
    ],
    "model": "BEI3QKBLOE",
    "dday": 5,
-   "stock": 47,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -4070,7 +4055,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 5,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -4117,7 +4102,7 @@
    ],
    "model": "BEI3AMBLOE",
    "dday": 5,
-   "stock": 16,
+   "stock": 14,
    "sub": "",
    "subn": 0
   },
@@ -4133,7 +4118,7 @@
    ],
    "model": "BEF3ANHLOE",
    "dday": 5,
-   "stock": 68,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -4154,6 +4139,38 @@
    "subn": 0
   },
   {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wd325ahb",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10353831/md10353831-350x350.jpg",
+   "price": 1106700,
+   "cat": "정수기",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "WD325AHB",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wd520awb",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md09951827/md09951827-350x350.jpg",
+   "price": 1170000,
+   "cat": "정수기",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "WD520AWB",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉온정)",
    "url": "https://www.lge.co.kr/water-purifiers/wd525ahb",
    "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10353830/md10353830-350x350.jpg",
@@ -4167,41 +4184,81 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉정)",
-   "url": "https://www.lge.co.kr/water-purifiers/wd325ahb",
-   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10353831/md10353831-350x350.jpg",
-   "price": 1337000,
-   "cat": "정수기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WD325AHB.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
-   "url": "https://www.lge.co.kr/water-purifiers/wd520awb",
-   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md09951827/md09951827-350x350.jpg",
-   "price": 1410000,
-   "cat": "정수기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WD520AWB.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
    "url": "https://www.lge.co.kr/water-purifiers/wd520vht",
    "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10597845/md10597845-350x350.jpg",
-   "price": 1484000,
+   "price": 1288100,
    "cat": "정수기",
    "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "WD520VHT",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기 (빌트인, 냉온정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wu523awb",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10035827/md10035827-350x350.jpg",
+   "price": 1313200,
+   "cat": "정수기",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "WU523AWB",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wd523awb",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10017832/md10017832-350x350.jpg",
+   "price": 1328100,
+   "cat": "정수기",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "WD523AWB",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wd524vhmt",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10597838/md10597838-350x350.jpg",
+   "price": 1430400,
+   "cat": "정수기",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "WD524VHMT",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+   "url": "https://www.lge.co.kr/water-purifiers/wd524vhpt",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10598873/md10598873-350x350.jpg",
+   "price": 1430400,
+   "cat": "정수기",
+   "tags": [
+    "타임딜",
     "닷컴ONLY"
    ],
-   "model": "WD520VHT.AKOR",
+   "model": "WD524VHPT",
+   "dday": 7,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -4219,28 +4276,50 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
-   "url": "https://www.lge.co.kr/water-purifiers/wd524vhmt",
-   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10597838/md10597838-350x350.jpg",
-   "price": 1776000,
+   "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+   "url": "https://www.lge.co.kr/water-purifiers/wd721re",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10597923/md10597923-350x350.jpg",
+   "price": 1831200,
    "cat": "정수기",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "WD524VHMT.AKOR",
+   "model": "WD721RE",
+   "dday": 7,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
-   "url": "https://www.lge.co.kr/water-purifiers/wd523awb",
-   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10017832/md10017832-350x350.jpg",
-   "price": 1839000,
+   "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+   "url": "https://www.lge.co.kr/water-purifiers/wd721rh",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10545831/md10545831-350x350.jpg",
+   "price": 1831200,
    "cat": "정수기",
    "tags": [
+    "타임딜",
     "닷컴ONLY"
    ],
-   "model": "WD523AWB.AKOR",
+   "model": "WD721RH",
+   "dday": 7,
+   "stock": 99,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+   "url": "https://www.lge.co.kr/water-purifiers/wd721rk",
+   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10375826/md10375826-350x350.jpg",
+   "price": 1831200,
+   "cat": "정수기",
+   "tags": [
+    "타임딜",
+    "닷컴ONLY"
+   ],
+   "model": "WD721RK",
+   "dday": 7,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -4248,25 +4327,15 @@
    "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
    "url": "https://www.lge.co.kr/water-purifiers/wd723rh",
    "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10748847/md10748847-350x350.jpg",
-   "price": 2754000,
+   "price": 1978200,
    "cat": "정수기",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "WD723RH.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
-   "url": "https://www.lge.co.kr/water-purifiers/wd721re",
-   "img": "https://www.lge.co.kr/kr/images/water-purifiers/md10597923/md10597923-350x350.jpg",
-   "price": 2853000,
-   "cat": "정수기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WD721RE.AKOR",
+   "model": "WD723RH",
+   "dday": 7,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -4281,7 +4350,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 5,
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -4296,7 +4365,7 @@
    ],
    "model": "DQ185MEGA",
    "dday": 5,
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -4468,7 +4537,7 @@
    ],
    "model": "A727TA",
    "dday": 8,
-   "stock": 139,
+   "stock": 138,
    "sub": "",
    "subn": 0
   },
@@ -4499,7 +4568,7 @@
    ],
    "model": "AX948BHE",
    "dday": 5,
-   "stock": 161,
+   "stock": 159,
    "sub": "",
    "subn": 0
   },
@@ -4529,7 +4598,7 @@
    ],
    "model": "AX958BWE",
    "dday": 5,
-   "stock": 127,
+   "stock": 124,
    "sub": "",
    "subn": 0
   },
