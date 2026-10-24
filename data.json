@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-24 23:13",
+ "updated": "2026-10-25 00:13",
  "status": {
   "errors": [],
-  "timedeal": 154,
+  "timedeal": 152,
   "debug": {
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-24T23:12:58.0458996\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-25T00:13:16.6729667\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -24,7 +24,6 @@
     "타임딜"
    ],
    "model": "32LB650BENA",
-   "dday": 1,
    "sub": "32인치",
    "subn": 32
   },
@@ -38,7 +37,6 @@
     "타임딜"
    ],
    "model": "43NANO80ANA",
-   "dday": 1,
    "stock": 25,
    "sub": "43인치",
    "subn": 43
@@ -53,7 +51,6 @@
     "타임딜"
    ],
    "model": "50UA7500KNA",
-   "dday": 1,
    "stock": 31,
    "sub": "50인치",
    "subn": 50
@@ -82,7 +79,7 @@
     "타임딜"
    ],
    "model": "55NU850BENA",
-   "dday": 4,
+   "dday": 3,
    "stock": 38,
    "sub": "55인치",
    "subn": 55
@@ -98,8 +95,8 @@
     "타임딜"
    ],
    "model": "65NU850BENA",
-   "dday": 4,
-   "stock": 34,
+   "dday": 3,
+   "stock": 33,
    "sub": "65인치",
    "subn": 65
   },
@@ -113,7 +110,7 @@
     "타임딜"
    ],
    "model": "65NU810BENA",
-   "dday": 4,
+   "dday": 3,
    "stock": 37,
    "sub": "65인치",
    "subn": 65
@@ -128,25 +125,9 @@
     "타임딜"
    ],
    "model": "55QNED65BEA",
-   "dday": 1,
    "stock": 16,
    "sub": "55인치",
    "subn": 55
-  },
-  {
-   "name": "LG QNED AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
-   "price": 1088100,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "65QNED65BBA",
-   "stock": 10,
-   "sub": "65인치",
-   "subn": 65
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) 189cm",
@@ -159,8 +140,8 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "dday": 4,
-   "stock": 35,
+   "dday": 3,
+   "stock": 33,
    "sub": "75인치",
    "subn": 75
   },
@@ -174,8 +155,7 @@
     "타임딜"
    ],
    "model": "OLED42C5ENA",
-   "dday": 1,
-   "stock": 10,
+   "stock": 9,
    "sub": "43인치",
    "subn": 43
   },
@@ -189,8 +169,8 @@
     "타임딜"
    ],
    "model": "75NU850BEWAS30A",
-   "dday": 4,
-   "stock": 26,
+   "dday": 3,
+   "stock": 27,
    "sub": "75인치",
    "subn": 75
   },
@@ -204,7 +184,7 @@
     "타임딜"
    ],
    "model": "OLED55B5ENA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "55인치",
    "subn": 55
@@ -219,10 +199,22 @@
     "타임딜"
    ],
    "model": "OLED48C5ENA",
-   "dday": 1,
-   "stock": 17,
+   "stock": 16,
    "sub": "48인치",
    "subn": 48
+  },
+  {
+   "name": "LG QNED AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
+   "price": 1340000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "65QNED65BBS.AKRG",
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) + LG 사운드바",
@@ -234,7 +226,7 @@
     "타임딜"
    ],
    "model": "75NU850BEWAS60TR",
-   "dday": 4,
+   "dday": 3,
    "stock": 29,
    "sub": "75인치",
    "subn": 75
@@ -250,7 +242,6 @@
     "타임딜"
    ],
    "model": "75QNED65BBA",
-   "dday": 1,
    "stock": 12,
    "sub": "75인치",
    "subn": 75
@@ -265,7 +256,7 @@
     "타임딜"
    ],
    "model": "75QNED65ABA",
-   "dday": 4,
+   "dday": 3,
    "stock": 48,
    "sub": "75인치",
    "subn": 75
@@ -280,7 +271,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "dday": 4,
+   "dday": 3,
    "stock": 8,
    "sub": "55인치",
    "subn": 55
@@ -295,7 +286,6 @@
     "타임딜"
    ],
    "model": "75QNED65BBWAS30A",
-   "dday": 1,
    "stock": 7,
    "sub": "75인치",
    "subn": 75
@@ -311,8 +301,8 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "dday": 4,
-   "stock": 89,
+   "dday": 3,
+   "stock": 88,
    "sub": "85인치",
    "subn": 85
   },
@@ -326,7 +316,7 @@
     "타임딜"
    ],
    "model": "85NU850BEWAS30A",
-   "dday": 4,
+   "dday": 3,
    "stock": 66,
    "sub": "85인치",
    "subn": 85
@@ -341,7 +331,7 @@
     "타임딜"
    ],
    "model": "75QNED80BEWAS30A",
-   "dday": 4,
+   "dday": 3,
    "stock": 23,
    "sub": "75인치",
    "subn": 75
@@ -369,7 +359,7 @@
     "타임딜"
    ],
    "model": "65MRGB83BEA",
-   "dday": 4,
+   "dday": 3,
    "stock": 26,
    "sub": "65인치",
    "subn": 65
@@ -385,7 +375,6 @@
     "타임딜"
    ],
    "model": "75QNED8MBEA",
-   "dday": 1,
    "stock": 10,
    "sub": "75인치",
    "subn": 75
@@ -400,7 +389,7 @@
     "타임딜"
    ],
    "model": "OLED65B5HNA",
-   "dday": 7,
+   "dday": 6,
    "stock": 2,
    "sub": "65인치",
    "subn": 65
@@ -415,7 +404,7 @@
     "타임딜"
    ],
    "model": "OLED65B6FNA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "65인치",
    "subn": 65
@@ -430,7 +419,7 @@
     "타임딜"
    ],
    "model": "85NU850BEWAS60TR",
-   "dday": 4,
+   "dday": 3,
    "stock": 68,
    "sub": "85인치",
    "subn": 85
@@ -445,7 +434,6 @@
     "타임딜"
    ],
    "model": "OLED65B6ENA",
-   "dday": 1,
    "stock": 21,
    "sub": "65인치",
    "subn": 65
@@ -460,7 +448,7 @@
     "타임딜"
    ],
    "model": "75QNED80BEWAS60TR",
-   "dday": 4,
+   "dday": 3,
    "stock": 29,
    "sub": "75인치",
    "subn": 75
@@ -489,7 +477,6 @@
     "타임딜"
    ],
    "model": "86QNED70AEA",
-   "dday": 1,
    "stock": 12,
    "sub": "86인치",
    "subn": 86
@@ -504,7 +491,6 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS60TR",
-   "dday": 1,
    "stock": 6,
    "sub": "75인치",
    "subn": 75
@@ -520,7 +506,7 @@
     "타임딜"
    ],
    "model": "OLED65C5ENA",
-   "dday": 4,
+   "dday": 3,
    "stock": 17,
    "sub": "65인치",
    "subn": 65
@@ -549,8 +535,8 @@
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "dday": 4,
-   "stock": 59,
+   "dday": 3,
+   "stock": 57,
    "sub": "85인치",
    "subn": 85
   },
@@ -564,7 +550,7 @@
     "타임딜"
    ],
    "model": "85QNED80BEWAS30A",
-   "dday": 4,
+   "dday": 3,
    "stock": 27,
    "sub": "85인치",
    "subn": 85
@@ -579,8 +565,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEWAS30A",
-   "dday": 1,
-   "stock": 6,
+   "stock": 5,
    "sub": "85인치",
    "subn": 85
   },
@@ -595,7 +580,6 @@
     "타임딜"
    ],
    "model": "75QNED92AGA",
-   "dday": 1,
    "stock": 29,
    "sub": "75인치",
    "subn": 75
@@ -610,7 +594,7 @@
     "타임딜"
    ],
    "model": "85QNED80BEWAS60TR",
-   "dday": 4,
+   "dday": 3,
    "stock": 29,
    "sub": "85인치",
    "subn": 85
@@ -625,24 +609,9 @@
     "타임딜"
    ],
    "model": "85QNED8MBEWAS60TR",
-   "dday": 1,
-   "stock": 9,
+   "stock": 7,
    "sub": "85인치",
    "subn": 85
-  },
-  {
-   "name": "LG Mini RGB evo AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75mrgb83bea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826843/md10826843-350x350.jpg",
-   "price": 2985300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "75MRGB83BEA",
-   "stock": 17,
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG QNED evo AI (벽걸이형) 214cm",
@@ -655,7 +624,6 @@
     "타임딜"
    ],
    "model": "85QNED92AGA",
-   "dday": 1,
    "stock": 20,
    "sub": "85인치",
    "subn": 85
@@ -670,7 +638,7 @@
     "타임딜"
    ],
    "model": "OLED77B4SNA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "77인치",
    "subn": 77
@@ -685,7 +653,7 @@
     "타임딜"
    ],
    "model": "OLED77B5XNA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "77인치",
    "subn": 77
@@ -701,7 +669,7 @@
     "타임딜"
    ],
    "model": "OLED77B6BNA",
-   "dday": 4,
+   "dday": 3,
    "stock": 19,
    "sub": "77인치",
    "subn": 77
@@ -716,7 +684,7 @@
     "타임딜"
    ],
    "model": "OLED77B6NNA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "77인치",
    "subn": 77
@@ -731,7 +699,7 @@
     "타임딜"
    ],
    "model": "86MRGB83BEA",
-   "dday": 4,
+   "dday": 3,
    "stock": 8,
    "sub": "86인치",
    "subn": 86
@@ -746,7 +714,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "dday": 4,
+   "dday": 3,
    "stock": 58,
    "sub": "",
    "subn": 0
@@ -814,7 +782,7 @@
     "타임딜"
    ],
    "model": "AS156HWWL",
-   "dday": 4,
+   "dday": 3,
    "stock": 49,
    "sub": "",
    "subn": 0
@@ -830,8 +798,8 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "dday": 4,
-   "stock": 49,
+   "dday": 3,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -845,7 +813,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "dday": 4,
+   "dday": 3,
    "stock": 30,
    "sub": "",
    "subn": 0
@@ -860,7 +828,7 @@
     "타임딜"
    ],
    "model": "AS155GWDL",
-   "dday": 4,
+   "dday": 3,
    "stock": 28,
    "sub": "",
    "subn": 0
@@ -876,8 +844,21 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "dday": 4,
-   "stock": 4,
+   "dday": 3,
+   "stock": 2,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스",
+   "url": "https://www.lge.co.kr/air-purifier/as305dwwl",
+   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10526830/md10526830-350x350.jpg",
+   "price": 799000,
+   "cat": "공기청정기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "AS305DWWL.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -891,7 +872,7 @@
     "타임딜"
    ],
    "model": "AS356LSAA",
-   "dday": 4,
+   "dday": 3,
    "stock": 43,
    "sub": "",
    "subn": 0
@@ -907,21 +888,8 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "dday": 4,
-   "stock": 42,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스",
-   "url": "https://www.lge.co.kr/air-purifier/as305dwwl",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10526830/md10526830-350x350.jpg",
-   "price": 1319000,
-   "cat": "공기청정기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "AS305DWWL.AKOR",
+   "dday": 3,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -962,7 +930,7 @@
     "타임딜"
    ],
    "model": "MW30EDN",
-   "dday": 4,
+   "dday": 3,
    "stock": 23,
    "sub": "",
    "subn": 0
@@ -978,8 +946,8 @@
     "타임딜"
    ],
    "model": "MW23FDI",
-   "dday": 4,
-   "stock": 260,
+   "dday": 3,
+   "stock": 257,
    "sub": "",
    "subn": 0
   },
@@ -1007,7 +975,7 @@
     "타임딜"
    ],
    "model": "MLJ28ERN",
-   "dday": 6,
+   "dday": 5,
    "stock": 85,
    "sub": "",
    "subn": 0
@@ -1023,7 +991,7 @@
     "타임딜"
    ],
    "model": "MLJ39EW",
-   "dday": 4,
+   "dday": 3,
    "stock": 63,
    "sub": "",
    "subn": 0
@@ -1038,7 +1006,7 @@
     "타임딜"
    ],
    "model": "MLJ39EWO",
-   "dday": 4,
+   "dday": 3,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -1053,7 +1021,7 @@
     "타임딜"
    ],
    "model": "MLJ39WW",
-   "dday": 4,
+   "dday": 3,
    "stock": 86,
    "sub": "",
    "subn": 0
@@ -1069,8 +1037,8 @@
     "타임딜"
    ],
    "model": "MLJ39HW",
-   "dday": 4,
-   "stock": 75,
+   "dday": 3,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -1084,7 +1052,7 @@
     "타임딜"
    ],
    "model": "MLJ39KR",
-   "dday": 4,
+   "dday": 3,
    "stock": 89,
    "sub": "",
    "subn": 0
@@ -1099,7 +1067,7 @@
     "타임딜"
    ],
    "model": "MLJ39PR",
-   "dday": 4,
+   "dday": 3,
    "stock": 96,
    "sub": "",
    "subn": 0
@@ -1114,7 +1082,7 @@
     "타임딜"
    ],
    "model": "MLJ32MWSO",
-   "dday": 4,
+   "dday": 3,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -1129,7 +1097,7 @@
     "타임딜"
    ],
    "model": "MLJ32PWSO",
-   "dday": 4,
+   "dday": 3,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -1144,7 +1112,7 @@
     "타임딜"
    ],
    "model": "MLJ32EWSO",
-   "dday": 4,
+   "dday": 3,
    "stock": 57,
    "sub": "",
    "subn": 0
@@ -1432,7 +1400,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "dday": 4,
+   "dday": 3,
    "stock": 100,
    "sub": "300L대",
    "subn": 300
@@ -1473,7 +1441,7 @@
     "타임딜"
    ],
    "model": "Q405MPS133",
-   "dday": 4,
+   "dday": 3,
    "stock": 99,
    "sub": "400L대",
    "subn": 412
@@ -2348,7 +2316,7 @@
    ],
    "model": "25G520B",
    "dday": 2,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -2559,7 +2527,7 @@
     "타임딜"
    ],
    "model": "T25PX9",
-   "dday": 4,
+   "dday": 3,
    "stock": 86,
    "sub": "25kg",
    "subn": 25
@@ -2601,7 +2569,7 @@
     "타임딜"
    ],
    "model": "FX23VNR",
-   "dday": 4,
+   "dday": 3,
    "stock": 35,
    "sub": "23kg",
    "subn": 23
@@ -2616,7 +2584,7 @@
     "타임딜"
    ],
    "model": "F24WDLPR",
-   "dday": 6,
+   "dday": 5,
    "stock": 199,
    "sub": "24kg",
    "subn": 24
@@ -2761,7 +2729,7 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "dday": 4,
+   "dday": 3,
    "stock": 33,
    "sub": "",
    "subn": 0
@@ -2777,7 +2745,7 @@
     "타임딜"
    ],
    "model": "SC3GNE52",
-   "dday": 4,
+   "dday": 3,
    "stock": 43,
    "sub": "",
    "subn": 0
@@ -2844,7 +2812,7 @@
     "타임딜"
    ],
    "model": "SC5MBR8RA",
-   "dday": 7,
+   "dday": 6,
    "stock": 1,
    "sub": "",
    "subn": 0
@@ -2990,7 +2958,7 @@
     "타임딜"
    ],
    "model": "32LX6BEGB",
-   "dday": 2,
+   "dday": 1,
    "stock": 17,
    "sub": "",
    "subn": 0
@@ -3006,7 +2974,7 @@
     "닷컴ONLY"
    ],
    "model": "32LX6BEGBAAKXT7SC",
-   "dday": 4,
+   "dday": 3,
    "stock": 12,
    "sub": "",
    "subn": 0
@@ -3021,7 +2989,7 @@
     "타임딜"
    ],
    "model": "DUB61TBE",
-   "dday": 4,
+   "dday": 3,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3037,7 +3005,7 @@
     "타임딜"
    ],
    "model": "DUE1BGL1E",
-   "dday": 4,
+   "dday": 3,
    "stock": 87,
    "sub": "",
    "subn": 0
@@ -3052,7 +3020,7 @@
     "타임딜"
    ],
    "model": "DUE1BGLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 92,
    "sub": "",
    "subn": 0
@@ -3067,7 +3035,7 @@
     "타임딜"
    ],
    "model": "DUE4BGE",
-   "dday": 4,
+   "dday": 3,
    "stock": 68,
    "sub": "",
    "subn": 0
@@ -3083,7 +3051,7 @@
     "타임딜"
    ],
    "model": "DUE4BGL1E",
-   "dday": 4,
+   "dday": 3,
    "stock": 68,
    "sub": "",
    "subn": 0
@@ -3098,7 +3066,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL1E",
-   "dday": 4,
+   "dday": 3,
    "stock": 67,
    "sub": "",
    "subn": 0
@@ -3113,7 +3081,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL2E",
-   "dday": 4,
+   "dday": 3,
    "stock": 93,
    "sub": "",
    "subn": 0
@@ -3128,7 +3096,7 @@
     "타임딜"
    ],
    "model": "DUE5MBL2E",
-   "dday": 4,
+   "dday": 3,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -3143,7 +3111,7 @@
     "타임딜"
    ],
    "model": "DUE5BGHE",
-   "dday": 4,
+   "dday": 3,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -3158,7 +3126,7 @@
     "타임딜"
    ],
    "model": "DUE6BGL3E",
-   "dday": 4,
+   "dday": 3,
    "stock": 81,
    "sub": "",
    "subn": 0
@@ -3174,8 +3142,8 @@
     "타임딜"
    ],
    "model": "DUE6EWL2E",
-   "dday": 4,
-   "stock": 49,
+   "dday": 3,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -3190,7 +3158,7 @@
     "타임딜"
    ],
    "model": "DUE6PFL3E",
-   "dday": 4,
+   "dday": 3,
    "stock": 82,
    "sub": "",
    "subn": 0
@@ -3205,7 +3173,7 @@
     "타임딜"
    ],
    "model": "DUE6GLHE",
-   "dday": 4,
+   "dday": 3,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -3233,7 +3201,7 @@
     "타임딜"
    ],
    "model": "DFE6BGHE",
-   "dday": 4,
+   "dday": 3,
    "stock": 85,
    "sub": "",
    "subn": 0
@@ -3248,7 +3216,7 @@
     "타임딜"
    ],
    "model": "MH67BR",
-   "dday": 7,
+   "dday": 6,
    "stock": 43,
    "sub": "",
    "subn": 0
@@ -3263,7 +3231,7 @@
     "타임딜"
    ],
    "model": "MH20BR",
-   "dday": 7,
+   "dday": 6,
    "stock": 49,
    "sub": "",
    "subn": 0
@@ -3278,7 +3246,7 @@
     "타임딜"
    ],
    "model": "MH65CC",
-   "dday": 7,
+   "dday": 6,
    "stock": 50,
    "sub": "",
    "subn": 0
@@ -3293,7 +3261,7 @@
     "타임딜"
    ],
    "model": "MH81CC",
-   "dday": 7,
+   "dday": 6,
    "stock": 28,
    "sub": "",
    "subn": 0
@@ -3308,7 +3276,7 @@
     "타임딜"
    ],
    "model": "MH81RR",
-   "dday": 7,
+   "dday": 6,
    "stock": 29,
    "sub": "",
    "subn": 0
@@ -3323,7 +3291,7 @@
     "타임딜"
    ],
    "model": "MX91WR",
-   "dday": 7,
+   "dday": 6,
    "stock": 9,
    "sub": "",
    "subn": 0
@@ -3338,8 +3306,8 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "dday": 4,
-   "stock": 69,
+   "dday": 3,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3353,7 +3321,7 @@
     "타임딜"
    ],
    "model": "SQ06EA1WCS",
-   "dday": 4,
+   "dday": 3,
    "stock": 96,
    "sub": "",
    "subn": 0
@@ -3368,7 +3336,7 @@
     "타임딜"
    ],
    "model": "SQ07GS7EAS",
-   "dday": 4,
+   "dday": 3,
    "stock": 60,
    "sub": "",
    "subn": 0
@@ -3383,7 +3351,7 @@
     "타임딜"
    ],
    "model": "SQ10GJ1WAS",
-   "dday": 4,
+   "dday": 3,
    "stock": 51,
    "sub": "",
    "subn": 0
@@ -3398,7 +3366,7 @@
     "타임딜"
    ],
    "model": "SQ06GJ1WES",
-   "dday": 4,
+   "dday": 3,
    "stock": 58,
    "sub": "",
    "subn": 0
@@ -3413,7 +3381,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD1",
-   "dday": 4,
+   "dday": 3,
    "stock": 78,
    "sub": "",
    "subn": 0
@@ -3429,7 +3397,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GC1EP1",
-   "dday": 4,
+   "dday": 3,
    "stock": 36,
    "sub": "",
    "subn": 0
@@ -3445,7 +3413,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1EN1",
-   "dday": 4,
+   "dday": 3,
    "stock": 71,
    "sub": "",
    "subn": 0
@@ -3461,7 +3429,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU1EP1",
-   "dday": 4,
+   "dday": 3,
    "stock": 46,
    "sub": "",
    "subn": 0
@@ -3476,8 +3444,8 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "dday": 4,
-   "stock": 66,
+   "dday": 3,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -3492,7 +3460,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU2EP1",
-   "dday": 4,
+   "dday": 3,
    "stock": 17,
    "sub": "",
    "subn": 0
@@ -3508,7 +3476,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "dday": 4,
+   "dday": 3,
    "stock": 41,
    "sub": "",
    "subn": 0
@@ -3524,7 +3492,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "dday": 4,
+   "dday": 3,
    "stock": 46,
    "sub": "",
    "subn": 0
@@ -3579,7 +3547,7 @@
     "타임딜"
    ],
    "model": "FQ17GU2ED2",
-   "dday": 4,
+   "dday": 3,
    "stock": 35,
    "sub": "",
    "subn": 0
@@ -3815,7 +3783,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 60,
    "sub": "",
    "subn": 0
@@ -3831,7 +3799,7 @@
     "타임딜"
    ],
    "model": "BEI3HSBLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 85,
    "sub": "",
    "subn": 0
@@ -3846,7 +3814,7 @@
     "타임딜"
    ],
    "model": "BEI3HKBLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -3862,7 +3830,7 @@
     "타임딜"
    ],
    "model": "BEI3HKHLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 69,
    "sub": "",
    "subn": 0
@@ -3877,7 +3845,7 @@
     "타임딜"
    ],
    "model": "BEI3HKSLE",
-   "dday": 4,
+   "dday": 3,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -3892,7 +3860,7 @@
     "타임딜"
    ],
    "model": "BEI3QEBLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 47,
    "sub": "",
    "subn": 0
@@ -3908,7 +3876,7 @@
     "타임딜"
    ],
    "model": "BEI3QKBLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 32,
    "sub": "",
    "subn": 0
@@ -3924,7 +3892,7 @@
     "타임딜"
    ],
    "model": "BEI3ANBLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 86,
    "sub": "",
    "subn": 0
@@ -3939,7 +3907,7 @@
     "타임딜"
    ],
    "model": "BEI3QKHLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 83,
    "sub": "",
    "subn": 0
@@ -3955,8 +3923,8 @@
     "타임딜"
    ],
    "model": "BEI3ASMLOE",
-   "dday": 4,
-   "stock": 58,
+   "dday": 3,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -3970,7 +3938,7 @@
     "타임딜"
    ],
    "model": "BEI3QMBLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 66,
    "sub": "",
    "subn": 0
@@ -3986,8 +3954,8 @@
     "타임딜"
    ],
    "model": "BEF3ANHLOE",
-   "dday": 4,
-   "stock": 60,
+   "dday": 3,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -4002,7 +3970,7 @@
     "타임딜"
    ],
    "model": "BEF3ASMLOE",
-   "dday": 4,
+   "dday": 3,
    "stock": 73,
    "sub": "",
    "subn": 0
@@ -4031,7 +3999,7 @@
     "타임딜"
    ],
    "model": "WD325AHB",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4047,7 +4015,7 @@
     "타임딜"
    ],
    "model": "WD520AWB",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4076,7 +4044,7 @@
     "타임딜"
    ],
    "model": "WD520VHT",
-   "dday": 6,
+   "dday": 5,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -4091,7 +4059,7 @@
     "타임딜"
    ],
    "model": "WU523AWB",
-   "dday": 6,
+   "dday": 5,
    "stock": 95,
    "sub": "",
    "subn": 0
@@ -4107,8 +4075,8 @@
     "타임딜"
    ],
    "model": "WD523AWB",
-   "dday": 6,
-   "stock": 98,
+   "dday": 5,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -4123,7 +4091,7 @@
     "타임딜"
    ],
    "model": "WD524VHMT",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4139,7 +4107,7 @@
     "닷컴ONLY"
    ],
    "model": "WD524VHPT",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4168,7 +4136,7 @@
     "타임딜"
    ],
    "model": "WD721RE",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4184,7 +4152,7 @@
     "닷컴ONLY"
    ],
    "model": "WD721RH",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4200,7 +4168,7 @@
     "닷컴ONLY"
    ],
    "model": "WD721RK",
-   "dday": 6,
+   "dday": 5,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4216,7 +4184,7 @@
     "타임딜"
    ],
    "model": "WD723RH",
-   "dday": 6,
+   "dday": 5,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -4231,8 +4199,8 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "dday": 4,
-   "stock": 20,
+   "dday": 3,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -4260,8 +4228,8 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "dday": 4,
-   "stock": 63,
+   "dday": 3,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -4289,7 +4257,7 @@
     "타임딜"
    ],
    "model": "DQ185MWGA",
-   "dday": 4,
+   "dday": 3,
    "stock": 97,
    "sub": "",
    "subn": 0
@@ -4304,7 +4272,7 @@
     "타임딜"
    ],
    "model": "DC356SKAA",
-   "dday": 4,
+   "dday": 3,
    "stock": 26,
    "sub": "",
    "subn": 0
@@ -4319,8 +4287,8 @@
     "타임딜"
    ],
    "model": "DQ214MWGA",
-   "dday": 4,
-   "stock": 88,
+   "dday": 3,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -4334,7 +4302,7 @@
     "타임딜"
    ],
    "model": "DQ235MEGA",
-   "dday": 4,
+   "dday": 3,
    "stock": 81,
    "sub": "",
    "subn": 0
@@ -4349,7 +4317,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "dday": 4,
+   "dday": 3,
    "stock": 71,
    "sub": "",
    "subn": 0
@@ -4403,8 +4371,8 @@
     "타임딜"
    ],
    "model": "A727TA",
-   "dday": 7,
-   "stock": 131,
+   "dday": 6,
+   "stock": 130,
    "sub": "",
    "subn": 0
   },
@@ -4418,7 +4386,7 @@
     "타임딜"
    ],
    "model": "A737WA",
-   "dday": 7,
+   "dday": 6,
    "stock": 76,
    "sub": "",
    "subn": 0
@@ -4433,8 +4401,8 @@
     "타임딜"
    ],
    "model": "AX920BWE",
-   "dday": 4,
-   "stock": 231,
+   "dday": 3,
+   "stock": 227,
    "sub": "",
    "subn": 0
   },
@@ -4449,7 +4417,7 @@
     "타임딜"
    ],
    "model": "AX948BHE",
-   "dday": 4,
+   "dday": 3,
    "stock": 143,
    "sub": "",
    "subn": 0
@@ -4464,7 +4432,7 @@
     "타임딜"
    ],
    "model": "AI937WA",
-   "dday": 4,
+   "dday": 3,
    "stock": 155,
    "sub": "",
    "subn": 0
@@ -4479,7 +4447,7 @@
     "타임딜"
    ],
    "model": "AX958BWE",
-   "dday": 4,
+   "dday": 3,
    "stock": 99,
    "sub": "",
    "subn": 0
@@ -4494,7 +4462,7 @@
     "타임딜"
    ],
    "model": "AI948WB",
-   "dday": 4,
+   "dday": 3,
    "stock": 188,
    "sub": "",
    "subn": 0
