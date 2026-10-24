@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 22:22",
+ "updated": "2026-10-24 23:13",
  "status": {
   "errors": [],
   "timedeal": 154,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-24T22:22:38.0253227\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-24T23:12:58.0458996\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -83,7 +83,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 4,
-   "stock": 37,
+   "stock": 38,
    "sub": "55인치",
    "subn": 55
   },
@@ -99,7 +99,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 4,
-   "stock": 35,
+   "stock": 34,
    "sub": "65인치",
    "subn": 65
   },
@@ -160,7 +160,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 4,
-   "stock": 36,
+   "stock": 35,
    "sub": "75인치",
    "subn": 75
   },
@@ -190,7 +190,7 @@
    ],
    "model": "75NU850BEWAS30A",
    "dday": 4,
-   "stock": 28,
+   "stock": 26,
    "sub": "75인치",
    "subn": 75
   },
@@ -251,7 +251,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 1,
-   "stock": 13,
+   "stock": 12,
    "sub": "75인치",
    "subn": 75
   },
@@ -312,7 +312,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 4,
-   "stock": 88,
+   "stock": 89,
    "sub": "85인치",
    "subn": 85
   },
@@ -550,7 +550,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 4,
-   "stock": 60,
+   "stock": 59,
    "sub": "85인치",
    "subn": 85
   },
@@ -702,7 +702,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 4,
-   "stock": 20,
+   "stock": 19,
    "sub": "77인치",
    "subn": 77
   },
@@ -747,7 +747,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 59,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -846,7 +846,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 4,
-   "stock": 31,
+   "stock": 30,
    "sub": "",
    "subn": 0
   },
@@ -908,7 +908,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 4,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -979,7 +979,7 @@
    ],
    "model": "MW23FDI",
    "dday": 4,
-   "stock": 271,
+   "stock": 260,
    "sub": "",
    "subn": 0
   },
@@ -1054,7 +1054,7 @@
    ],
    "model": "MLJ39WW",
    "dday": 4,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -2560,7 +2560,7 @@
    ],
    "model": "T25PX9",
    "dday": 4,
-   "stock": 87,
+   "stock": 86,
    "sub": "25kg",
    "subn": 25
   },
@@ -3007,7 +3007,7 @@
    ],
    "model": "32LX6BEGBAAKXT7SC",
    "dday": 4,
-   "stock": 13,
+   "stock": 12,
    "sub": "",
    "subn": 0
   },
@@ -3580,7 +3580,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 4,
-   "stock": 36,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -3893,7 +3893,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 4,
-   "stock": 46,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -4217,7 +4217,7 @@
    ],
    "model": "WD723RH",
    "dday": 6,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -4232,7 +4232,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 4,
-   "stock": 21,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -4261,7 +4261,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 65,
+   "stock": 63,
    "sub": "",
    "subn": 0
   },
@@ -4320,7 +4320,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 4,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -4419,7 +4419,7 @@
    ],
    "model": "A737WA",
    "dday": 7,
-   "stock": 77,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -4480,7 +4480,7 @@
    ],
    "model": "AX958BWE",
    "dday": 4,
-   "stock": 102,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
