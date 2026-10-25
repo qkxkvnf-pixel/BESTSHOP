@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 05:09",
+ "updated": "2026-10-26 06:12",
  "status": {
   "errors": [],
   "timedeal": 134,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-26T05:08:49.8568502\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-26T06:12:12.6408122\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -486,8 +486,8 @@
    "price": 3536300,
    "cat": "TV",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "OLED77B6BNA",
    "dday": 2,
@@ -522,19 +522,6 @@
    "model": "85QNED92AGW.AKRQ",
    "sub": "85인치",
    "subn": 85
-  },
-  {
-   "name": "LG 올레드 AI (스탠드형)",
-   "url": "https://www.lge.co.kr/tvs/oled77b6bna-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10787828/md10787828-350x350.jpg",
-   "price": 4090000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "OLED77B6BS.AKRG",
-   "sub": "77인치",
-   "subn": 77
   },
   {
    "name": "LG Mini RGB evo AI (벽걸이형) 217cm",
@@ -793,7 +780,7 @@
    ],
    "model": "MW30EDN",
    "dday": 2,
-   "stock": 8,
+   "stock": 10,
    "sub": "",
    "subn": 0
   },
@@ -2351,19 +2338,6 @@
   },
   {
    "name": "LG 통돌이 세탁기",
-   "url": "https://www.lge.co.kr/washing-machines/tr16dv6",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10578832/md10578832-350x350.jpg",
-   "price": 520000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "TR16DV6.AKOR",
-   "sub": "16kg",
-   "subn": 16
-  },
-  {
-   "name": "LG 통돌이 세탁기",
    "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
    "price": 520000,
@@ -2374,6 +2348,19 @@
    "model": "TR15DV5.AKOR",
    "sub": "15kg",
    "subn": 15
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/tr16dv6",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10578832/md10578832-350x350.jpg",
+   "price": 520000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "TR16DV6.AKOR",
+   "sub": "16kg",
+   "subn": 16
   },
   {
    "name": "LG 통돌이 세탁기 25kg 2등급",
@@ -4180,19 +4167,6 @@
   },
   {
    "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
-   "url": "https://www.lge.co.kr/dehumidifiers/dq185mwgas",
-   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586833/md10586833-350x350.jpg",
-   "price": 638000,
-   "cat": "제습기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "DQ185MWGAS.AKOR",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
    "url": "https://www.lge.co.kr/dehumidifiers/dq205pegas",
    "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586836/md10586836-350x350.jpg",
    "price": 638000,
@@ -4201,6 +4175,19 @@
     "닷컴ONLY"
    ],
    "model": "DQ205PEGAS.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 휘센 오브제컬렉션 제습기 + 건조케이스",
+   "url": "https://www.lge.co.kr/dehumidifiers/dq185mwgas",
+   "img": "https://www.lge.co.kr/kr/images/dehumidifiers/md10586833/md10586833-350x350.jpg",
+   "price": 638000,
+   "cat": "제습기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "DQ185MWGAS.AKOR",
    "sub": "",
    "subn": 0
   },
