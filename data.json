@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 01:14",
+ "updated": "2026-10-26 02:15",
  "status": {
   "errors": [],
   "timedeal": 134,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-26T01:14:14.6364701\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-26T02:15:10.6902295\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -67,7 +67,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 2,
-   "stock": 24,
+   "stock": 23,
    "sub": "65인치",
    "subn": 65
   },
@@ -98,7 +98,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 2,
-   "stock": 5,
+   "stock": 4,
    "sub": "75인치",
    "subn": 75
   },
@@ -564,7 +564,7 @@
    ],
    "model": "HY706RWUABM",
    "dday": 2,
-   "stock": 91,
+   "stock": 90,
    "sub": "",
    "subn": 0
   },
@@ -822,7 +822,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 4,
-   "stock": 78,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -838,7 +838,7 @@
    ],
    "model": "MLJ39EW",
    "dday": 2,
-   "stock": 58,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -2302,7 +2302,7 @@
    ],
    "model": "39GX950B",
    "dday": 1,
-   "stock": 165,
+   "stock": 164,
    "sub": "",
    "subn": 0
   },
@@ -2338,19 +2338,6 @@
   },
   {
    "name": "LG 통돌이 세탁기",
-   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
-   "price": 520000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "TR15DV5.AKOR",
-   "sub": "15kg",
-   "subn": 15
-  },
-  {
-   "name": "LG 통돌이 세탁기",
    "url": "https://www.lge.co.kr/washing-machines/tr16dv6",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10578832/md10578832-350x350.jpg",
    "price": 520000,
@@ -2361,6 +2348,19 @@
    "model": "TR16DV6.AKOR",
    "sub": "16kg",
    "subn": 16
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
+   "price": 520000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "TR15DV5.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기 25kg 2등급",
@@ -3062,7 +3062,7 @@
    ],
    "model": "MH67BR",
    "dday": 5,
-   "stock": 40,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -3227,7 +3227,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 2,
-   "stock": 77,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -3753,7 +3753,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 2,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -4059,7 +4059,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -4133,7 +4133,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 2,
-   "stock": 76,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -4148,7 +4148,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 2,
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -4232,7 +4232,7 @@
    ],
    "model": "AX920BWE",
    "dday": 2,
-   "stock": 167,
+   "stock": 166,
    "sub": "",
    "subn": 0
   },
