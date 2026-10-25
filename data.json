@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 13:19",
+ "updated": "2026-10-25 14:17",
  "status": {
   "errors": [],
   "timedeal": 153,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-25T13:19:33.9260993\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-25T14:17:34.7071333\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -96,7 +96,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 3,
-   "stock": 33,
+   "stock": 32,
    "sub": "65인치",
    "subn": 65
   },
@@ -141,7 +141,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 3,
-   "stock": 32,
+   "stock": 30,
    "sub": "75인치",
    "subn": 75
   },
@@ -197,7 +197,7 @@
     "타임딜"
    ],
    "model": "OLED48C5ENA",
-   "stock": 16,
+   "stock": 17,
    "sub": "48인치",
    "subn": 48
   },
@@ -257,7 +257,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 3,
-   "stock": 6,
+   "stock": 5,
    "sub": "55인치",
    "subn": 55
   },
@@ -287,7 +287,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 3,
-   "stock": 84,
+   "stock": 83,
    "sub": "85인치",
    "subn": 85
   },
@@ -389,7 +389,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS30A",
-   "stock": 3,
+   "stock": 2,
    "sub": "75인치",
    "subn": 75
   },
@@ -535,7 +535,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 3,
-   "stock": 56,
+   "stock": 54,
    "sub": "85인치",
    "subn": 85
   },
@@ -669,7 +669,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 3,
-   "stock": 18,
+   "stock": 16,
    "sub": "77인치",
    "subn": 77
   },
@@ -729,7 +729,7 @@
    ],
    "model": "HY706RWUABM",
    "dday": 3,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -813,7 +813,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 3,
-   "stock": 43,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -859,7 +859,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 3,
-   "stock": 129,
+   "stock": 128,
    "sub": "",
    "subn": 0
   },
@@ -903,7 +903,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 3,
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -961,7 +961,7 @@
    ],
    "model": "MW23FDI",
    "dday": 3,
-   "stock": 226,
+   "stock": 216,
    "sub": "",
    "subn": 0
   },
@@ -1052,7 +1052,7 @@
    ],
    "model": "MLJ39HW",
    "dday": 3,
-   "stock": 73,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -2470,7 +2470,7 @@
    ],
    "model": "39GX950B",
    "dday": 1,
-   "stock": 167,
+   "stock": 168,
    "sub": "",
    "subn": 0
   },
@@ -2968,12 +2968,12 @@
    "price": 1236900,
    "cat": "스탠바이미",
    "tags": [
-    "타임딜",
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
    "model": "32LX6BEGB",
    "dday": 1,
-   "stock": 13,
+   "stock": 12,
    "sub": "",
    "subn": 0
   },
@@ -2990,19 +2990,6 @@
    "model": "32LX6BEGBAAKXT7SC",
    "dday": 3,
    "stock": 12,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스탠바이미 2 Max<br>+ LG 스탠바이미 스피커",
-   "url": "https://www.lge.co.kr/stan-by-me/32lx6begbakxt7sc",
-   "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10894838/md10894838-350x350.jpg",
-   "price": 1649000,
-   "cat": "스탠바이미",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "32LX6BEGB.AKXT7SC",
    "sub": "",
    "subn": 0
   },
@@ -3124,7 +3111,7 @@
    ],
    "model": "DUE5MBL2E",
    "dday": 3,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -3170,7 +3157,7 @@
    ],
    "model": "DUE6EWL2E",
    "dday": 3,
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -3229,7 +3216,7 @@
    ],
    "model": "DFE6BGHE",
    "dday": 3,
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   },
@@ -3888,7 +3875,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 3,
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -3904,7 +3891,7 @@
    ],
    "model": "BEI3QKBLOE",
    "dday": 3,
-   "stock": 30,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -4227,7 +4214,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 3,
-   "stock": 13,
+   "stock": 12,
    "sub": "",
    "subn": 0
   },
@@ -4345,7 +4332,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 3,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -4399,7 +4386,7 @@
    ],
    "model": "A727TA",
    "dday": 6,
-   "stock": 128,
+   "stock": 127,
    "sub": "",
    "subn": 0
   },
@@ -4429,7 +4416,7 @@
    ],
    "model": "AX920BWE",
    "dday": 3,
-   "stock": 207,
+   "stock": 206,
    "sub": "",
    "subn": 0
   },
@@ -4445,7 +4432,7 @@
    ],
    "model": "AX948BHE",
    "dday": 3,
-   "stock": 141,
+   "stock": 140,
    "sub": "",
    "subn": 0
   },
@@ -4460,7 +4447,7 @@
    ],
    "model": "AI937WA",
    "dday": 3,
-   "stock": 151,
+   "stock": 147,
    "sub": "",
    "subn": 0
   },
@@ -4490,7 +4477,7 @@
    ],
    "model": "AI948WB",
    "dday": 3,
-   "stock": 187,
+   "stock": 188,
    "sub": "",
    "subn": 0
   },
