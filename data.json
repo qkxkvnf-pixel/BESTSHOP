@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 08:10",
+ "updated": "2026-10-25 09:09",
  "status": {
   "errors": [],
   "timedeal": 151,
@@ -7,7 +7,7 @@
    "count": "수집 218",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규21 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-25T08:10:49.4003159\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-25T09:08:52.2241000\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 218
@@ -141,7 +141,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 3,
-   "stock": 33,
+   "stock": 34,
    "sub": "75인치",
    "subn": 75
   },
@@ -257,7 +257,7 @@
    ],
    "model": "75QNED65ABA",
    "dday": 3,
-   "stock": 48,
+   "stock": 47,
    "sub": "75인치",
    "subn": 75
   },
@@ -272,7 +272,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 3,
-   "stock": 8,
+   "stock": 7,
    "sub": "55인치",
    "subn": 55
   },
@@ -565,7 +565,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEWAS30A",
-   "stock": 6,
+   "stock": 5,
    "sub": "85인치",
    "subn": 85
   },
@@ -670,7 +670,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 3,
-   "stock": 19,
+   "stock": 18,
    "sub": "77인치",
    "subn": 77
   },
@@ -944,7 +944,7 @@
    ],
    "model": "MW23FDI",
    "dday": 3,
-   "stock": 250,
+   "stock": 246,
    "sub": "",
    "subn": 0
   },
@@ -2453,7 +2453,7 @@
    ],
    "model": "39GX950B",
    "dday": 2,
-   "stock": 170,
+   "stock": 169,
    "sub": "",
    "subn": 0
   },
@@ -2956,7 +2956,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 1,
-   "stock": 16,
+   "stock": 15,
    "sub": "",
    "subn": 0
   },
@@ -4300,7 +4300,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 3,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -4399,7 +4399,7 @@
    ],
    "model": "AX920BWE",
    "dday": 3,
-   "stock": 224,
+   "stock": 223,
    "sub": "",
    "subn": 0
   },
@@ -4430,7 +4430,7 @@
    ],
    "model": "AI937WA",
    "dday": 3,
-   "stock": 155,
+   "stock": 154,
    "sub": "",
    "subn": 0
   },
@@ -4445,7 +4445,7 @@
    ],
    "model": "AX958BWE",
    "dday": 3,
-   "stock": 94,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
