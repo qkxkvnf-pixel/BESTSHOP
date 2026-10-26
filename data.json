@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-27 01:37",
+ "updated": "2026-10-27 02:28",
  "status": {
   "errors": [],
-  "timedeal": 143,
+  "timedeal": 142,
   "debug": {
    "count": "수집 225",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-27T01:36:59.2312740\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-27T02:28:38.8093769\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 225
@@ -489,21 +489,6 @@
    "model": "OLED77B6BNA",
    "dday": 1,
    "stock": 10,
-   "sub": "77인치",
-   "subn": 77
-  },
-  {
-   "name": "LG 올레드 AI (벽걸이형) B6 194cm",
-   "url": "https://www.lge.co.kr/tvs/oled77b6nna-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784838/md10784838-350x350.jpg",
-   "price": 3636300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED77B6NNA",
-   "dday": 4,
-   "stock": 1,
    "sub": "77인치",
    "subn": 77
   },
@@ -2472,7 +2457,7 @@
     "타임딜"
    ],
    "model": "39GX950B",
-   "stock": 157,
+   "stock": 154,
    "sub": "",
    "subn": 0
   },
@@ -4416,7 +4401,7 @@
    ],
    "model": "AX948BHE",
    "dday": 1,
-   "stock": 122,
+   "stock": 121,
    "sub": "",
    "subn": 0
   },
@@ -4446,7 +4431,7 @@
    ],
    "model": "AX958BWE",
    "dday": 1,
-   "stock": 40,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
