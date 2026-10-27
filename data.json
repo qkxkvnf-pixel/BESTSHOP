@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 01:34",
+ "updated": "2026-10-28 02:34",
  "status": {
   "errors": [],
   "timedeal": 136,
@@ -7,7 +7,7 @@
    "count": "수집 219",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규22 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T01:34:07.8965296\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T02:34:42.2286392\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 219
@@ -78,7 +78,7 @@
     "닷컴ONLY"
    ],
    "model": "65NU850BENA",
-   "stock": 12,
+   "stock": 11,
    "sub": "65인치",
    "subn": 65
   },
@@ -120,7 +120,7 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "stock": 6,
+   "stock": 5,
    "sub": "75인치",
    "subn": 75
   },
@@ -555,7 +555,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 36,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -928,6 +928,188 @@
    ],
    "model": "MLJ32EWSO",
    "stock": 34,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/w1310egn",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09387826/md09387826-350x350.jpg",
+   "price": 2350000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W1310EGN.AKOR1",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시콤보 컴팩트",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fh11ea",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10597916/md10597916-350x350.jpg",
+   "price": 2590000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FH11EA.AKOR1",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/w2520wznm",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09916826/md09916826-350x350.jpg",
+   "price": 2950000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W2520WZNM.AKOR2",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/wl2521egnr",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09942862/md09942862-350x350.jpg",
+   "price": 3000000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "WL2521EGNR.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/w2420egzr-akor1",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
+   "price": 3000000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W2420EGZR.AKOR1",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/w2320vanqr",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09765845/md09765845-350x350.jpg",
+   "price": 3020000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W2320VANQR.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시콤보 컴팩트 + 미니워시",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fh11eax",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10892826/md10892826-350x350.jpg",
+   "price": 3170000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FH11EAX.CKOR1",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/wl22egzu",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md10283856/md10283856-350x350.jpg",
+   "price": 3220000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "WL22EGZU.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시콤보",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fh25ka",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10335844/md10335844-350x350.jpg",
+   "price": 3330000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FH25KA.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/kx25ea-20en-akor2",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476831/md10476831-350x350.jpg",
+   "price": 3590000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "KX25EA-20EN.AKOR2",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/kx25ga-20en-akor2",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476830/md10476830-350x350.jpg",
+   "price": 3590000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "KX25GA-20EN.AKOR2",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 + 건조기",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fg24e-20g",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10466832/md10466832-350x350.jpg",
+   "price": 3640000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FG24E-20G.AKOR2",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/kg24e-20g",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10466834/md10466834-350x350.jpg",
+   "price": 3640000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "KG24E-20G.AKOR2",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시콤보 + 미니워시",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fh25kax-ckor",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10491829/md10491829-350x350.jpg",
+   "price": 3780000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FH25KAX.CKOR",
    "sub": "",
    "subn": 0
   },
@@ -2547,58 +2729,6 @@
    "subn": 25
   },
   {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/washing-machines/kx25ea-20en-akor2",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476831/md10476831-350x350.jpg",
-   "price": 3590000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KX25EA-20EN.AKOR2",
-   "sub": "25kg",
-   "subn": 25
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/washing-machines/kx25ga-20en-akor2",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476830/md10476830-350x350.jpg",
-   "price": 3590000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KX25GA-20EN.AKOR2",
-   "sub": "25kg",
-   "subn": 25
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/washing-machines/kg24e-20g",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10466834/md10466834-350x350.jpg",
-   "price": 3640000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KG24E-20G.AKOR2",
-   "sub": "",
-   "subn": 34
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기",
-   "url": "https://www.lge.co.kr/washing-machines/fg24e-20g",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10466832/md10466832-350x350.jpg",
-   "price": 3640000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FG24E-20G.AKOR2",
-   "sub": "24kg",
-   "subn": 24
-  },
-  {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW) 3벌",
    "url": "https://www.lge.co.kr/lg-styler/sc3gve",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10834831/md10834831-350x350.jpg",
@@ -3487,136 +3617,6 @@
    "subn": 121
   },
   {
-   "name": "LG 트롬 오브제컬렉션 워시콤보 컴팩트",
-   "url": "https://www.lge.co.kr/wash-combo/fh11ea",
-   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10597916/md10597916-350x350.jpg",
-   "price": 2590000,
-   "cat": "워시콤보",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FH11EA.AKOR1",
-   "sub": "6kg",
-   "subn": 6
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시콤보 컴팩트 + 미니워시",
-   "url": "https://www.lge.co.kr/wash-combo/fh11eax",
-   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10892826/md10892826-350x350.jpg",
-   "price": 3170000,
-   "cat": "워시콤보",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FH11EAX.CKOR1",
-   "sub": "5kg",
-   "subn": 5
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시콤보",
-   "url": "https://www.lge.co.kr/wash-combo/fh25ka",
-   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10335844/md10335844-350x350.jpg",
-   "price": 3330000,
-   "cat": "워시콤보",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FH25KA.AKOR",
-   "sub": "15kg",
-   "subn": 15
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시콤보 + 미니워시",
-   "url": "https://www.lge.co.kr/wash-combo/fh25kax-ckor",
-   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10491829/md10491829-350x350.jpg",
-   "price": 3780000,
-   "cat": "워시콤보",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "FH25KAX.CKOR",
-   "sub": "",
-   "subn": 4
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트",
-   "url": "https://www.lge.co.kr/wash-tower/w1310egn",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09387826/md09387826-350x350.jpg",
-   "price": 2350000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W1310EGN.AKOR1",
-   "sub": "10kg",
-   "subn": 10
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/w2520wznm",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09916826/md09916826-350x350.jpg",
-   "price": 2950000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W2520WZNM.AKOR2",
-   "sub": "20kg",
-   "subn": 20
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/wl2521egnr",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09942862/md09942862-350x350.jpg",
-   "price": 3000000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WL2521EGNR.AKOR",
-   "sub": "21kg",
-   "subn": 21
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/w2420egzr-akor1",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
-   "price": 3000000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W2420EGZR.AKOR1",
-   "sub": "20kg",
-   "subn": 20
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/w2320vanqr",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09765845/md09765845-350x350.jpg",
-   "price": 3020000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W2320VANQR.AKOR",
-   "sub": "20kg",
-   "subn": 20
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/wl22egzu",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md10283856/md10283856-350x350.jpg",
-   "price": 3220000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WL22EGZU.AKOR",
-   "sub": "22kg",
-   "subn": 22
-  },
-  {
    "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
    "url": "https://www.lge.co.kr/electric-ranges/bei3hrble",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10666831/md10666831-350x350.jpg",
@@ -3670,7 +3670,7 @@
     "타임딜"
    ],
    "model": "BEI3HKHLE",
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
