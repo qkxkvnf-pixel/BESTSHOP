@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-27 08:17",
+ "updated": "2026-10-27 09:22",
  "status": {
   "errors": [],
-  "timedeal": 142,
+  "timedeal": 141,
   "debug": {
    "count": "수집 225",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규28 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-27T08:17:21.1579962\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-27T09:21:52.7821776\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 225
@@ -51,7 +51,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 1,
-   "stock": 7,
+   "stock": 6,
    "sub": "55인치",
    "subn": 55
   },
@@ -95,7 +95,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 1,
-   "stock": 18,
+   "stock": 17,
    "sub": "75인치",
    "subn": 75
   },
@@ -399,7 +399,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 1,
-   "stock": 34,
+   "stock": 32,
    "sub": "85인치",
    "subn": 85
   },
@@ -488,22 +488,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 1,
-   "stock": 9,
-   "sub": "77인치",
-   "subn": 77
-  },
-  {
-   "name": "LG 올레드 AI (벽걸이형) B6 194cm",
-   "url": "https://www.lge.co.kr/tvs/oled77b6nna-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784838/md10784838-350x350.jpg",
-   "price": 3636300,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED77B6NNA",
-   "dday": 4,
-   "stock": 1,
+   "stock": 10,
    "sub": "77인치",
    "subn": 77
   },
@@ -691,7 +676,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 102,
+   "stock": 101,
    "sub": "",
    "subn": 0
   },
@@ -878,7 +863,7 @@
    ],
    "model": "MLJ39HW",
    "dday": 1,
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -2482,7 +2467,7 @@
     "타임딜"
    ],
    "model": "39GX950B",
-   "stock": 152,
+   "stock": 153,
    "sub": "",
    "subn": 0
   },
@@ -2552,7 +2537,7 @@
    ],
    "model": "T25PX9",
    "dday": 1,
-   "stock": 71,
+   "stock": 70,
    "sub": "25kg",
    "subn": 25
   },
@@ -3328,7 +3313,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 57,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -3934,7 +3919,7 @@
    ],
    "model": "BEI3QMBLOE",
    "dday": 1,
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -4224,7 +4209,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 1,
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -4313,7 +4298,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 1,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -4367,7 +4352,7 @@
    ],
    "model": "A727TA",
    "dday": 4,
-   "stock": 117,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
@@ -4428,7 +4413,7 @@
    ],
    "model": "AI937WA",
    "dday": 1,
-   "stock": 127,
+   "stock": 126,
    "sub": "",
    "subn": 0
   },
