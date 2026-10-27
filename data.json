@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 00:34",
+ "updated": "2026-10-28 01:34",
  "status": {
   "errors": [],
   "timedeal": 136,
@@ -7,7 +7,7 @@
    "count": "수집 219",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규22 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T00:34:09.3117294\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T01:34:07.8965296\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 219
@@ -46,11 +46,24 @@
    "price": 762600,
    "cat": "TV",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "타임딜",
+    "닷컴ONLY"
    ],
    "model": "55NU850BENA",
    "stock": 17,
+   "sub": "55인치",
+   "subn": 55
+  },
+  {
+   "name": "LG NANO 4K UHD AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/55nu850bena-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799854/md10799854-350x350.jpg",
+   "price": 850000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "55NU850BEW.AKRG",
    "sub": "55인치",
    "subn": 55
   },
@@ -107,7 +120,7 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "stock": 7,
+   "stock": 6,
    "sub": "75인치",
    "subn": 75
   },
@@ -400,7 +413,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "stock": 22,
+   "stock": 21,
    "sub": "85인치",
    "subn": 85
   },
@@ -542,7 +555,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -2339,7 +2352,7 @@
    ],
    "model": "40U990AW",
    "dday": 3,
-   "stock": 7,
+   "stock": 8,
    "sub": "",
    "subn": 0
   },
@@ -3628,7 +3641,7 @@
     "타임딜"
    ],
    "model": "BEI3HSBLE",
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3786,7 +3799,7 @@
     "타임딜"
    ],
    "model": "BEF3ASMLOE",
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -4042,7 +4055,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 12,
+   "stock": 11,
    "sub": "",
    "subn": 0
   },
@@ -4098,7 +4111,7 @@
     "타임딜"
    ],
    "model": "DQ214MWGA",
-   "stock": 80,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
@@ -4180,7 +4193,7 @@
    ],
    "model": "A727TA",
    "dday": 3,
-   "stock": 101,
+   "stock": 100,
    "sub": "",
    "subn": 0
   },
@@ -4195,7 +4208,7 @@
    ],
    "model": "A737WA",
    "dday": 3,
-   "stock": 27,
+   "stock": 26,
    "sub": "",
    "subn": 0
   },
@@ -4209,7 +4222,7 @@
     "타임딜"
    ],
    "model": "AX920BWE",
-   "stock": 12,
+   "stock": 11,
    "sub": "",
    "subn": 0
   },
