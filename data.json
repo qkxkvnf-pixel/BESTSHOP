@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-28 07:23",
+ "updated": "2026-10-28 08:18",
  "status": {
   "errors": [],
-  "timedeal": 136,
+  "timedeal": 135,
   "debug": {
    "count": "수집 219",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규22 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T07:23:22.7961715\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T08:18:01.7712907\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 219
@@ -65,7 +65,7 @@
     "타임딜"
    ],
    "model": "65NU850BENA",
-   "stock": 11,
+   "stock": 29,
    "sub": "65인치",
    "subn": 65
   },
@@ -94,7 +94,7 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "stock": 5,
+   "stock": 29,
    "sub": "75인치",
    "subn": 75
   },
@@ -179,7 +179,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 8,
+   "stock": 29,
    "sub": "85인치",
    "subn": 85
   },
@@ -529,7 +529,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -596,7 +596,7 @@
     "타임딜"
    ],
    "model": "AS156HWWL",
-   "stock": 44,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -1828,7 +1828,7 @@
     "타임딜"
    ],
    "model": "16U55U-GSOBK",
-   "stock": 31,
+   "stock": 30,
    "sub": "16인치",
    "subn": 16
   },
@@ -2341,21 +2341,6 @@
    "subn": 0
   },
   {
-   "name": "LG 스마트모니터 FHD",
-   "url": "https://www.lge.co.kr/monitors/32sr50fb",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10377828/md10377828-350x350.jpg",
-   "price": 339000,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "32SR50FB",
-   "dday": 3,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 울트라HD 모니터",
    "url": "https://www.lge.co.kr/monitors/27u710b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10847829/md10847829-350x350.jpg",
@@ -2493,7 +2478,7 @@
    ],
    "model": "39GX950B",
    "dday": 3,
-   "stock": 94,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3428,7 +3413,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 14,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
@@ -4001,7 +3986,7 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "stock": 59,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -4196,7 +4181,7 @@
     "타임딜"
    ],
    "model": "AX920BWE",
-   "stock": 11,
+   "stock": 10,
    "sub": "",
    "subn": 0
   },
@@ -4225,7 +4210,7 @@
     "타임딜"
    ],
    "model": "AI937WA",
-   "stock": 121,
+   "stock": 122,
    "sub": "",
    "subn": 0
   },
