@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-27 10:32",
+ "updated": "2026-10-27 11:20",
  "status": {
   "errors": [],
-  "timedeal": 130,
+  "timedeal": 144,
   "debug": {
-   "count": "수집 223",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규26 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "count": "수집 222",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규25 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-27T10:31:59.3435822\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-10-27T11:20:36.1842294\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
-  "only": 223
+  "only": 222
  },
  "items": [
   {
@@ -95,7 +95,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 1,
-   "stock": 14,
+   "stock": 10,
    "sub": "75인치",
    "subn": 75
   },
@@ -153,7 +153,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 1,
-   "stock": 2,
+   "stock": 19,
    "sub": "55인치",
    "subn": 55
   },
@@ -342,7 +342,7 @@
    ],
    "model": "OLED65C5ENA",
    "dday": 1,
-   "stock": 5,
+   "stock": 20,
    "sub": "65인치",
    "subn": 65
   },
@@ -531,7 +531,7 @@
    ],
    "model": "HY706RWUABM",
    "dday": 1,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -615,7 +615,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 1,
-   "stock": 9,
+   "stock": 8,
    "sub": "",
    "subn": 0
   },
@@ -661,7 +661,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 99,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -705,7 +705,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 1,
-   "stock": 29,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -786,7 +786,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 3,
-   "stock": 71,
+   "stock": 70,
    "sub": "",
    "subn": 0
   },
@@ -991,19 +991,6 @@
    "model": "Z490MPSF11.AKOR",
    "sub": "400L대",
    "subn": 491
-  },
-  {
-   "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max",
-   "url": "https://www.lge.co.kr/kimchi-refrigerators/z334mqq172",
-   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10367018/md10367018-350x350.jpg",
-   "price": 2020000,
-   "cat": "김치냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "Z334MQQ172.AKOR",
-   "sub": "300L대",
-   "subn": 324
   },
   {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max ",
@@ -1741,6 +1728,36 @@
    "subn": 16
   },
   {
+   "name": "LG 그램 AI 40.6cm 인텔® 코어™ Ultra 5",
+   "url": "https://www.lge.co.kr/notebook/16z90t-ga5dk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10539826/md10539826-350x350.jpg",
+   "price": 1757700,
+   "cat": "노트북",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "16Z90T-GA5DK",
+   "dday": 4,
+   "stock": 1,
+   "sub": "16인치",
+   "subn": 16
+  },
+  {
+   "name": "LG 그램 Pro AI 43.1cm",
+   "url": "https://www.lge.co.kr/notebook/17z90tp-ga50k",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10521852/md10521852-350x350.jpg",
+   "price": 1757700,
+   "cat": "노트북",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "17Z90TP-GA50K",
+   "dday": 4,
+   "stock": 1,
+   "sub": "17인치",
+   "subn": 17
+  },
+  {
    "name": "14ZB90S-GA5WK",
    "url": "https://www.lge.co.kr/notebook/14zb90s-ga5wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10288880/md10288880-350x350.jpg",
@@ -1765,6 +1782,21 @@
    "model": "15ZB90S-G.AA5WK",
    "sub": "15인치",
    "subn": 15
+  },
+  {
+   "name": "LG 그램 Pro 360 AI 40.6cm 인텔® 코어™ Ultra 5",
+   "url": "https://www.lge.co.kr/notebook/16t90tp-ga5ck",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10521827/md10521827-350x350.jpg",
+   "price": 1925100,
+   "cat": "노트북",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "16T90TP-GA5CK",
+   "dday": 4,
+   "stock": 1,
+   "sub": "16인치",
+   "subn": 16
   },
   {
    "name": "16ZB90S-GA5WK",
@@ -1910,6 +1942,21 @@
    "subn": 16
   },
   {
+   "name": "LG 그램 AI, Copilot+ PC 39.6cm AMD 라이젠™ AI 7",
+   "url": "https://www.lge.co.kr/notebook/15z80t-gu7wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10567826/md10567826-350x350.jpg",
+   "price": 2483100,
+   "cat": "노트북",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "15Z80T-GU7WK",
+   "dday": 4,
+   "stock": 1,
+   "sub": "15인치",
+   "subn": 15
+  },
+  {
    "name": "LG 그램 Pro AI 2026, Copilot+ PC",
    "url": "https://www.lge.co.kr/notebook/17z90u-gs5wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10762839/md10762839-350x350.jpg",
@@ -2007,6 +2054,22 @@
    "subn": 16
   },
   {
+   "name": "LG 그램 Pro 360 AI 40.6cm 인텔® 코어™ Ultra 7",
+   "url": "https://www.lge.co.kr/notebook/16t90tp-gd7bk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10521834/md10521834-350x350.jpg",
+   "price": 2799300,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "16T90TP-GD7BK",
+   "dday": 4,
+   "stock": 1,
+   "sub": "16인치",
+   "subn": 16
+  },
+  {
    "name": "16Z90TP-KD7WK",
    "url": "https://www.lge.co.kr/notebook/16z90tp-kd7wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10529827/md10529827-350x350.jpg",
@@ -2016,19 +2079,6 @@
     "닷컴ONLY"
    ],
    "model": "16Z90TP-K.AD7WK",
-   "sub": "16인치",
-   "subn": 16
-  },
-  {
-   "name": "LG 그램 Pro 360 AI",
-   "url": "https://www.lge.co.kr/notebook/16t90tp-gd7bk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10521834/md10521834-350x350.jpg",
-   "price": 3190000,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "16T90TP-G.AD7BK",
    "sub": "16인치",
    "subn": 16
   },
@@ -2166,6 +2216,21 @@
    "subn": 17
   },
   {
+   "name": "LG PC 모니터 FHD",
+   "url": "https://www.lge.co.kr/monitors/32mr50c",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10235826/md10235826-350x350.jpg",
+   "price": 205000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32MR50C",
+   "dday": 4,
+   "stock": 1,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 울트라와이드 모니터",
    "url": "https://www.lge.co.kr/monitors/34wp500",
    "img": "https://www.lge.co.kr/kr/images/monitors/md08961837/md08961837-350x350.jpg",
@@ -2182,15 +2247,18 @@
    "subn": 0
   },
   {
-   "name": "LG 울트라기어 게이밍모니터",
+   "name": "LG 울트라기어 게이밍모니터 G5 FHD",
    "url": "https://www.lge.co.kr/monitors/25g520b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10858831/md10858831-350x350.jpg",
    "price": 309000,
    "cat": "모니터",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "25G520B.BKR",
+   "model": "25G520B",
+   "dday": 4,
+   "stock": 100,
    "sub": "",
    "subn": 0
   },
@@ -2277,6 +2345,36 @@
    "subn": 0
   },
   {
+   "name": "LG 울트라HD 모니터 U7 4K",
+   "url": "https://www.lge.co.kr/monitors/43u712a",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10552829/md10552829-350x350.jpg",
+   "price": 749000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "43U712A",
+   "dday": 4,
+   "stock": 100,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 스마트모니터 스윙 U8s 4K",
+   "url": "https://www.lge.co.kr/monitors/32u889saw",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10581826/md10581826-350x350.jpg",
+   "price": 798900,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32U889SAW",
+   "dday": 4,
+   "stock": 100,
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 울트라기어 AI 게이밍모니터",
    "url": "https://www.lge.co.kr/monitors/25g590b",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10891831/md10891831-350x350.jpg",
@@ -2286,6 +2384,81 @@
     "닷컴ONLY"
    ],
    "model": "25G590B.BKR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 올레드 게이밍모니터 GX8 4K",
+   "url": "https://www.lge.co.kr/monitors/32gx850a",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10680848/md10680848-350x350.jpg",
+   "price": 1450000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "32GX850A",
+   "dday": 4,
+   "stock": 30,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라와이드 모니터 U9 DQHD",
+   "url": "https://www.lge.co.kr/monitors/49u950aw",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10630829/md10630829-350x350.jpg",
+   "price": 1790000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "49U950AW",
+   "dday": 4,
+   "stock": 10,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 evo AI 올레드 게이밍모니터 GX9 5K",
+   "url": "https://www.lge.co.kr/monitors/39gx950b",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10828843/md10828843-350x350.jpg",
+   "price": 1874000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "39GX950B",
+   "dday": 4,
+   "stock": 100,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라HD 모니터 U9 5K",
+   "url": "https://www.lge.co.kr/monitors/40u990aw",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10638835/md10638835-350x350.jpg",
+   "price": 2100000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "40U990AW",
+   "dday": 4,
+   "stock": 10,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 울트라기어 evo 게이밍모니터 G9 5K2K",
+   "url": "https://www.lge.co.kr/monitors/52g930b",
+   "img": "https://www.lge.co.kr/kr/images/monitors/md10871826/md10871826-350x350.jpg",
+   "price": 2990000,
+   "cat": "모니터",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "52G930B",
+   "dday": 4,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -2327,7 +2500,7 @@
    ],
    "model": "T25PX9",
    "dday": 1,
-   "stock": 70,
+   "stock": 69,
    "sub": "25kg",
    "subn": 25
   },
@@ -2369,7 +2542,7 @@
    ],
    "model": "FX23VNR",
    "dday": 1,
-   "stock": 32,
+   "stock": 31,
    "sub": "23kg",
    "subn": 23
   },
@@ -2529,7 +2702,7 @@
    ],
    "model": "SC3GVE",
    "dday": 1,
-   "stock": 24,
+   "stock": 23,
    "sub": "",
    "subn": 0
   },
@@ -2819,7 +2992,7 @@
    ],
    "model": "DUE4BGE",
    "dday": 1,
-   "stock": 60,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -2985,7 +3158,7 @@
    ],
    "model": "DFE6BGHE",
    "dday": 1,
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -3090,7 +3263,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 52,
+   "stock": 51,
    "sub": "",
    "subn": 0
   },
@@ -3165,7 +3338,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 1,
-   "stock": 74,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -3228,7 +3401,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 1,
-   "stock": 56,
+   "stock": 55,
    "sub": "",
    "subn": 0
   },
@@ -3276,7 +3449,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -3519,19 +3692,6 @@
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/wash-tower/w2420egzr-akor1",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
-   "price": 3000000,
-   "cat": "워시타워",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W2420EGZR.AKOR1",
-   "sub": "20kg",
-   "subn": 20
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
    "url": "https://www.lge.co.kr/wash-tower/wl2521egnr",
    "img": "https://www.lge.co.kr/kr/images/wash-tower/md09942862/md09942862-350x350.jpg",
    "price": 3000000,
@@ -3542,6 +3702,19 @@
    "model": "WL2521EGNR.AKOR",
    "sub": "21kg",
    "subn": 21
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/wash-tower/w2420egzr-akor1",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
+   "price": 3000000,
+   "cat": "워시타워",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W2420EGZR.AKOR1",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
@@ -3593,7 +3766,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 1,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -3670,7 +3843,7 @@
    ],
    "model": "BEI3QEBLOE",
    "dday": 1,
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -3717,7 +3890,7 @@
    ],
    "model": "BEI3QKHLOE",
    "dday": 1,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3748,7 +3921,7 @@
    ],
    "model": "BEI3QMBLOE",
    "dday": 1,
-   "stock": 60,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -3780,7 +3953,7 @@
    ],
    "model": "BEF3ASMLOE",
    "dday": 1,
-   "stock": 56,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -4009,7 +4182,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 1,
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -4038,7 +4211,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 1,
-   "stock": 26,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -4097,7 +4270,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 1,
-   "stock": 85,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -4127,7 +4300,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 1,
-   "stock": 52,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -4196,7 +4369,7 @@
    ],
    "model": "A737WA",
    "dday": 4,
-   "stock": 44,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -4211,7 +4384,7 @@
    ],
    "model": "AX920BWE",
    "dday": 1,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -4227,7 +4400,7 @@
    ],
    "model": "AX948BHE",
    "dday": 1,
-   "stock": 120,
+   "stock": 119,
    "sub": "",
    "subn": 0
   },
@@ -4257,7 +4430,7 @@
    ],
    "model": "AX958BWE",
    "dday": 1,
-   "stock": 41,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -4272,7 +4445,7 @@
    ],
    "model": "AI948WB",
    "dday": 1,
-   "stock": 188,
+   "stock": 187,
    "sub": "",
    "subn": 0
   },
