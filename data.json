@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 16:44",
+ "updated": "2026-10-28 17:35",
  "status": {
   "errors": [],
   "timedeal": 134,
@@ -7,7 +7,7 @@
    "count": "수집 208",
    "pages": "p1:목록100/신규100 p2:목록100/신규96 p3:목록100/신규12 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T16:44:06.9887263\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T17:34:56.7892897\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10367009\", \"sku\": \"Z334SGS172S.AKOR\", \"salesModelCode\": \"Z334SGS172S\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 디오스 오브제컬렉션 김치톡톡 Fit & Max\", \"modelName\": \"Z334SGS172S\", \"defaultCategoryId\": \"CT50000072\", \"defaultCategoryName\": \"김치냉장고\", \"superCategoryId\": \"CT50000064\", \"categoryId\": \"CT50000072\", \"subCategoryId\": \"CT50000073\", \"superCategoryName\": \"주방가전\", \"categoryName\": \"김치냉장고\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg\", \"smallImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000007422\", "
   },
   "only": 208
@@ -50,7 +50,7 @@
     "타임딜"
    ],
    "model": "55NU850BENA",
-   "stock": 12,
+   "stock": 11,
    "sub": "55인치",
    "subn": 55
   },
@@ -373,7 +373,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "stock": 19,
+   "stock": 18,
    "sub": "85인치",
    "subn": 85
   },
@@ -444,7 +444,7 @@
    ],
    "model": "98NU850BENB",
    "dday": 6,
-   "stock": 16,
+   "stock": 15,
    "sub": "98인치",
    "subn": 98
   },
@@ -611,7 +611,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "stock": 10,
+   "stock": 9,
    "sub": "",
    "subn": 0
   },
@@ -640,7 +640,7 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "stock": 74,
+   "stock": 71,
    "sub": "",
    "subn": 0
   },
@@ -891,7 +891,7 @@
     "타임딜"
    ],
    "model": "MLJ32EWSO",
-   "stock": 31,
+   "stock": 33,
    "sub": "",
    "subn": 0
   },
@@ -1766,7 +1766,7 @@
     "타임딜"
    ],
    "model": "16U55U-GSOBK",
-   "stock": 19,
+   "stock": 18,
    "sub": "16인치",
    "subn": 16
   },
@@ -2042,7 +2042,7 @@
    ],
    "model": "15Z95U-GU7WK",
    "dday": 3,
-   "stock": 7,
+   "stock": 6,
    "sub": "15인치",
    "subn": 15
   },
@@ -2403,7 +2403,7 @@
    ],
    "model": "39GX950B",
    "dday": 3,
-   "stock": 90,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -2637,7 +2637,7 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "stock": 15,
+   "stock": 14,
    "sub": "",
    "subn": 0
   },
@@ -2921,7 +2921,7 @@
     "타임딜"
    ],
    "model": "DUE4BGE",
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -3353,7 +3353,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 4,
+   "stock": 5,
    "sub": "",
    "subn": 0
   },
@@ -3534,7 +3534,7 @@
     "타임딜"
    ],
    "model": "BEI3QKHLOE",
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -3862,7 +3862,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 9,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -3890,7 +3890,7 @@
     "타임딜"
    ],
    "model": "DQ185MWGA",
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -3946,7 +3946,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -4000,7 +4000,7 @@
    ],
    "model": "A727TA",
    "dday": 3,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -4030,7 +4030,7 @@
     "타임딜"
    ],
    "model": "AX948BHE",
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
