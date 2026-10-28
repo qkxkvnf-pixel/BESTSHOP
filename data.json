@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-28 14:28",
+ "updated": "2026-10-28 15:26",
  "status": {
   "errors": [],
-  "timedeal": 135,
+  "timedeal": 134,
   "debug": {
    "count": "수집 208",
    "pages": "p1:목록100/신규100 p2:목록100/신규96 p3:목록100/신규12 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T14:27:51.1012521\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T15:26:15.5220909\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10367009\", \"sku\": \"Z334SGS172S.AKOR\", \"salesModelCode\": \"Z334SGS172S\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 디오스 오브제컬렉션 김치톡톡 Fit & Max\", \"modelName\": \"Z334SGS172S\", \"defaultCategoryId\": \"CT50000072\", \"defaultCategoryName\": \"김치냉장고\", \"superCategoryId\": \"CT50000064\", \"categoryId\": \"CT50000072\", \"subCategoryId\": \"CT50000073\", \"superCategoryName\": \"주방가전\", \"categoryName\": \"김치냉장고\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg\", \"smallImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000007422\", "
   },
   "only": 208
@@ -50,7 +50,7 @@
     "타임딜"
    ],
    "model": "55NU850BENA",
-   "stock": 14,
+   "stock": 13,
    "sub": "55인치",
    "subn": 55
   },
@@ -65,7 +65,7 @@
     "타임딜"
    ],
    "model": "65NU850BENA",
-   "stock": 25,
+   "stock": 24,
    "sub": "65인치",
    "subn": 65
   },
@@ -94,7 +94,7 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "stock": 16,
+   "stock": 14,
    "sub": "75인치",
    "subn": 75
   },
@@ -108,7 +108,7 @@
     "타임딜"
    ],
    "model": "75NU850BEWAS30A",
-   "stock": 26,
+   "stock": 25,
    "sub": "75인치",
    "subn": 75
   },
@@ -155,20 +155,6 @@
    "subn": 75
   },
   {
-   "name": "LG 올레드 evo AI (스탠드형) C6 138cm",
-   "url": "https://www.lge.co.kr/tvs/oled55c6ena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10770847/md10770847-350x350.jpg",
-   "price": 1478700,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "OLED55C6ENA",
-   "stock": 2,
-   "sub": "55인치",
-   "subn": 55
-  },
-  {
    "name": "LG NANO 4K UHD AI (벽걸이형) 214cm",
    "url": "https://www.lge.co.kr/tvs/85nu850bena-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10799848/md10799848-350x350.jpg",
@@ -179,7 +165,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 24,
+   "stock": 23,
    "sub": "85인치",
    "subn": 85
   },
@@ -346,7 +332,7 @@
     "타임딜"
    ],
    "model": "OLED65C5ENA",
-   "stock": 16,
+   "stock": 15,
    "sub": "65인치",
    "subn": 65
   },
@@ -611,7 +597,7 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -654,7 +640,7 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -696,7 +682,7 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "stock": 18,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -777,7 +763,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 2,
-   "stock": 61,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -905,7 +891,7 @@
     "타임딜"
    ],
    "model": "MLJ32EWSO",
-   "stock": 31,
+   "stock": 30,
    "sub": "",
    "subn": 0
   },
@@ -2906,7 +2892,7 @@
     "타임딜"
    ],
    "model": "DUE1BGLE",
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -2920,7 +2906,7 @@
     "타임딜"
    ],
    "model": "DUE4BGE",
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -2935,7 +2921,7 @@
     "타임딜"
    ],
    "model": "DUE4BGL1E",
-   "stock": 41,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -3005,7 +2991,7 @@
     "타임딜"
    ],
    "model": "DUE6BGL3E",
-   "stock": 68,
+   "stock": 69,
    "sub": "",
    "subn": 0
   },
@@ -3020,7 +3006,7 @@
     "타임딜"
    ],
    "model": "DUE6PFL3E",
-   "stock": 64,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -3034,7 +3020,7 @@
     "타임딜"
    ],
    "model": "DUE6GLHE",
-   "stock": 94,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3074,7 +3060,7 @@
     "타임딜"
    ],
    "model": "DFE6BGHE",
-   "stock": 68,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -3206,7 +3192,7 @@
     "타임딜"
    ],
    "model": "SQ07GS7EAS",
-   "stock": 59,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3263,7 +3249,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GC1EP1",
-   "stock": 33,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -3352,7 +3338,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 8,
+   "stock": 6,
    "sub": "",
    "subn": 0
   },
@@ -3446,7 +3432,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -3490,7 +3476,7 @@
     "타임딜"
    ],
    "model": "BEI3HKHLE",
-   "stock": 52,
+   "stock": 51,
    "sub": "",
    "subn": 0
   },
@@ -3561,7 +3547,7 @@
     "타임딜"
    ],
    "model": "BEI3ASMLOE",
-   "stock": 25,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -3710,7 +3696,7 @@
    ],
    "model": "WD523AWB",
    "dday": 2,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -3861,7 +3847,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 8,
+   "stock": 9,
    "sub": "",
    "subn": 0
   },
@@ -3889,7 +3875,7 @@
     "타임딜"
    ],
    "model": "DQ185MWGA",
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -3945,7 +3931,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 40,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -4014,7 +4000,7 @@
    ],
    "model": "A737WA",
    "dday": 3,
-   "stock": 25,
+   "stock": 23,
    "sub": "",
    "subn": 0
   },
@@ -4043,7 +4029,7 @@
     "타임딜"
    ],
    "model": "AI937WA",
-   "stock": 118,
+   "stock": 117,
    "sub": "",
    "subn": 0
   },
@@ -4057,7 +4043,7 @@
     "타임딜"
    ],
    "model": "AX958BWE",
-   "stock": 6,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
