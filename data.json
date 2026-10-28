@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 15:26",
+ "updated": "2026-10-28 16:44",
  "status": {
   "errors": [],
   "timedeal": 134,
@@ -7,7 +7,7 @@
    "count": "수집 208",
    "pages": "p1:목록100/신규100 p2:목록100/신규96 p3:목록100/신규12 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T15:26:15.5220909\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-28T16:44:06.9887263\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10367009\", \"sku\": \"Z334SGS172S.AKOR\", \"salesModelCode\": \"Z334SGS172S\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 디오스 오브제컬렉션 김치톡톡 Fit & Max\", \"modelName\": \"Z334SGS172S\", \"defaultCategoryId\": \"CT50000072\", \"defaultCategoryName\": \"김치냉장고\", \"superCategoryId\": \"CT50000064\", \"categoryId\": \"CT50000072\", \"subCategoryId\": \"CT50000073\", \"superCategoryName\": \"주방가전\", \"categoryName\": \"김치냉장고\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg\", \"smallImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000007422\", "
   },
   "only": 208
@@ -50,7 +50,7 @@
     "타임딜"
    ],
    "model": "55NU850BENA",
-   "stock": 13,
+   "stock": 12,
    "sub": "55인치",
    "subn": 55
   },
@@ -94,7 +94,7 @@
     "타임딜"
    ],
    "model": "75NU850BENA",
-   "stock": 14,
+   "stock": 9,
    "sub": "75인치",
    "subn": 75
   },
@@ -165,7 +165,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 23,
+   "stock": 22,
    "sub": "85인치",
    "subn": 85
   },
@@ -220,7 +220,7 @@
     "타임딜"
    ],
    "model": "65MRGB83BEA",
-   "stock": 23,
+   "stock": 22,
    "sub": "65인치",
    "subn": 65
   },
@@ -373,7 +373,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "stock": 20,
+   "stock": 19,
    "sub": "85인치",
    "subn": 85
   },
@@ -444,7 +444,7 @@
    ],
    "model": "98NU850BENB",
    "dday": 6,
-   "stock": 17,
+   "stock": 16,
    "sub": "98인치",
    "subn": 98
   },
@@ -474,7 +474,7 @@
     "타임딜"
    ],
    "model": "OLED77B6BNA",
-   "stock": 2,
+   "stock": 1,
    "sub": "77인치",
    "subn": 77
   },
@@ -515,7 +515,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 29,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -597,7 +597,7 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -611,7 +611,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "stock": 11,
+   "stock": 10,
    "sub": "",
    "subn": 0
   },
@@ -640,7 +640,7 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -835,7 +835,7 @@
     "타임딜"
    ],
    "model": "MLJ39KR",
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -891,7 +891,7 @@
     "타임딜"
    ],
    "model": "MLJ32EWSO",
-   "stock": 30,
+   "stock": 31,
    "sub": "",
    "subn": 0
   },
@@ -1256,7 +1256,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "stock": 83,
+   "stock": 82,
    "sub": "300L대",
    "subn": 300
   },
@@ -1766,7 +1766,7 @@
     "타임딜"
    ],
    "model": "16U55U-GSOBK",
-   "stock": 20,
+   "stock": 19,
    "sub": "16인치",
    "subn": 16
   },
@@ -2233,7 +2233,7 @@
    ],
    "model": "25G520B",
    "dday": 3,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -2434,6 +2434,21 @@
    "model": "52G930B",
    "dday": 3,
    "stock": 20,
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워 1등급",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/wl22wdu",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md10283849/md10283849-350x350.jpg",
+   "price": 2808600,
+   "cat": "세탁 건조기",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "WL22WDU",
+   "dday": 2,
+   "stock": 208,
    "sub": "",
    "subn": 0
   },
@@ -2935,7 +2950,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL1E",
-   "stock": 52,
+   "stock": 51,
    "sub": "",
    "subn": 0
   },
@@ -2949,7 +2964,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL2E",
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -3006,7 +3021,7 @@
     "타임딜"
    ],
    "model": "DUE6PFL3E",
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -3075,7 +3090,7 @@
    ],
    "model": "MH67BR",
    "dday": 3,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -3164,7 +3179,7 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "stock": 42,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -3293,7 +3308,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "stock": 53,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -3338,7 +3353,7 @@
     "타임딜"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 6,
+   "stock": 4,
    "sub": "",
    "subn": 0
   },
@@ -3353,7 +3368,7 @@
     "타임딜"
    ],
    "model": "FQ17GU2ED2",
-   "stock": 32,
+   "stock": 31,
    "sub": "",
    "subn": 0
   },
@@ -3432,7 +3447,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -3476,7 +3491,7 @@
     "타임딜"
    ],
    "model": "BEI3HKHLE",
-   "stock": 51,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -3505,7 +3520,7 @@
     "타임딜"
    ],
    "model": "BEI3ANBLOE",
-   "stock": 82,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -3591,7 +3606,7 @@
     "타임딜"
    ],
    "model": "BEF3ASMLOE",
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -3805,7 +3820,7 @@
    ],
    "model": "WD723RH",
    "dday": 2,
-   "stock": 92,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -3917,7 +3932,7 @@
     "타임딜"
    ],
    "model": "DQ235MEGA",
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -3931,7 +3946,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -4000,7 +4015,7 @@
    ],
    "model": "A737WA",
    "dday": 3,
-   "stock": 23,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -4015,7 +4030,7 @@
     "타임딜"
    ],
    "model": "AX948BHE",
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -4030,20 +4045,6 @@
    ],
    "model": "AI937WA",
    "stock": 117,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 코드제로 오브제컬렉션 A9 흡입+스팀 물걸레",
-   "url": "https://www.lge.co.kr/vacuum-cleaners/ax958bwe-bkor1",
-   "img": "https://www.lge.co.kr/kr/images/vacuum-cleaners/md10649840/md10649840-350x350.jpg",
-   "price": 902100,
-   "cat": "청소기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "AX958BWE",
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
