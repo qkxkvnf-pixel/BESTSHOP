@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-28 13:29",
+ "updated": "2026-10-28 14:28",
  "status": {
   "errors": [],
-  "timedeal": 136,
+  "timedeal": 135,
   "debug": {
-   "count": "수집 212",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규15 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "count": "수집 208",
+   "pages": "p1:목록100/신규100 p2:목록100/신규96 p3:목록100/신규12 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-28T13:29:12.5930383\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
-   "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
+   "total_api": "{\"timestamp\":\"2026-10-28T14:27:51.1012521\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "fail_sample": "{\"modelId\": \"MD10367009\", \"sku\": \"Z334SGS172S.AKOR\", \"salesModelCode\": \"Z334SGS172S\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 디오스 오브제컬렉션 김치톡톡 Fit & Max\", \"modelName\": \"Z334SGS172S\", \"defaultCategoryId\": \"CT50000072\", \"defaultCategoryName\": \"김치냉장고\", \"superCategoryId\": \"CT50000064\", \"categoryId\": \"CT50000072\", \"subCategoryId\": \"CT50000073\", \"superCategoryName\": \"주방가전\", \"categoryName\": \"김치냉장고\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg\", \"smallImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000007422\", "
   },
-  "only": 212
+  "only": 208
  },
  "items": [
   {
@@ -65,7 +65,7 @@
     "타임딜"
    ],
    "model": "65NU850BENA",
-   "stock": 26,
+   "stock": 25,
    "sub": "65인치",
    "subn": 65
   },
@@ -164,7 +164,7 @@
     "타임딜"
    ],
    "model": "OLED55C6ENA",
-   "stock": 4,
+   "stock": 2,
    "sub": "55인치",
    "subn": 55
   },
@@ -179,7 +179,7 @@
     "타임딜"
    ],
    "model": "85NU850BENA",
-   "stock": 25,
+   "stock": 24,
    "sub": "85인치",
    "subn": 85
   },
@@ -346,7 +346,7 @@
     "타임딜"
    ],
    "model": "OLED65C5ENA",
-   "stock": 17,
+   "stock": 16,
    "sub": "65인치",
    "subn": 65
   },
@@ -387,7 +387,7 @@
     "타임딜"
    ],
    "model": "85QNED8MBEA",
-   "stock": 21,
+   "stock": 20,
    "sub": "85인치",
    "subn": 85
   },
@@ -488,7 +488,7 @@
     "타임딜"
    ],
    "model": "OLED77B6BNA",
-   "stock": 3,
+   "stock": 2,
    "sub": "77인치",
    "subn": 77
   },
@@ -529,7 +529,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 30,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -611,7 +611,7 @@
     "타임딜"
    ],
    "model": "AS186HWWL",
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -625,7 +625,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "stock": 12,
+   "stock": 11,
    "sub": "",
    "subn": 0
   },
@@ -654,7 +654,7 @@
     "타임딜"
    ],
    "model": "AS305DWWLM",
-   "stock": 78,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -696,7 +696,7 @@
     "타임딜"
    ],
    "model": "AS356NSLLM",
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -777,7 +777,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 2,
-   "stock": 62,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -792,7 +792,7 @@
     "타임딜"
    ],
    "model": "MLJ39EW",
-   "stock": 32,
+   "stock": 31,
    "sub": "",
    "subn": 0
   },
@@ -1028,32 +1028,6 @@
   },
   {
    "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/kx25ga-20en-akor2",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476830/md10476830-350x350.jpg",
-   "price": 3590000,
-   "cat": "기타",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KX25GA-20EN.AKOR2",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/kx25ea-20en-akor2",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10476831/md10476831-350x350.jpg",
-   "price": 3590000,
-   "cat": "기타",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "KX25EA-20EN.AKOR2",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 + 건조기 + 스태킹키트",
    "url": "https://www.lge.co.kr/all-in-one-laundry/kg24e-20g",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10466834/md10466834-350x350.jpg",
    "price": 3640000,
@@ -1157,19 +1131,6 @@
    "subn": 491
   },
   {
-   "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max ",
-   "url": "https://www.lge.co.kr/kimchi-refrigerators/z334mqq101",
-   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10657829/md10657829-350x350.jpg",
-   "price": 2070000,
-   "cat": "김치냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "Z334MQQ101.AKOR",
-   "sub": "300L대",
-   "subn": 324
-  },
-  {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/z386mee221",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792843/md10792843-350x350.jpg",
@@ -1194,19 +1155,6 @@
    "model": "Z484GBB173.AKOR",
    "sub": "400L대",
    "subn": 480
-  },
-  {
-   "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max",
-   "url": "https://www.lge.co.kr/kimchi-refrigerators/z334sgs172s",
-   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg",
-   "price": 2340000,
-   "cat": "김치냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "Z334SGS172S.AKOR",
-   "sub": "300L대",
-   "subn": 324
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -1322,7 +1270,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "stock": 85,
+   "stock": 83,
    "sub": "300L대",
    "subn": 300
   },
@@ -1832,7 +1780,7 @@
     "타임딜"
    ],
    "model": "16U55U-GSOBK",
-   "stock": 22,
+   "stock": 20,
    "sub": "16인치",
    "subn": 16
   },
@@ -2396,7 +2344,7 @@
    ],
    "model": "43U712A",
    "dday": 3,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -2454,7 +2402,7 @@
    ],
    "model": "49U950AW",
    "dday": 3,
-   "stock": 10,
+   "stock": 9,
    "sub": "",
    "subn": 0
   },
@@ -2484,7 +2432,7 @@
    ],
    "model": "40U990AW",
    "dday": 3,
-   "stock": 6,
+   "stock": 5,
    "sub": "",
    "subn": 0
   },
@@ -2540,7 +2488,7 @@
     "타임딜"
    ],
    "model": "T25PX9",
-   "stock": 62,
+   "stock": 61,
    "sub": "25kg",
    "subn": 25
   },
@@ -2987,7 +2935,7 @@
     "타임딜"
    ],
    "model": "DUE4BGL1E",
-   "stock": 42,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -3001,7 +2949,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL1E",
-   "stock": 51,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -3057,7 +3005,7 @@
     "타임딜"
    ],
    "model": "DUE6BGL3E",
-   "stock": 70,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3072,7 +3020,7 @@
     "타임딜"
    ],
    "model": "DUE6PFL3E",
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -3244,7 +3192,7 @@
     "타임딜"
    ],
    "model": "SQ06EA1WCS",
-   "stock": 94,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3272,7 +3220,7 @@
     "타임딜"
    ],
    "model": "SQ10GJ1WAS",
-   "stock": 49,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -3389,7 +3337,7 @@
     "타임딜"
    ],
    "model": "FQ17GC1ED2",
-   "stock": 36,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -3561,20 +3509,6 @@
    "subn": 0
   },
   {
-   "name": "LG 디오스 인덕션 1등급 블랙 세라믹",
-   "url": "https://www.lge.co.kr/electric-ranges/bei3qebloe",
-   "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10372834/md10372834-350x350.jpg",
-   "price": 766400,
-   "cat": "전기레인지",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "BEI3QEBLOE",
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 디오스 오브제컬렉션 인덕션 1등급 오브제 화이트",
    "url": "https://www.lge.co.kr/electric-ranges/bei3anbloe",
    "img": "https://www.lge.co.kr/kr/images/electric-ranges/md10525832/md10525832-350x350.jpg",
@@ -3671,7 +3605,7 @@
     "타임딜"
    ],
    "model": "BEF3ASMLOE",
-   "stock": 45,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -3927,7 +3861,7 @@
     "타임딜"
    ],
    "model": "DQ205PEGA",
-   "stock": 9,
+   "stock": 8,
    "sub": "",
    "subn": 0
   },
@@ -4011,7 +3945,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 42,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -4065,7 +3999,7 @@
    ],
    "model": "A727TA",
    "dday": 3,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -4080,7 +4014,7 @@
    ],
    "model": "A737WA",
    "dday": 3,
-   "stock": 24,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -4123,7 +4057,7 @@
     "타임딜"
    ],
    "model": "AX958BWE",
-   "stock": 9,
+   "stock": 6,
    "sub": "",
    "subn": 0
   },
