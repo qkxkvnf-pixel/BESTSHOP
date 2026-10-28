@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-29 07:25",
+ "updated": "2026-10-29 08:22",
  "status": {
   "errors": [],
-  "timedeal": 88,
+  "timedeal": 87,
   "debug": {
    "count": "수집 208",
-   "pages": "p1:목록100/신규100 p2:목록100/신규96 p3:목록100/신규12 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규11 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-29T07:25:38.6457402\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
-   "fail_sample": "{\"modelId\": \"MD10367009\", \"sku\": \"Z334SGS172S.AKOR\", \"salesModelCode\": \"Z334SGS172S\", \"salesSuffixCode\": \"AKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 디오스 오브제컬렉션 김치톡톡 Fit & Max\", \"modelName\": \"Z334SGS172S\", \"defaultCategoryId\": \"CT50000072\", \"defaultCategoryName\": \"김치냉장고\", \"superCategoryId\": \"CT50000064\", \"categoryId\": \"CT50000072\", \"subCategoryId\": \"CT50000073\", \"superCategoryName\": \"주방가전\", \"categoryName\": \"김치냉장고\", \"subCategoryName\": \"스탠드형\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-350x350.jpg\", \"smallImageAddr\": \"/kr/images/kimchi-refrigerators/md10367009/md10367009-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": \"OG0000007422\", "
+   "total_api": "{\"timestamp\":\"2026-10-29T08:22:38.4866773\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 208
  },
@@ -209,7 +209,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 5,
-   "stock": 87,
+   "stock": 88,
    "sub": "75인치",
    "subn": 75
   },
@@ -441,7 +441,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 5,
-   "stock": 29,
+   "stock": 28,
    "sub": "85인치",
    "subn": 85
   },
@@ -529,7 +529,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 2,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -659,7 +659,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 130,
+   "stock": 129,
    "sub": "",
    "subn": 0
   },
@@ -1920,22 +1920,6 @@
    "subn": 16
   },
   {
-   "name": "LG 그램 AI 2026, Copilot+ PC 39.6cm AMD 라이젠™ AI 7",
-   "url": "https://www.lge.co.kr/notebook/15z95u-gu7wk",
-   "img": "https://www.lge.co.kr/kr/images/notebook/md10744829/md10744829-350x350.jpg",
-   "price": 2706300,
-   "cat": "노트북",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "15Z95U-GU7WK",
-   "dday": 2,
-   "stock": 4,
-   "sub": "15인치",
-   "subn": 15
-  },
-  {
    "name": "LG 그램 Pro 360 AI 2026",
    "url": "https://www.lge.co.kr/notebook/16t95tp-ka5wk",
    "img": "https://www.lge.co.kr/kr/images/notebook/md10739829/md10739829-350x350.jpg",
@@ -1947,6 +1931,19 @@
    "model": "16T95TP-K.AA5WK",
    "sub": "16인치",
    "subn": 16
+  },
+  {
+   "name": "LG 그램 AI 2026, Copilot+ PC",
+   "url": "https://www.lge.co.kr/notebook/15z95u-gu7wk",
+   "img": "https://www.lge.co.kr/kr/images/notebook/md10744829/md10744829-350x350.jpg",
+   "price": 3090000,
+   "cat": "노트북",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "15Z95U-G.AU7WK",
+   "sub": "15인치",
+   "subn": 15
   },
   {
    "name": "16Z90TP-KD7WK",
@@ -2122,7 +2119,7 @@
    ],
    "model": "25G520B",
    "dday": 2,
-   "stock": 96,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -2322,7 +2319,7 @@
    ],
    "model": "WL22WDU",
    "dday": 1,
-   "stock": 196,
+   "stock": 195,
    "sub": "",
    "subn": 0
   },
@@ -2873,7 +2870,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 2,
-   "stock": 69,
+   "stock": 68,
    "sub": "",
    "subn": 0
   },
@@ -3489,7 +3486,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 119,
+   "stock": 117,
    "sub": "",
    "subn": 0
   },
@@ -3647,7 +3644,7 @@
    ],
    "model": "A737WA",
    "dday": 2,
-   "stock": 14,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
