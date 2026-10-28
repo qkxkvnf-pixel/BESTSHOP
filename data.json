@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 22:44",
+ "updated": "2026-10-28 23:41",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -19,7 +19,7 @@
     "닷컴ONLY"
    ],
    "model": "55NU850BENA",
-   "stock": 8,
+   "stock": 7,
    "sub": "55인치",
    "subn": 55
   },
@@ -34,7 +34,7 @@
     "닷컴ONLY"
    ],
    "model": "65NU850BENA",
-   "stock": 12,
+   "stock": 9,
    "sub": "65인치",
    "subn": 65
   },
@@ -63,7 +63,7 @@
     "닷컴ONLY"
    ],
    "model": "75NU850BENA",
-   "stock": 13,
+   "stock": 10,
    "sub": "75인치",
    "subn": 75
   },
@@ -135,7 +135,7 @@
     "닷컴ONLY"
    ],
    "model": "85NU850BENA",
-   "stock": 11,
+   "stock": 7,
    "sub": "85인치",
    "subn": 85
   },
@@ -163,7 +163,7 @@
     "타임딜"
    ],
    "model": "75QNED80BEWAS30A",
-   "stock": 21,
+   "stock": 19,
    "sub": "75인치",
    "subn": 75
   },
@@ -265,7 +265,7 @@
     "닷컴ONLY"
    ],
    "model": "85QNED8MBEA",
-   "stock": 13,
+   "stock": 8,
    "sub": "85인치",
    "subn": 85
   },
@@ -426,7 +426,7 @@
     "닷컴ONLY"
    ],
    "model": "AS186HWWL",
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -469,7 +469,7 @@
     "닷컴ONLY"
    ],
    "model": "AS305DWWLM",
-   "stock": 49,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -514,7 +514,7 @@
    ],
    "model": "MLJ28ERN",
    "dday": 2,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -529,7 +529,7 @@
     "닷컴ONLY"
    ],
    "model": "MLJ39EW",
-   "stock": 25,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -628,7 +628,7 @@
     "타임딜"
    ],
    "model": "MLJ32PWSO",
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -656,7 +656,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "stock": 81,
+   "stock": 80,
    "sub": "300L대",
    "subn": 300
   },
@@ -685,7 +685,7 @@
     "닷컴ONLY"
    ],
    "model": "16U55U-GSOBK",
-   "stock": 15,
+   "stock": 13,
    "sub": "16인치",
    "subn": 16
   },
@@ -884,7 +884,7 @@
    ],
    "model": "WL22WDU",
    "dday": 2,
-   "stock": 202,
+   "stock": 197,
    "sub": "",
    "subn": 0
   },
@@ -899,7 +899,7 @@
     "닷컴ONLY"
    ],
    "model": "T25PX9",
-   "stock": 51,
+   "stock": 50,
    "sub": "25kg",
    "subn": 25
   },
@@ -943,7 +943,7 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "stock": 9,
+   "stock": 7,
    "sub": "",
    "subn": 0
   },
@@ -1017,7 +1017,7 @@
     "닷컴ONLY"
    ],
    "model": "DUE1BGL1E",
-   "stock": 81,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -1031,7 +1031,7 @@
     "타임딜"
    ],
    "model": "DUE1BGLE",
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -1060,7 +1060,7 @@
     "닷컴ONLY"
    ],
    "model": "DUE4BGL1E",
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -1074,7 +1074,7 @@
     "타임딜"
    ],
    "model": "DUE5BGL1E",
-   "stock": 49,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -1145,7 +1145,7 @@
     "닷컴ONLY"
    ],
    "model": "DUE6PFL3E",
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -1203,7 +1203,7 @@
    ],
    "model": "MH20BR",
    "dday": 3,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -1277,7 +1277,7 @@
     "타임딜"
    ],
    "model": "SQ06FA1WDS",
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
@@ -1406,7 +1406,7 @@
     "타임딜"
    ],
    "model": "FQ17GW1HD2",
-   "stock": 52,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -1451,7 +1451,7 @@
     "닷컴ONLY"
    ],
    "model": "FQ17GU1ED2",
-   "stock": 3,
+   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -1480,7 +1480,7 @@
     "타임딜"
    ],
    "model": "BEI3HRBLE",
-   "stock": 29,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -1495,7 +1495,7 @@
     "닷컴ONLY"
    ],
    "model": "BEI3HSBLE",
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -1524,7 +1524,7 @@
     "닷컴ONLY"
    ],
    "model": "BEI3HKHLE",
-   "stock": 48,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -1567,7 +1567,7 @@
     "타임딜"
    ],
    "model": "BEI3QKHLOE",
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -1689,7 +1689,7 @@
    ],
    "model": "WU523AWB",
    "dday": 2,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -1815,7 +1815,7 @@
     "타임딜"
    ],
    "model": "DQ134MWEC",
-   "stock": 46,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -1901,7 +1901,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 36,
+   "stock": 34,
    "sub": "",
    "subn": 0
   },
@@ -1960,7 +1960,7 @@
     "타임딜"
    ],
    "model": "AI937WA",
-   "stock": 115,
+   "stock": 114,
    "sub": "",
    "subn": 0
   },
