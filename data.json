@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-29 08:22",
+ "updated": "2026-10-29 09:22",
  "status": {
   "errors": [],
-  "timedeal": 87,
+  "timedeal": 86,
   "debug": {
    "count": "수집 208",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규11 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-29T08:22:38.4866773\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-29T09:22:13.3065734\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 208
@@ -113,6 +113,22 @@
    "subn": 65
   },
   {
+   "name": "LG QNED AI (스탠드형) 163cm",
+   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
+   "price": 1125300,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "65QNED65BBA",
+   "dday": 5,
+   "stock": 67,
+   "sub": "65인치",
+   "subn": 65
+  },
+  {
    "name": "LG 올레드 evo AI (스탠드형) C5 105cm",
    "url": "https://www.lge.co.kr/tvs/oled42c5ena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10570843/md10570843-350x350.jpg",
@@ -141,19 +157,6 @@
    "stock": 1,
    "sub": "55인치",
    "subn": 55
-  },
-  {
-   "name": "LG QNED AI (스탠드형)",
-   "url": "https://www.lge.co.kr/tvs/65qned65bba-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784845/md10784845-350x350.jpg",
-   "price": 1280000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "65QNED65BBS.AKRG",
-   "sub": "65인치",
-   "subn": 65
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형)",
@@ -232,7 +235,7 @@
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/65qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903838/md10903838-350x350.jpg",
-   "price": 1790000,
+   "price": 1740000,
    "cat": "TV",
    "tags": [
     "닷컴ONLY"
@@ -355,7 +358,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 5,
-   "stock": 58,
+   "stock": 57,
    "sub": "86인치",
    "subn": 86
   },
@@ -529,7 +532,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 2,
-   "stock": 98,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -613,7 +616,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 98,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -659,7 +662,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 129,
+   "stock": 128,
    "sub": "",
    "subn": 0
   },
@@ -773,18 +776,15 @@
    "subn": 0
   },
   {
-   "name": "LG 디오스 오브제컬렉션 광파오븐 28L",
+   "name": "LG 디오스 오브제컬렉션 광파오븐",
    "url": "https://www.lge.co.kr/microwaves-and-ovens/mlj28ern",
    "img": "https://www.lge.co.kr/kr/images/microwaves-and-ovens/md10615852/md10615852-350x350.jpg",
-   "price": 300000,
+   "price": 290000,
    "cat": "광파오븐/전자레인지",
    "tags": [
-    "닷컴ONLY",
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "MLJ28ERN",
-   "dday": 1,
-   "stock": 54,
+   "model": "MLJ28ERN.DKOR",
    "sub": "",
    "subn": 0
   },
@@ -2274,7 +2274,7 @@
    ],
    "model": "39GX950B",
    "dday": 2,
-   "stock": 86,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -2319,7 +2319,7 @@
    ],
    "model": "WL22WDU",
    "dday": 1,
-   "stock": 195,
+   "stock": 194,
    "sub": "",
    "subn": 0
   },
@@ -3457,7 +3457,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 2,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
@@ -3486,7 +3486,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 117,
+   "stock": 118,
    "sub": "",
    "subn": 0
   },
@@ -3630,21 +3630,6 @@
    "model": "A727TA",
    "dday": 2,
    "stock": 94,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 코드제로 오브제컬렉션 A7 Core 흡입+물걸레",
-   "url": "https://www.lge.co.kr/vacuum-cleaners/a737wa",
-   "img": "https://www.lge.co.kr/kr/images/vacuum-cleaners/md10572836/md10572836-350x350.jpg",
-   "price": 651000,
-   "cat": "청소기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "A737WA",
-   "dday": 2,
-   "stock": 13,
    "sub": "",
    "subn": 0
   },
