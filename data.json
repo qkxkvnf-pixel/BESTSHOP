@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-29 19:32",
+ "updated": "2026-10-29 20:27",
  "status": {
   "errors": [],
-  "timedeal": 84,
+  "timedeal": 87,
   "debug": {
    "count": "수집 207",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규10 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-29T19:32:07.5311060\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-29T20:27:32.0143406\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 207
@@ -39,7 +39,7 @@
    ],
    "model": "43NANO80ANA",
    "dday": 5,
-   "stock": 52,
+   "stock": 51,
    "sub": "43인치",
    "subn": 43
   },
@@ -95,7 +95,7 @@
    ],
    "model": "55QNED65BEA",
    "dday": 5,
-   "stock": 88,
+   "stock": 86,
    "sub": "55인치",
    "subn": 55
   },
@@ -111,7 +111,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 5,
-   "stock": 60,
+   "stock": 57,
    "sub": "65인치",
    "subn": 65
   },
@@ -170,7 +170,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 4,
-   "stock": 81,
+   "stock": 78,
    "sub": "65인치",
    "subn": 65
   },
@@ -186,7 +186,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 4,
-   "stock": 86,
+   "stock": 84,
    "sub": "65인치",
    "subn": 65
   },
@@ -201,7 +201,7 @@
    ],
    "model": "OLED48C5ENA",
    "dday": 5,
-   "stock": 33,
+   "stock": 32,
    "sub": "48인치",
    "subn": 48
   },
@@ -244,7 +244,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 5,
-   "stock": 79,
+   "stock": 77,
    "sub": "75인치",
    "subn": 75
   },
@@ -275,7 +275,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 5,
-   "stock": 65,
+   "stock": 63,
    "sub": "75인치",
    "subn": 75
   },
@@ -305,7 +305,7 @@
    ],
    "model": "75QNED8MBEWAS30A",
    "dday": 5,
-   "stock": 20,
+   "stock": 17,
    "sub": "75인치",
    "subn": 75
   },
@@ -364,7 +364,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 5,
-   "stock": 54,
+   "stock": 50,
    "sub": "86인치",
    "subn": 86
   },
@@ -450,7 +450,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 5,
-   "stock": 27,
+   "stock": 26,
    "sub": "85인치",
    "subn": 85
   },
@@ -536,9 +536,22 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 2,
-   "stock": 94,
+   "stock": 92,
    "sub": "",
    "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 건조기",
+   "url": "https://www.lge.co.kr/dryers/rg20vn",
+   "img": "https://www.lge.co.kr/kr/images/dryers/md10373836/md10373836-350x350.jpg",
+   "price": 1280000,
+   "cat": "건조기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "RG20VN.AKOR",
+   "sub": "20kg",
+   "subn": 20
   },
   {
    "name": "LG 트롬 오브제컬렉션 건조기",
@@ -550,19 +563,6 @@
     "닷컴ONLY"
    ],
    "model": "RG20KN.AKOR",
-   "sub": "20kg",
-   "subn": 20
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 건조기",
-   "url": "https://www.lge.co.kr/dryers/rg20vn",
-   "img": "https://www.lge.co.kr/kr/images/dryers/md10373836/md10373836-350x350.jpg",
-   "price": 1330000,
-   "cat": "건조기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "RG20VN.AKOR",
    "sub": "20kg",
    "subn": 20
   },
@@ -604,7 +604,7 @@
    ],
    "model": "AS156HWWL",
    "dday": 2,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -620,7 +620,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 87,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -666,7 +666,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 115,
+   "stock": 113,
    "sub": "",
    "subn": 0
   },
@@ -710,7 +710,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 2,
-   "stock": 57,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -1131,6 +1131,21 @@
    "subn": 0
   },
   {
+   "name": "LG 일반냉장고 오브제컬렉션 215L 3등급",
+   "url": "https://www.lge.co.kr/refrigerators/d215mee13",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10580827/md10580827-350x350.jpg",
+   "price": 405000,
+   "cat": "냉장고",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "D215MEE13",
+   "dday": 4,
+   "stock": 97,
+   "sub": "300L 미만",
+   "subn": 215
+  },
+  {
    "name": "LG 일반냉장고 오브제컬렉션",
    "url": "https://www.lge.co.kr/refrigerators/d215mhh13",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10580828/md10580828-350x350.jpg",
@@ -1155,6 +1170,21 @@
    "model": "B312W31.AKOR",
    "sub": "300L대",
    "subn": 317
+  },
+  {
+   "name": "LG 모던엣지 냉장고 300L 1등급",
+   "url": "https://www.lge.co.kr/refrigerators/m301s31",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md08747754/md08747754-350x350.jpg",
+   "price": 594300,
+   "cat": "냉장고",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "M301S31",
+   "dday": 4,
+   "stock": 90,
+   "sub": "300L대",
+   "subn": 300
   },
   {
    "name": "LG 디오스 오브제컬렉션 일반냉장고",
@@ -1274,6 +1304,22 @@
    "subn": 333
   },
   {
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형) 832L 2등급",
+   "url": "https://www.lge.co.kr/refrigerators/s836mee022",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10559863/md10559863-350x350.jpg",
+   "price": 1171800,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY",
+    "타임딜"
+   ],
+   "model": "S836MEE022",
+   "dday": 4,
+   "stock": 157,
+   "sub": "800L대",
+   "subn": 832
+  },
+  {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
    "url": "https://www.lge.co.kr/refrigerators/q405mee131",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10742826/md10742826-350x350.jpg",
@@ -1309,19 +1355,6 @@
     "닷컴ONLY"
    ],
    "model": "S836MDS002.CKOR",
-   "sub": "800L대",
-   "subn": 832
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형)",
-   "url": "https://www.lge.co.kr/refrigerators/s836mee022",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10559863/md10559863-350x350.jpg",
-   "price": 1400000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "S836MEE022.CKOR",
    "sub": "800L대",
    "subn": 832
   },
@@ -2310,7 +2343,7 @@
    ],
    "model": "WL22WDU",
    "dday": 1,
-   "stock": 184,
+   "stock": 183,
    "sub": "",
    "subn": 0
   },
@@ -2771,7 +2804,7 @@
    ],
    "model": "MH20BR",
    "dday": 2,
-   "stock": 44,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -2846,7 +2879,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 2,
-   "stock": 66,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -2891,7 +2924,7 @@
    ],
    "model": "SQ10GJ1WAS",
    "dday": 2,
-   "stock": 39,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -2953,7 +2986,7 @@
    ],
    "model": "FQ17GU1EN1",
    "dday": 2,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -2969,7 +3002,7 @@
    ],
    "model": "FQ17GU1EP1",
    "dday": 2,
-   "stock": 35,
+   "stock": 34,
    "sub": "",
    "subn": 0
   },
@@ -3016,7 +3049,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 2,
-   "stock": 31,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -3032,7 +3065,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 2,
-   "stock": 62,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -3293,7 +3326,7 @@
    ],
    "model": "WU523AWB",
    "dday": 1,
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
@@ -3433,7 +3466,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 2,
-   "stock": 89,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
