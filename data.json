@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-29 16:46",
+ "updated": "2026-10-29 17:37",
  "status": {
   "errors": [],
   "timedeal": 84,
   "debug": {
-   "count": "수집 208",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규11 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "count": "수집 207",
+   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규10 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-29T16:46:40.9369256\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-29T17:37:31.0215841\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
-  "only": 208
+  "only": 207
  },
  "items": [
   {
@@ -170,7 +170,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 4,
-   "stock": 83,
+   "stock": 84,
    "sub": "65인치",
    "subn": 65
   },
@@ -244,7 +244,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 5,
-   "stock": 80,
+   "stock": 79,
    "sub": "75인치",
    "subn": 75
   },
@@ -635,7 +635,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 2,
-   "stock": 54,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -650,7 +650,7 @@
    ],
    "model": "AS155GWDL",
    "dday": 2,
-   "stock": 29,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -906,19 +906,6 @@
     "닷컴ONLY"
    ],
    "model": "FH11EAX.CKOR1",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/wl22egzu",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md10283856/md10283856-350x350.jpg",
-   "price": 3220000,
-   "cat": "기타",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "WL22EGZU.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2278,7 +2265,7 @@
    ],
    "model": "39GX950B",
    "dday": 2,
-   "stock": 80,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -2323,7 +2310,7 @@
    ],
    "model": "WL22WDU",
    "dday": 1,
-   "stock": 186,
+   "stock": 184,
    "sub": "",
    "subn": 0
   },
@@ -2859,7 +2846,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 2,
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -2966,7 +2953,7 @@
    ],
    "model": "FQ17GU1EN1",
    "dday": 2,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -3045,7 +3032,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 2,
-   "stock": 63,
+   "stock": 62,
    "sub": "",
    "subn": 0
   },
@@ -3383,7 +3370,7 @@
    ],
    "model": "WD721RE",
    "dday": 1,
-   "stock": 94,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -3446,7 +3433,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 2,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
