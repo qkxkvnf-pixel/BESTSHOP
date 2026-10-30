@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 05:26",
+ "updated": "2026-10-31 06:25",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -306,7 +306,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 3,
-   "stock": 26,
+   "stock": 25,
    "sub": "86인치",
    "subn": 86
   },
