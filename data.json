@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30 18:36",
+ "updated": "2026-10-30 19:33",
  "status": {
   "errors": [],
   "timedeal": 82,
@@ -7,7 +7,7 @@
    "count": "수집 207",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규9 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-30T18:36:24.5467372\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-30T19:33:02.7383906\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 207
@@ -170,7 +170,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 3,
-   "stock": 58,
+   "stock": 57,
    "sub": "65인치",
    "subn": 65
   },
@@ -201,7 +201,7 @@
    ],
    "model": "OLED48C5ENA",
    "dday": 4,
-   "stock": 32,
+   "stock": 31,
    "sub": "48인치",
    "subn": 48
   },
@@ -244,7 +244,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 4,
-   "stock": 63,
+   "stock": 62,
    "sub": "75인치",
    "subn": 75
   },
@@ -259,7 +259,7 @@
    ],
    "model": "75QNED65BBWAS30A",
    "dday": 4,
-   "stock": 29,
+   "stock": 28,
    "sub": "75인치",
    "subn": 75
   },
@@ -305,7 +305,7 @@
    ],
    "model": "75QNED8MBEWAS30A",
    "dday": 4,
-   "stock": 3,
+   "stock": 2,
    "sub": "75인치",
    "subn": 75
   },
@@ -377,7 +377,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 4,
-   "stock": 31,
+   "stock": 29,
    "sub": "86인치",
    "subn": 86
   },
@@ -605,7 +605,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 1,
-   "stock": 70,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -620,7 +620,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 1,
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -651,7 +651,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -666,7 +666,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 1,
-   "stock": 50,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -695,7 +695,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 1,
-   "stock": 48,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -1119,7 +1119,7 @@
    "name": "LG 일반냉장고 오브제컬렉션 215L 3등급",
    "url": "https://www.lge.co.kr/refrigerators/d215mee13",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10580827/md10580827-350x350.jpg",
-   "price": 430000,
+   "price": 405000,
    "cat": "냉장고",
    "tags": [
     "타임딜"
@@ -1160,7 +1160,7 @@
    "name": "LG 모던엣지 냉장고 300L 1등급",
    "url": "https://www.lge.co.kr/refrigerators/m301s31",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md08747754/md08747754-350x350.jpg",
-   "price": 613800,
+   "price": 594300,
    "cat": "냉장고",
    "tags": [
     "타임딜"
@@ -1237,6 +1237,19 @@
    "subn": 412
   },
   {
+   "name": "LG 일반냉장고 오브제컬렉션",
+   "url": "https://www.lge.co.kr/refrigerators/d604mps52",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10366862/md10366862-350x350.jpg",
+   "price": 990000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "D604MPS52.AKOR",
+   "sub": "600L대",
+   "subn": 612
+  },
+  {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
    "url": "https://www.lge.co.kr/refrigerators/q405mqq153",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10715830/md10715830-350x350.jpg",
@@ -1276,17 +1289,20 @@
    "subn": 333
   },
   {
-   "name": "LG 일반냉장고 오브제컬렉션",
-   "url": "https://www.lge.co.kr/refrigerators/d604mps52",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10366862/md10366862-350x350.jpg",
-   "price": 1174000,
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형) 832L 2등급",
+   "url": "https://www.lge.co.kr/refrigerators/s836mee022",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10559863/md10559863-350x350.jpg",
+   "price": 1171800,
    "cat": "냉장고",
    "tags": [
-    "닷컴ONLY"
+    "닷컴ONLY",
+    "타임딜"
    ],
-   "model": "D604MPS52.AKOR",
-   "sub": "600L대",
-   "subn": 612
+   "model": "S836MEE022",
+   "dday": 3,
+   "stock": 117,
+   "sub": "800L대",
+   "subn": 832
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -1300,22 +1316,6 @@
    "model": "Q405MEE131.AKOR",
    "sub": "400L대",
    "subn": 412
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형) 832L 2등급",
-   "url": "https://www.lge.co.kr/refrigerators/s836mee022",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10559863/md10559863-350x350.jpg",
-   "price": 1209000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "S836MEE022",
-   "dday": 3,
-   "stock": 118,
-   "sub": "800L대",
-   "subn": 832
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
@@ -1435,6 +1435,19 @@
    "subn": 827
   },
   {
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고",
+   "url": "https://www.lge.co.kr/refrigerators/t876mqq011",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681856/md10681856-350x350.jpg",
+   "price": 2100000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "T876MQQ011.CKOR",
+   "sub": "800L대",
+   "subn": 870
+  },
+  {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (양문형, 매직스페이스)",
    "url": "https://www.lge.co.kr/refrigerators/s836gbb122",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10559848/md10559848-350x350.jpg",
@@ -1446,6 +1459,19 @@
    "model": "S836GBB122.CKOR",
    "sub": "800L대",
    "subn": 832
+  },
+  {
+   "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고",
+   "url": "https://www.lge.co.kr/refrigerators/t876mee041",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681847/md10681847-350x350.jpg",
+   "price": 2200000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "T876MEE041.CKOR",
+   "sub": "800L대",
+   "subn": 860
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (양문형, 매직스페이스)",
@@ -1461,17 +1487,43 @@
    "subn": 827
   },
   {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고",
-   "url": "https://www.lge.co.kr/refrigerators/t876mqq011",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681856/md10681856-350x350.jpg",
-   "price": 2300000,
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (노크온 매직스페이스)",
+   "url": "https://www.lge.co.kr/refrigerators/t876mee412",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681849/md10681849-350x350.jpg",
+   "price": 2290000,
    "cat": "냉장고",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "T876MQQ011.CKOR",
+   "model": "T876MEE412.CKOR",
+   "sub": "800L대",
+   "subn": 865
+  },
+  {
+   "name": "LG 디오스 AI 오브제컬렉션 냉장고",
+   "url": "https://www.lge.co.kr/refrigerators/h876gbb011",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681841/md10681841-350x350.jpg",
+   "price": 2290000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "H876GBB011.CKOR",
    "sub": "800L대",
    "subn": 870
+  },
+  {
+   "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (매직스페이스)",
+   "url": "https://www.lge.co.kr/refrigerators/t876mee141",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681846/md10681846-350x350.jpg",
+   "price": 2350000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "T876MEE141.CKOR",
+   "sub": "800L대",
+   "subn": 860
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스)",
@@ -1485,58 +1537,6 @@
    "model": "T876MEE1H1.CKOR",
    "sub": "800L대",
    "subn": 870
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고",
-   "url": "https://www.lge.co.kr/refrigerators/t876mee041",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681847/md10681847-350x350.jpg",
-   "price": 2490000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "T876MEE041.CKOR",
-   "sub": "800L대",
-   "subn": 860
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고",
-   "url": "https://www.lge.co.kr/refrigerators/h876gbb011",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681841/md10681841-350x350.jpg",
-   "price": 2790000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "H876GBB011.CKOR",
-   "sub": "800L대",
-   "subn": 870
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 STEM 베이직 냉장고 (매직스페이스)",
-   "url": "https://www.lge.co.kr/refrigerators/t876mee141",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681846/md10681846-350x350.jpg",
-   "price": 2800000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "T876MEE141.CKOR",
-   "sub": "800L대",
-   "subn": 860
-  },
-  {
-   "name": "LG 디오스 AI 오브제컬렉션 냉장고 (노크온 매직스페이스)",
-   "url": "https://www.lge.co.kr/refrigerators/t876mee412",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10681849/md10681849-350x350.jpg",
-   "price": 3000000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "T876MEE412.CKOR",
-   "sub": "800L대",
-   "subn": 865
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 냉장고 Fit & Max",
@@ -2122,7 +2122,7 @@
    ],
    "model": "25G520B",
    "dday": 1,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -2232,7 +2232,7 @@
    ],
    "model": "32GX850A",
    "dday": 1,
-   "stock": 27,
+   "stock": 26,
    "sub": "",
    "subn": 0
   },
@@ -2262,7 +2262,7 @@
    ],
    "model": "39GX950B",
    "dday": 1,
-   "stock": 75,
+   "stock": 74,
    "sub": "",
    "subn": 0
   },
@@ -2277,7 +2277,7 @@
    ],
    "model": "52G930B",
    "dday": 3,
-   "stock": 9,
+   "stock": 8,
    "sub": "",
    "subn": 0
   },
@@ -2285,13 +2285,13 @@
    "name": "LG 트롬 오브제컬렉션 워시타워 3등급",
    "url": "https://www.lge.co.kr/all-in-one-laundry/wl22wdu",
    "img": "https://www.lge.co.kr/kr/images/wash-tower/md10283849/md10283849-350x350.jpg",
-   "price": 2724900,
+   "price": 2678400,
    "cat": "세탁 건조기",
    "tags": [
     "타임딜"
    ],
    "model": "WL22WDU",
-   "stock": 162,
+   "stock": 159,
    "sub": "",
    "subn": 0
   },
@@ -2364,7 +2364,7 @@
    "name": "LG 트롬 세탁기 24kg 1등급",
    "url": "https://www.lge.co.kr/washing-machines/f24wdlpr",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md09767828/md09767828-350x350.jpg",
-   "price": 1116000,
+   "price": 1088100,
    "cat": "세탁기",
    "tags": [
     "타임딜"
@@ -2826,7 +2826,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 1,
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -2841,7 +2841,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 1,
-   "stock": 68,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -2901,7 +2901,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 1,
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -2933,7 +2933,7 @@
    ],
    "model": "FQ17GU1EN1",
    "dday": 1,
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -3012,7 +3012,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
-   "stock": 51,
+   "stock": 50,
    "sub": "",
    "subn": 0
   },
@@ -3028,7 +3028,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 1,
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -3357,7 +3357,7 @@
     "닷컴ONLY"
    ],
    "model": "WD721RH",
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
