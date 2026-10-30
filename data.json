@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 03:27",
+ "updated": "2026-10-31 04:34",
  "status": {
   "errors": [],
   "timedeal": 70,
@@ -7,7 +7,7 @@
    "count": "수집 203",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규5 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=764,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-10-31T03:27:09.6772495\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
+   "total_api": "{\"timestamp\":\"2026-10-31T04:34:29.0703714\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":764}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 203
