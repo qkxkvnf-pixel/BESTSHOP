@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 01:35",
+ "updated": "2026-10-31 02:30",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -125,7 +125,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 2,
-   "stock": 47,
+   "stock": 48,
    "sub": "65인치",
    "subn": 65
   },
@@ -1032,7 +1032,7 @@
     "타임딜"
    ],
    "model": "DQ235MWGA",
-   "stock": 83,
+   "stock": 82,
    "sub": "",
    "subn": 0
   }
