@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 05:19",
+ "updated": "2026-11-01 06:23",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -34,7 +34,7 @@
    ],
    "model": "43NANO80ANA",
    "dday": 2,
-   "stock": 41,
+   "stock": 40,
    "sub": "43인치",
    "subn": 43
   },
@@ -617,7 +617,7 @@
    ],
    "model": "SQ10GJ1WAS",
    "dday": 7,
-   "stock": 40,
+   "stock": 39,
    "sub": "",
    "subn": 0
   },
