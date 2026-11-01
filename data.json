@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01 15:32",
+ "updated": "2026-11-01 16:45",
  "status": {
   "errors": [
-   "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
+   "닷컴ONLY 검색: APIRequestContext.get: Timeout 60000ms exceeded.\nCall log:\n  - → GET https://apiv2.lge.co.kr/searchsvc/ajax/v2/search/product?keyword=%EB%8B%B7%EC%BB%B4ONLY&attrs=&sort=BEST&page=1&size=100\n    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120 Safari/537.36\n    - accept: application/json\n    - accept-encoding: gzip,deflate,br\n    - Origin: https://www.lge.co.kr\n    - Referer: https://www.lge.co.kr/\n    - cookie: tbid=tb1|1793519037296|1825055037296|fc51741e-a22b-4802-ad90-a095fe45fde4; cto_bundle=2Sr3B19oaE1USlVlYiUyRndFZDQzeG5hN25EMm5nTHV1UjVDWTlCMTAlMkI4cktxJTJGZktMYUJhbXMweXRUdHpQOXVqbGZVZEdVNVJyJTJGamRHaFRuaGxIRVNlU2hqSlFQaDE2b0xBQkVoWUtiRENIR0VCVVVhOUtldG12JTJGQ3U0N0VWalRMOWxSQ2lzZm1ES0hiZlgxek1CJTJCJTJGeldOODRaUSUzRCUzRA; _dd_s=aid=469a0679-d261-457b-b4d5-5cabf51a90a6&rum=0&expire=1793519937369; intergratedSearchValue=%uB2F7%uCEF4ONLY%26%26%2620270130074357; LGEKR_SESSION=c2a1a990-9848-43fe-a576-b46708e1517d; _kmpid=km|lge.co.kr|1793519038805|9b4191d3-e0ab-4d0b-9a33-f40b4d486fc6; _fwb=93GY78MEwGhxkjGvTErZ2M.1793519038817; _fbp=fb.2.1793519038726.266448368993998357; _gcl_au=1.1.1181306178.1793519039; _ga=GA1.1.505913715.1793519040; _ga_ZBLV8D536G=GS2.1.s1793519039$o1$g1$t1793519039$j60$l0$h0\n"
   ],
   "timedeal": 62,
   "only": 0
@@ -34,7 +34,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 2,
-   "stock": 59,
+   "stock": 58,
    "sub": "50인치",
    "subn": 50
   },
@@ -65,7 +65,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 2,
-   "stock": 24,
+   "stock": 22,
    "sub": "65인치",
    "subn": 65
   },
@@ -96,7 +96,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 1,
-   "stock": 13,
+   "stock": 6,
    "sub": "65인치",
    "subn": 65
   },
@@ -112,7 +112,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 1,
-   "stock": 47,
+   "stock": 45,
    "sub": "65인치",
    "subn": 65
   },
@@ -127,7 +127,7 @@
    ],
    "model": "OLED48C5ENA",
    "dday": 2,
-   "stock": 31,
+   "stock": 30,
    "sub": "48인치",
    "subn": 48
   },
@@ -157,7 +157,7 @@
    ],
    "model": "75QNED65BBA",
    "dday": 2,
-   "stock": 26,
+   "stock": 21,
    "sub": "75인치",
    "subn": 75
   },
@@ -203,7 +203,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 2,
-   "stock": 24,
+   "stock": 22,
    "sub": "75인치",
    "subn": 75
   },
@@ -249,7 +249,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 2,
-   "stock": 33,
+   "stock": 32,
    "sub": "86인치",
    "subn": 86
   },
@@ -404,7 +404,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 7,
-   "stock": 120,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
@@ -435,7 +435,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 7,
-   "stock": 58,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -481,7 +481,7 @@
    ],
    "model": "S836MEE022",
    "dday": 1,
-   "stock": 57,
+   "stock": 52,
    "sub": "800L대",
    "subn": 832
   },
@@ -497,7 +497,7 @@
    ],
    "model": "25G520B",
    "dday": 60,
-   "stock": 100,
+   "stock": 99,
    "sub": "",
    "subn": 0
   },
@@ -722,7 +722,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 7,
-   "stock": 60,
+   "stock": 59,
    "sub": "",
    "subn": 0
   },
@@ -864,7 +864,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 7,
-   "stock": 96,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -880,7 +880,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 7,
-   "stock": 116,
+   "stock": 115,
    "sub": "",
    "subn": 0
   },
@@ -895,7 +895,7 @@
    ],
    "model": "DC356SKAA",
    "dday": 7,
-   "stock": 30,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -941,7 +941,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 7,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   },
