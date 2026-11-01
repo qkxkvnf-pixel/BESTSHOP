@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 07:23",
+ "updated": "2026-11-02 08:23",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -80,7 +80,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 1,
-   "stock": 13,
+   "stock": 14,
    "sub": "65인치",
    "subn": 65
   },
@@ -98,6 +98,21 @@
    "stock": 26,
    "sub": "43인치",
    "subn": 43
+  },
+  {
+   "name": "LG QNED evo AI (스탠드형) 163cm",
+   "url": "https://www.lge.co.kr/tvs/65qned8mbea-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10903837/md10903837-350x350.jpg",
+   "price": 1292700,
+   "cat": "TV",
+   "tags": [
+    "타임딜",
+    "닷컴ONLY"
+   ],
+   "model": "65QNED8MBEA",
+   "stock": 40,
+   "sub": "65인치",
+   "subn": 65
   },
   {
    "name": "LG QNED evo AI (벽걸이형) 163cm",
@@ -142,22 +157,6 @@
    "dday": 1,
    "sub": "55인치",
    "subn": 55
-  },
-  {
-   "name": "LG QNED AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75qned65bba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10784844/md10784844-350x350.jpg",
-   "price": 1422900,
-   "cat": "TV",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "75QNED65BBA",
-   "dday": 1,
-   "stock": 3,
-   "sub": "75인치",
-   "subn": 75
   },
   {
    "name": "LG QNED AI (벽걸이형) + LG 사운드바",
@@ -216,7 +215,7 @@
    ],
    "model": "75QNED8MBEWAS30A",
    "dday": 1,
-   "stock": 21,
+   "stock": 20,
    "sub": "75인치",
    "subn": 75
   },
@@ -309,7 +308,7 @@
    ],
    "model": "98NU850BENB",
    "dday": 1,
-   "stock": 9,
+   "stock": 10,
    "sub": "98인치",
    "subn": 98
   },
@@ -461,7 +460,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "stock": 64,
+   "stock": 63,
    "sub": "300L대",
    "subn": 300
   },
@@ -476,7 +475,7 @@
     "닷컴ONLY"
    ],
    "model": "S836MEE022",
-   "stock": 25,
+   "stock": 72,
    "sub": "800L대",
    "subn": 832
   },
@@ -535,7 +534,7 @@
     "타임딜"
    ],
    "model": "52G930B",
-   "stock": 8,
+   "stock": 7,
    "sub": "",
    "subn": 0
   },
