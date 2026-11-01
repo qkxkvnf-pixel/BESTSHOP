@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 12:36",
+ "updated": "2026-11-01 13:38",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -34,7 +34,7 @@
    ],
    "model": "43NANO80ANA",
    "dday": 2,
-   "stock": 37,
+   "stock": 39,
    "sub": "43인치",
    "subn": 43
   },
@@ -80,7 +80,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 2,
-   "stock": 27,
+   "stock": 26,
    "sub": "65인치",
    "subn": 65
   },
@@ -111,7 +111,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 1,
-   "stock": 21,
+   "stock": 18,
    "sub": "65인치",
    "subn": 65
   },
@@ -127,7 +127,7 @@
    ],
    "model": "65QNED8MBEA",
    "dday": 1,
-   "stock": 51,
+   "stock": 50,
    "sub": "65인치",
    "subn": 65
   },
@@ -218,7 +218,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 2,
-   "stock": 29,
+   "stock": 28,
    "sub": "75인치",
    "subn": 75
   },
@@ -311,7 +311,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 2,
-   "stock": 12,
+   "stock": 11,
    "sub": "85인치",
    "subn": 85
   },
@@ -373,7 +373,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 7,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -496,7 +496,7 @@
    ],
    "model": "S836MEE022",
    "dday": 1,
-   "stock": 65,
+   "stock": 63,
    "sub": "800L대",
    "subn": 832
   },
@@ -587,7 +587,7 @@
    ],
    "model": "MH20BR",
    "dday": 7,
-   "stock": 30,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -722,7 +722,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 7,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -769,7 +769,7 @@
    ],
    "model": "FQ17GU1EN1",
    "dday": 7,
-   "stock": 55,
+   "stock": 54,
    "sub": "",
    "subn": 0
   },
@@ -879,7 +879,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 7,
-   "stock": 98,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -971,7 +971,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 7,
-   "stock": 99,
+   "stock": 98,
    "sub": "",
    "subn": 0
   }
