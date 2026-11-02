@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02 08:23",
+ "updated": "2026-11-02 09:26",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
   ],
-  "timedeal": 62,
+  "timedeal": 60,
   "only": 0
  },
  "items": [
@@ -49,7 +49,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 1,
-   "stock": 55,
+   "stock": 54,
    "sub": "50인치",
    "subn": 50
   },
@@ -80,7 +80,7 @@
    ],
    "model": "65QNED65BBA",
    "dday": 1,
-   "stock": 14,
+   "stock": 13,
    "sub": "65인치",
    "subn": 65
   },
@@ -110,7 +110,7 @@
     "닷컴ONLY"
    ],
    "model": "65QNED8MBEA",
-   "stock": 40,
+   "stock": 19,
    "sub": "65인치",
    "subn": 65
   },
@@ -200,7 +200,7 @@
    ],
    "model": "75QNED8MBEA",
    "dday": 1,
-   "stock": 9,
+   "stock": 49,
    "sub": "75인치",
    "subn": 75
   },
@@ -246,7 +246,7 @@
    ],
    "model": "86QNED70AEA",
    "dday": 1,
-   "stock": 20,
+   "stock": 19,
    "sub": "86인치",
    "subn": 86
   },
@@ -277,7 +277,7 @@
    ],
    "model": "75QNED92AGA",
    "dday": 1,
-   "stock": 12,
+   "stock": 11,
    "sub": "75인치",
    "subn": 75
   },
@@ -293,7 +293,7 @@
    ],
    "model": "85QNED92AGA",
    "dday": 1,
-   "stock": 9,
+   "stock": 8,
    "sub": "85인치",
    "subn": 85
   },
@@ -460,7 +460,7 @@
     "타임딜"
    ],
    "model": "M301S31",
-   "stock": 63,
+   "stock": 61,
    "sub": "300L대",
    "subn": 300
   },
@@ -480,22 +480,6 @@
    "subn": 832
   },
   {
-   "name": "LG 울트라기어 게이밍모니터 G5 FHD",
-   "url": "https://www.lge.co.kr/monitors/25g520b",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10858831/md10858831-350x350.jpg",
-   "price": 209000,
-   "cat": "모니터",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "25G520B",
-   "dday": 59,
-   "stock": 96,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 울트라HD 모니터 U7 4K",
    "url": "https://www.lge.co.kr/monitors/43u712a",
    "img": "https://www.lge.co.kr/kr/images/monitors/md10552829/md10552829-350x350.jpg",
@@ -505,22 +489,7 @@
     "타임딜"
    ],
    "model": "43U712A",
-   "stock": 44,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 울트라와이드 모니터 U9 DQHD",
-   "url": "https://www.lge.co.kr/monitors/49u950aw",
-   "img": "https://www.lge.co.kr/kr/images/monitors/md10630829/md10630829-350x350.jpg",
-   "price": 1790000,
-   "cat": "모니터",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "49U950AW",
-   "dday": 59,
-   "stock": 20,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -825,7 +794,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 6,
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -841,7 +810,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 6,
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -856,7 +825,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 6,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
