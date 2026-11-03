@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03 22:57",
+ "updated": "2026-11-03 23:44",
  "status": {
   "errors": [],
-  "timedeal": 98,
+  "timedeal": 97,
   "debug": {
    "count": "수집 201",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규4 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-03T22:57:33.9238281\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-11-03T23:43:55.0612085\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 201
@@ -96,7 +96,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 6,
-   "stock": 90,
+   "stock": 91,
    "sub": "65인치",
    "subn": 65
   },
@@ -155,7 +155,7 @@
     "타임딜"
    ],
    "model": "OLED42C5ENA",
-   "stock": 20,
+   "stock": 19,
    "sub": "43인치",
    "subn": 43
   },
@@ -332,21 +332,6 @@
    "subn": 75
   },
   {
-   "name": "LG Mini RGB evo AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65mrgb83bea-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10826840/md10826840-350x350.jpg",
-   "price": 1711200,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "65MRGB83BEA",
-   "dday": 6,
-   "stock": 29,
-   "sub": "65인치",
-   "subn": 65
-  },
-  {
    "name": "LG QNED evo AI (스탠드형)",
    "url": "https://www.lge.co.kr/tvs/65qned8mbea-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903837/md10903837-350x350.jpg",
@@ -370,7 +355,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEA",
-   "stock": 13,
+   "stock": 12,
    "sub": "75인치",
    "subn": 75
   },
@@ -384,7 +369,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS30A",
-   "stock": 13,
+   "stock": 15,
    "sub": "75인치",
    "subn": 75
   },
@@ -614,7 +599,7 @@
     "타임딜"
    ],
    "model": "98NU850BENB",
-   "stock": 9,
+   "stock": 8,
    "sub": "98인치",
    "subn": 98
   },
@@ -630,7 +615,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 6,
-   "stock": 15,
+   "stock": 14,
    "sub": "77인치",
    "subn": 77
   },
@@ -658,7 +643,7 @@
    ],
    "model": "86MRGB83BEA",
    "dday": 6,
-   "stock": 28,
+   "stock": 27,
    "sub": "86인치",
    "subn": 86
   },
@@ -803,7 +788,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 5,
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -818,7 +803,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 5,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -847,7 +832,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 5,
-   "stock": 39,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -2243,7 +2228,7 @@
    ],
    "model": "W1310WAN",
    "dday": 27,
-   "stock": 196,
+   "stock": 195,
    "sub": "",
    "subn": 0
   },
@@ -2320,7 +2305,7 @@
    ],
    "model": "W2421KKAM",
    "dday": 27,
-   "stock": 21,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -2334,7 +2319,7 @@
     "타임딜"
    ],
    "model": "FH25GSGX",
-   "stock": 7,
+   "stock": 5,
    "sub": "",
    "subn": 0
   },
@@ -2461,7 +2446,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 20,
-   "stock": 272,
+   "stock": 271,
    "sub": "24kg",
    "subn": 24
   },
@@ -2489,7 +2474,7 @@
    ],
    "model": "FX24ENER",
    "dday": 20,
-   "stock": 276,
+   "stock": 274,
    "sub": "24kg",
    "subn": 24
   },
@@ -2518,7 +2503,7 @@
    ],
    "model": "FX25WSQR",
    "dday": 20,
-   "stock": 139,
+   "stock": 137,
    "sub": "25kg",
    "subn": 25
   },
@@ -2607,7 +2592,7 @@
    ],
    "model": "SC5MSR42S",
    "dday": 5,
-   "stock": 85,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -2652,7 +2637,7 @@
    ],
    "model": "SC5MSR82A",
    "dday": 5,
-   "stock": 135,
+   "stock": 132,
    "sub": "",
    "subn": 0
   },
@@ -2720,7 +2705,7 @@
    ],
    "model": "SC5MBR82S",
    "dday": 5,
-   "stock": 77,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -2775,7 +2760,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 2,
-   "stock": 20,
+   "stock": 17,
    "sub": "",
    "subn": 0
   },
@@ -2991,7 +2976,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 5,
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -3066,7 +3051,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 5,
-   "stock": 31,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -3113,7 +3098,7 @@
    ],
    "model": "FQ17GU1EN1",
    "dday": 5,
-   "stock": 47,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -3192,7 +3177,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 5,
-   "stock": 34,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -3509,7 +3494,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 5,
-   "stock": 66,
+   "stock": 65,
    "sub": "",
    "subn": 0
   },
@@ -3551,7 +3536,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 5,
-   "stock": 85,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -3597,7 +3582,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 5,
-   "stock": 96,
+   "stock": 95,
    "sub": "",
    "subn": 0
   },
@@ -3612,7 +3597,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 5,
-   "stock": 94,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
