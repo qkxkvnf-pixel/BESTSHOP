@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-03 19:44",
+ "updated": "2026-11-03 20:40",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
   ],
-  "timedeal": 104,
+  "timedeal": 101,
   "only": 0
  },
  "items": [
@@ -32,7 +32,7 @@
     "타임딜"
    ],
    "model": "43NANO80ANA",
-   "stock": 11,
+   "stock": 12,
    "sub": "43인치",
    "subn": 43
   },
@@ -46,7 +46,7 @@
     "타임딜"
    ],
    "model": "50UA7500KNA",
-   "stock": 45,
+   "stock": 44,
    "sub": "50인치",
    "subn": 50
   },
@@ -62,7 +62,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 6,
-   "stock": 67,
+   "stock": 66,
    "sub": "55인치",
    "subn": 55
   },
@@ -122,7 +122,7 @@
     "닷컴ONLY"
    ],
    "model": "65QNED65BBA",
-   "stock": 9,
+   "stock": 7,
    "sub": "65인치",
    "subn": 65
   },
@@ -138,7 +138,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 6,
-   "stock": 88,
+   "stock": 86,
    "sub": "75인치",
    "subn": 75
   },
@@ -152,7 +152,7 @@
     "타임딜"
    ],
    "model": "OLED42C5ENA",
-   "stock": 21,
+   "stock": 20,
    "sub": "43인치",
    "subn": 43
   },
@@ -224,7 +224,7 @@
     "닷컴ONLY"
    ],
    "model": "75QNED65BBA",
-   "stock": 16,
+   "stock": 13,
    "sub": "75인치",
    "subn": 75
   },
@@ -239,7 +239,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 6,
-   "stock": 23,
+   "stock": 22,
    "sub": "55인치",
    "subn": 55
   },
@@ -269,7 +269,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 6,
-   "stock": 63,
+   "stock": 58,
    "sub": "85인치",
    "subn": 85
   },
@@ -343,7 +343,7 @@
     "닷컴ONLY"
    ],
    "model": "75QNED8MBEA",
-   "stock": 19,
+   "stock": 17,
    "sub": "75인치",
    "subn": 75
   },
@@ -357,7 +357,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS30A",
-   "stock": 25,
+   "stock": 22,
    "sub": "75인치",
    "subn": 75
   },
@@ -416,7 +416,7 @@
     "닷컴ONLY"
    ],
    "model": "86QNED70AEA",
-   "stock": 6,
+   "stock": 4,
    "sub": "86인치",
    "subn": 86
   },
@@ -430,7 +430,7 @@
     "타임딜"
    ],
    "model": "75QNED8MBEWAS60TR",
-   "stock": 28,
+   "stock": 27,
    "sub": "75인치",
    "subn": 75
   },
@@ -476,7 +476,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 6,
-   "stock": 63,
+   "stock": 64,
    "sub": "85인치",
    "subn": 85
   },
@@ -566,7 +566,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 6,
-   "stock": 18,
+   "stock": 17,
    "sub": "77인치",
    "subn": 77
   },
@@ -612,7 +612,7 @@
    ],
    "model": "AS156HWWL",
    "dday": 5,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -628,7 +628,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 5,
-   "stock": 58,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -643,7 +643,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 5,
-   "stock": 32,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -674,7 +674,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 5,
-   "stock": 54,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -705,39 +705,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 5,
-   "stock": 41,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트 2등급",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/w10bn",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09907827/md09907827-350x350.jpg",
-   "price": 1565200,
-   "cat": "세탁 건조기",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "W10BN",
-   "dday": 27,
-   "stock": 1,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워 컴팩트 2등급",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/w10bhn",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09907826/md09907826-350x350.jpg",
-   "price": 1623800,
-   "cat": "세탁 건조기",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "W10BHN",
-   "dday": 27,
-   "stock": 1,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -753,7 +721,7 @@
    ],
    "model": "W1310EGN",
    "dday": 13,
-   "stock": 144,
+   "stock": 139,
    "sub": "",
    "subn": 0
   },
@@ -768,7 +736,7 @@
    ],
    "model": "W1310WAN",
    "dday": 27,
-   "stock": 198,
+   "stock": 197,
    "sub": "",
    "subn": 0
   },
@@ -845,7 +813,7 @@
    ],
    "model": "W2421KKAM",
    "dday": 27,
-   "stock": 26,
+   "stock": 23,
    "sub": "",
    "subn": 0
   },
@@ -859,7 +827,7 @@
     "타임딜"
    ],
    "model": "FH25GSGX",
-   "stock": 49,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -874,7 +842,7 @@
    ],
    "model": "TR15WV5",
    "dday": 20,
-   "stock": 183,
+   "stock": 181,
    "sub": "15kg",
    "subn": 15
   },
@@ -889,25 +857,9 @@
    ],
    "model": "T19MX7",
    "dday": 20,
-   "stock": 146,
+   "stock": 145,
    "sub": "19kg",
    "subn": 19
-  },
-  {
-   "name": "LG 통돌이 세탁기 25kg 2등급",
-   "url": "https://www.lge.co.kr/washing-machines/t25px9",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10010829/md10010829-350x350.jpg",
-   "price": 782600,
-   "cat": "세탁기",
-   "tags": [
-    "타임딜",
-    "닷컴ONLY"
-   ],
-   "model": "T25PX9",
-   "dday": 20,
-   "stock": 6,
-   "sub": "25kg",
-   "subn": 25
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기 23kg 1등급",
@@ -937,7 +889,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 20,
-   "stock": 289,
+   "stock": 283,
    "sub": "24kg",
    "subn": 24
   },
@@ -952,7 +904,7 @@
    ],
    "model": "FX24ENER",
    "dday": 20,
-   "stock": 294,
+   "stock": 282,
    "sub": "24kg",
    "subn": 24
   },
@@ -968,7 +920,7 @@
    ],
    "model": "FX25WSQR",
    "dday": 20,
-   "stock": 147,
+   "stock": 143,
    "sub": "25kg",
    "subn": 25
   },
@@ -983,7 +935,7 @@
    ],
    "model": "SC3GVE",
    "dday": 5,
-   "stock": 46,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -999,7 +951,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 5,
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -1015,7 +967,7 @@
    ],
    "model": "SC3GNE52",
    "dday": 5,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -1047,7 +999,7 @@
    ],
    "model": "SC5GMR52CS",
    "dday": 5,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -1063,7 +1015,7 @@
    ],
    "model": "SC5MSR82A",
    "dday": 5,
-   "stock": 141,
+   "stock": 138,
    "sub": "",
    "subn": 0
   },
@@ -1079,7 +1031,7 @@
    ],
    "model": "SC5MBR82S",
    "dday": 5,
-   "stock": 85,
+   "stock": 81,
    "sub": "",
    "subn": 0
   },
@@ -1095,7 +1047,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 2,
-   "stock": 24,
+   "stock": 21,
    "sub": "",
    "subn": 0
   },
@@ -1246,7 +1198,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 5,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -1321,7 +1273,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 5,
-   "stock": 34,
+   "stock": 33,
    "sub": "",
    "subn": 0
   },
@@ -1399,7 +1351,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 5,
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -1463,7 +1415,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 5,
-   "stock": 19,
+   "stock": 18,
    "sub": "",
    "subn": 0
   },
@@ -1478,7 +1430,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 5,
-   "stock": 69,
+   "stock": 66,
    "sub": "",
    "subn": 0
   },
@@ -1494,7 +1446,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 5,
-   "stock": 89,
+   "stock": 84,
    "sub": "",
    "subn": 0
   },
@@ -1555,7 +1507,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 5,
-   "stock": 94,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
