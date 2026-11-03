@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 00:33",
+ "updated": "2026-11-04 01:41",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -67,7 +67,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 5,
-   "stock": 76,
+   "stock": 75,
    "sub": "75인치",
    "subn": 75
   },
@@ -128,7 +128,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 5,
-   "stock": 52,
+   "stock": 51,
    "sub": "85인치",
    "subn": 85
   },
@@ -403,7 +403,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 39,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -542,7 +542,7 @@
    ],
    "model": "W2421KKAM",
    "dday": 26,
-   "stock": 18,
+   "stock": 19,
    "sub": "",
    "subn": 0
   },
@@ -635,7 +635,7 @@
    ],
    "model": "FX25WSQR",
    "dday": 19,
-   "stock": 137,
+   "stock": 136,
    "sub": "25kg",
    "subn": 25
   },
@@ -666,7 +666,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 5,
-   "stock": 63,
+   "stock": 62,
    "sub": "",
    "subn": 0
   },
@@ -682,7 +682,7 @@
    ],
    "model": "SC3GNE52",
    "dday": 5,
-   "stock": 91,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -730,7 +730,7 @@
    ],
    "model": "SC5MSR82A",
    "dday": 5,
-   "stock": 131,
+   "stock": 132,
    "sub": "",
    "subn": 0
   },
@@ -1114,7 +1114,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 4,
-   "stock": 33,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
