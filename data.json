@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 10:46",
+ "updated": "2026-11-04 11:34",
  "status": {
   "errors": [],
   "timedeal": 81,
@@ -7,7 +7,7 @@
    "count": "수집 201",
    "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규3 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=765,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-04T10:46:32.5611458\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
+   "total_api": "{\"timestamp\":\"2026-11-04T11:34:34.4222807\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":765}}",
    "fail_sample": "{\"modelId\": \"MD10499826\", \"sku\": \"17ZD90SU-G.AXF6K\", \"salesModelCode\": \"17ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"17ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499826/md10499826-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499826/md10499826-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/17zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 201
@@ -354,7 +354,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 5,
-   "stock": 60,
+   "stock": 59,
    "sub": "85인치",
    "subn": 85
   },
@@ -486,7 +486,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 4,
-   "stock": 74,
+   "stock": 72,
    "sub": "",
    "subn": 0
   },
@@ -616,7 +616,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 4,
-   "stock": 30,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -660,7 +660,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 4,
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -2072,7 +2072,7 @@
    ],
    "model": "W2320VANQR",
    "dday": 12,
-   "stock": 195,
+   "stock": 194,
    "sub": "",
    "subn": 0
   },
@@ -2118,7 +2118,7 @@
    ],
    "model": "W2421KKAM",
    "dday": 26,
-   "stock": 17,
+   "stock": 16,
    "sub": "",
    "subn": 0
   },
@@ -2133,20 +2133,7 @@
    ],
    "model": "TR15WV5",
    "dday": 19,
-   "stock": 170,
-   "sub": "15kg",
-   "subn": 15
-  },
-  {
-   "name": "LG 통돌이 세탁기",
-   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
-   "price": 520000,
-   "cat": "세탁기",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "TR15DV5.AKOR",
+   "stock": 168,
    "sub": "15kg",
    "subn": 15
   },
@@ -2162,6 +2149,19 @@
    "model": "TR16DV6.AKOR",
    "sub": "16kg",
    "subn": 16
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/tr15dv5",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481827/md10481827-350x350.jpg",
+   "price": 520000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "TR15DV5.AKOR",
+   "sub": "15kg",
+   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기 19kg 2등급",
@@ -2286,7 +2286,7 @@
    ],
    "model": "FX24ENER",
    "dday": 19,
-   "stock": 273,
+   "stock": 272,
    "sub": "24kg",
    "subn": 24
   },
@@ -2302,7 +2302,7 @@
    ],
    "model": "FX25WSQR",
    "dday": 19,
-   "stock": 135,
+   "stock": 133,
    "sub": "25kg",
    "subn": 25
   },
@@ -2359,7 +2359,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 4,
-   "stock": 61,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2420,7 +2420,7 @@
    ],
    "model": "SC5GMR52CS",
    "dday": 4,
-   "stock": 76,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
@@ -2504,7 +2504,7 @@
    ],
    "model": "SC5MBR82S",
    "dday": 4,
-   "stock": 74,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -2559,7 +2559,7 @@
    ],
    "model": "32LX6BEGB",
    "dday": 1,
-   "stock": 16,
+   "stock": 14,
    "sub": "",
    "subn": 0
   },
@@ -2775,7 +2775,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 4,
-   "stock": 43,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -2912,7 +2912,7 @@
    ],
    "model": "FQ17HDWHP2",
    "dday": 6,
-   "stock": 3,
+   "stock": 2,
    "sub": "",
    "subn": 0
   },
@@ -3350,7 +3350,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 4,
-   "stock": 83,
+   "stock": 79,
    "sub": "",
    "subn": 0
   },
