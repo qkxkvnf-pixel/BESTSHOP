@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-05 09:04",
+ "updated": "2026-11-05 16:30",
  "status": {
   "errors": [],
-  "timedeal": 82,
+  "timedeal": 78,
   "debug": {
-   "count": "수집 200",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규3 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
-   "info": "totalCount=763,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-05T09:03:58.8747694\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":763}}",
-   "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
+   "count": "수집 205",
+   "pages": "p1:목록100/신규99 p2:목록100/신규97 p3:목록100/신규9 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "info": "totalCount=774,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
+   "total_api": "{\"timestamp\":\"2026-11-05T16:29:51.4822205\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
+   "fail_sample": "{\"modelId\": \"MD10491829\", \"sku\": \"FH25KAX.CKOR\", \"salesModelCode\": \"FH25KAX\", \"salesSuffixCode\": \"CKOR\", \"modelStatusCode\": \"DISCONTINUED\", \"modelGubun\": \"2\", \"modelDisplayName\": \"LG 트롬 오브제컬렉션 워시콤보 + 미니워시\", \"modelName\": \"FH25KAX\", \"defaultCategoryId\": \"CT50387000\", \"defaultCategoryName\": \"세탁 건조기\", \"superCategoryId\": \"CT50000100\", \"categoryId\": \"CT50387000\", \"subCategoryId\": \"CT50251000\", \"superCategoryName\": \"생활가전\", \"categoryName\": \"세탁 건조기\", \"subCategoryName\": \"워시콤보\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/wash-combo/md10491829/md10491829-350x350.jpg\", \"smallImageAddr\": \"/kr/images/wash-combo/md10491829/md10491829-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/all-in-one-laundry/fh25kax"
   },
-  "only": 200
+  "only": 205
  },
  "items": [
   {
@@ -51,7 +51,7 @@
    ],
    "model": "55NU850BENA",
    "dday": 4,
-   "stock": 45,
+   "stock": 36,
    "sub": "55인치",
    "subn": 55
   },
@@ -67,7 +67,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 4,
-   "stock": 65,
+   "stock": 56,
    "sub": "65인치",
    "subn": 65
   },
@@ -83,7 +83,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 4,
-   "stock": 25,
+   "stock": 71,
    "sub": "75인치",
    "subn": 75
   },
@@ -98,7 +98,7 @@
    ],
    "model": "75NU850BEWAS30A",
    "dday": 4,
-   "stock": 29,
+   "stock": 28,
    "sub": "75인치",
    "subn": 75
   },
@@ -141,7 +141,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 4,
-   "stock": 35,
+   "stock": 31,
    "sub": "55인치",
    "subn": 55
   },
@@ -157,7 +157,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 4,
-   "stock": 28,
+   "stock": 67,
    "sub": "85인치",
    "subn": 85
   },
@@ -187,7 +187,7 @@
    ],
    "model": "75QNED80BEWAS30A",
    "dday": 4,
-   "stock": 29,
+   "stock": 27,
    "sub": "75인치",
    "subn": 75
   },
@@ -263,19 +263,6 @@
    "subn": 75
   },
   {
-   "name": "LG 나노셀 AI (벽걸이형)",
-   "url": "https://www.lge.co.kr/tvs/86nano80aea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10573846/md10573846-350x350.jpg",
-   "price": 1940000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "86NANO80AEW.AKRG",
-   "sub": "86인치",
-   "subn": 86
-  },
-  {
    "name": "LG QNED evo AI (벽걸이형)",
    "url": "https://www.lge.co.kr/tvs/75qned8mbea-wall",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10903836/md10903836-350x350.jpg",
@@ -343,37 +330,6 @@
    "subn": 65
   },
   {
-   "name": "LG QNED evo AI (벽걸이형) 214cm",
-   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
-   "price": 2566800,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "85QNED8MBEA",
-   "dday": 4,
-   "stock": 46,
-   "sub": "85인치",
-   "subn": 85
-  },
-  {
-   "name": "LG QNED evo AI (벽걸이형) + LG 사운드바",
-   "url": "https://www.lge.co.kr/tvs/85qned8mbewas30a",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10935837/md10935837-350x350.jpg",
-   "price": 2568700,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "85QNED8MBEWAS30A",
-   "dday": 4,
-   "stock": 27,
-   "sub": "85인치",
-   "subn": 85
-  },
-  {
    "name": "LG QNED evo AI (벽걸이형) + LG 사운드바",
    "url": "https://www.lge.co.kr/tvs/85qned80bewas60tr",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10935857/md10935857-350x350.jpg",
@@ -389,17 +345,15 @@
    "subn": 85
   },
   {
-   "name": "LG QNED evo AI (벽걸이형) + LG 사운드바",
-   "url": "https://www.lge.co.kr/tvs/85qned8mbewas60tr",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10935851/md10935851-350x350.jpg",
-   "price": 2794700,
+   "name": "LG QNED evo AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/85qned8mbea-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10903834/md10903834-350x350.jpg",
+   "price": 2990000,
    "cat": "TV",
    "tags": [
-    "타임딜"
+    "닷컴ONLY"
    ],
-   "model": "85QNED8MBEWAS60TR",
-   "dday": 4,
-   "stock": 27,
+   "model": "85QNED8MBEW.AKRG",
    "sub": "85인치",
    "subn": 85
   },
@@ -442,7 +396,7 @@
     "타임딜"
    ],
    "model": "OLED77B6BNA",
-   "stock": 28,
+   "stock": 24,
    "sub": "77인치",
    "subn": 77
   },
@@ -485,7 +439,7 @@
    ],
    "model": "HW500DAS",
    "dday": 3,
-   "stock": 122,
+   "stock": 103,
    "sub": "",
    "subn": 0
   },
@@ -500,7 +454,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 3,
-   "stock": 64,
+   "stock": 62,
    "sub": "",
    "subn": 0
   },
@@ -568,7 +522,7 @@
    ],
    "model": "AS156HWWL",
    "dday": 3,
-   "stock": 46,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -584,7 +538,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 3,
-   "stock": 37,
+   "stock": 30,
    "sub": "",
    "subn": 0
   },
@@ -599,7 +553,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 3,
-   "stock": 16,
+   "stock": 10,
    "sub": "",
    "subn": 0
   },
@@ -630,7 +584,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 3,
-   "stock": 3,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
@@ -645,7 +599,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 3,
-   "stock": 43,
+   "stock": 40,
    "sub": "",
    "subn": 0
   },
@@ -674,7 +628,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 3,
-   "stock": 28,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -887,15 +841,41 @@
    "subn": 0
   },
   {
-   "name": "LG 트롬 오브제컬렉션 워시콤보 + 미니워시",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/fh25kax-ckor",
-   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10491829/md10491829-350x350.jpg",
-   "price": 3780000,
+   "name": "LG 트롬 오브제컬렉션 워시콤보",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fh23kn",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10673828/md10673828-350x350.jpg",
+   "price": 4100000,
    "cat": "기타",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "FH25KAX.CKOR",
+   "model": "FH23KN.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 AI 오브제컬렉션 워시콤보",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fc2521kx6c",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10814828/md10814828-350x350.jpg",
+   "price": 5090000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FC2521KX6C.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 AI 오브제컬렉션 워시콤보 + 미니워시",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/fc2521kx6cx",
+   "img": "https://www.lge.co.kr/kr/images/wash-combo/md10868827/md10868827-350x350.jpg",
+   "price": 5840000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FC2521KX6CX.CKOR",
    "sub": "",
    "subn": 0
   },
@@ -965,19 +945,6 @@
    "subn": 491
   },
   {
-   "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
-   "url": "https://www.lge.co.kr/kimchi-refrigerators/z386mee221",
-   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792843/md10792843-350x350.jpg",
-   "price": 2090000,
-   "cat": "김치냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "Z386MEE221.AKOR",
-   "sub": "300L대",
-   "subn": 386
-  },
-  {
    "name": "LG 디오스 오브제컬렉션 김치톡톡 Fit & Max ",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/z484gbb173",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10432845/md10432845-350x350.jpg",
@@ -989,6 +956,19 @@
    "model": "Z484GBB173.AKOR",
    "sub": "400L대",
    "subn": 480
+  },
+  {
+   "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
+   "url": "https://www.lge.co.kr/kimchi-refrigerators/z386mee221",
+   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792843/md10792843-350x350.jpg",
+   "price": 2450000,
+   "cat": "김치냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "Z386MEE221.AKOR",
+   "sub": "300L대",
+   "subn": 386
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
@@ -1093,6 +1073,21 @@
    "model": "B312W31.AKOR",
    "sub": "300L대",
    "subn": 317
+  },
+  {
+   "name": "LG 일반냉장고 오브제컬렉션 612L 2등급",
+   "url": "https://www.lge.co.kr/refrigerators/d605mee52",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10950859/md10950859-350x350.jpg",
+   "price": 674300,
+   "cat": "냉장고",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "D605MEE52",
+   "dday": 7,
+   "stock": 3,
+   "sub": "600L대",
+   "subn": 612
   },
   {
    "name": "LG 디오스 오브제컬렉션 일반냉장고",
@@ -2042,7 +2037,7 @@
    ],
    "model": "W1310EGN",
    "dday": 11,
-   "stock": 129,
+   "stock": 127,
    "sub": "",
    "subn": 0
   },
@@ -2053,6 +2048,7 @@
    "price": 1841400,
    "cat": "세탁 건조기",
    "tags": [
+    "닷컴ONLY",
     "타임딜"
    ],
    "model": "W1310WAN",
@@ -2073,7 +2069,7 @@
    ],
    "model": "W2320VANQR",
    "dday": 11,
-   "stock": 194,
+   "stock": 191,
    "sub": "",
    "subn": 0
   },
@@ -2088,7 +2084,7 @@
    ],
    "model": "W2420WHNR",
    "dday": 11,
-   "stock": 248,
+   "stock": 246,
    "sub": "",
    "subn": 0
   },
@@ -2104,7 +2100,7 @@
    ],
    "model": "W2420EGZR",
    "dday": 11,
-   "stock": 242,
+   "stock": 241,
    "sub": "",
    "subn": 0
   },
@@ -2119,24 +2115,9 @@
    ],
    "model": "W2421KKAM",
    "dday": 25,
-   "stock": 10,
+   "stock": 6,
    "sub": "",
    "subn": 0
-  },
-  {
-   "name": "LG 통돌이 세탁기 15kg 2등급",
-   "url": "https://www.lge.co.kr/washing-machines/tr15wv5",
-   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10481829/md10481829-350x350.jpg",
-   "price": 450000,
-   "cat": "세탁기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "TR15WV5",
-   "dday": 18,
-   "stock": 154,
-   "sub": "15kg",
-   "subn": 15
   },
   {
    "name": "LG 통돌이 세탁기",
@@ -2175,7 +2156,20 @@
    ],
    "model": "T19MX7",
    "dday": 18,
-   "stock": 136,
+   "stock": 133,
+   "sub": "19kg",
+   "subn": 19
+  },
+  {
+   "name": "LG 통돌이 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/t19mx8",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md09889842/md09889842-350x350.jpg",
+   "price": 880000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "T19MX8.AKOR",
    "sub": "19kg",
    "subn": 19
   },
@@ -2230,7 +2224,7 @@
    ],
    "model": "FX23VNR",
    "dday": 18,
-   "stock": 18,
+   "stock": 16,
    "sub": "23kg",
    "subn": 23
   },
@@ -2246,7 +2240,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 18,
-   "stock": 243,
+   "stock": 233,
    "sub": "24kg",
    "subn": 24
   },
@@ -2287,7 +2281,7 @@
    ],
    "model": "FX24ENER",
    "dday": 18,
-   "stock": 258,
+   "stock": 247,
    "sub": "24kg",
    "subn": 24
   },
@@ -2303,7 +2297,7 @@
    ],
    "model": "FX25WSQR",
    "dday": 18,
-   "stock": 124,
+   "stock": 122,
    "sub": "25kg",
    "subn": 25
   },
@@ -2322,6 +2316,19 @@
   },
   {
    "name": "LG 트롬 오브제컬렉션 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/fx24wnr",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md10596840/md10596840-350x350.jpg",
+   "price": 1350000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "FX24WNR.AKOR2",
+   "sub": "24kg",
+   "subn": 24
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 세탁기",
    "url": "https://www.lge.co.kr/washing-machines/fg21vnr",
    "img": "https://www.lge.co.kr/kr/images/washing-machines/md10412831/md10412831-350x350.jpg",
    "price": 1370000,
@@ -2334,6 +2341,19 @@
    "subn": 21
   },
   {
+   "name": "LG 트롬 세탁기",
+   "url": "https://www.lge.co.kr/washing-machines/f24wdlpr",
+   "img": "https://www.lge.co.kr/kr/images/washing-machines/md09767828/md09767828-350x350.jpg",
+   "price": 1380000,
+   "cat": "세탁기",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "F24WDLPR.AKOR2",
+   "sub": "24kg",
+   "subn": 24
+  },
+  {
    "name": "LG 스타일러 오브제컬렉션 3벌 (2026 NEW) 3벌",
    "url": "https://www.lge.co.kr/lg-styler/sc3gve",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10834831/md10834831-350x350.jpg",
@@ -2343,8 +2363,8 @@
     "타임딜"
    ],
    "model": "SC3GVE",
-   "dday": 4,
-   "stock": 36,
+   "dday": 3,
+   "stock": 33,
    "sub": "",
    "subn": 0
   },
@@ -2359,8 +2379,8 @@
     "타임딜"
    ],
    "model": "SC3GBE52",
-   "dday": 4,
-   "stock": 47,
+   "dday": 3,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -2375,7 +2395,7 @@
     "타임딜"
    ],
    "model": "SC3GNE52",
-   "dday": 4,
+   "dday": 3,
    "stock": 89,
    "sub": "",
    "subn": 0
@@ -2391,8 +2411,8 @@
     "타임딜"
    ],
    "model": "SC5MSR42S",
-   "dday": 4,
-   "stock": 79,
+   "dday": 3,
+   "stock": 76,
    "sub": "",
    "subn": 0
   },
@@ -2420,8 +2440,8 @@
     "타임딜"
    ],
    "model": "SC5GMR52CS",
-   "dday": 4,
-   "stock": 60,
+   "dday": 3,
+   "stock": 49,
    "sub": "",
    "subn": 0
   },
@@ -2449,8 +2469,8 @@
     "타임딜"
    ],
    "model": "SC5MSR82A",
-   "dday": 4,
-   "stock": 125,
+   "dday": 3,
+   "stock": 114,
    "sub": "",
    "subn": 0
   },
@@ -2494,22 +2514,6 @@
    "subn": 0
   },
   {
-   "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW) + 스티머 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5mbr82s",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10858830/md10858830-350x350.jpg",
-   "price": 1729800,
-   "cat": "스타일러",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "SC5MBR82S",
-   "dday": 4,
-   "stock": 67,
-   "sub": "",
-   "subn": 0
-  },
-  {
    "name": "LG 스타일러 오브제컬렉션 (ALL NEW) + 스티머",
    "url": "https://www.lge.co.kr/lg-styler/sc5gmr80h",
    "img": "https://www.lge.co.kr/kr/images/lg-styler/md10217826/md10217826-350x350.jpg",
@@ -2523,15 +2527,15 @@
    "subn": 0
   },
   {
-   "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머",
-   "url": "https://www.lge.co.kr/lg-styler/sc5gmr80a",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544833/md10544833-350x350.jpg",
-   "price": 2240000,
+   "name": "LG 스타일러 AI 오브제컬렉션 (2026 NEW) + 스티머",
+   "url": "https://www.lge.co.kr/lg-styler/sc5mbr82s",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10858830/md10858830-350x350.jpg",
+   "price": 2090000,
    "cat": "스타일러",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "SC5GMR80A.AKOR",
+   "model": "SC5MBR82S.AKOR",
    "sub": "",
    "subn": 0
   },
@@ -2549,6 +2553,19 @@
    "subn": 0
   },
   {
+   "name": "LG 스타일러 오브제컬렉션 (NEW) + 스티머",
+   "url": "https://www.lge.co.kr/lg-styler/sc5gmr80a",
+   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544833/md10544833-350x350.jpg",
+   "price": 2340000,
+   "cat": "스타일러",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "SC5GMR80A.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
    "name": "LG 스탠바이미 2 Max 79cm",
    "url": "https://www.lge.co.kr/stan-by-me/32lx6begb",
    "img": "https://www.lge.co.kr/kr/images/stan-by-me/md10801828/md10801828-350x350.jpg",
@@ -2559,7 +2576,7 @@
     "타임딜"
    ],
    "model": "32LX6BEGB",
-   "stock": 25,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -2575,7 +2592,7 @@
    ],
    "model": "32LX6BEGBAKXT7SC",
    "dday": 4,
-   "stock": 14,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
@@ -2670,7 +2687,7 @@
    ],
    "model": "SS4RWS60E",
    "dday": 25,
-   "stock": 25,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -2684,7 +2701,7 @@
     "타임딜"
    ],
    "model": "MH67BR",
-   "dday": 4,
+   "dday": 3,
    "stock": 21,
    "sub": "",
    "subn": 0
@@ -2699,8 +2716,8 @@
     "타임딜"
    ],
    "model": "MH20BR",
-   "dday": 4,
-   "stock": 27,
+   "dday": 3,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -2714,7 +2731,7 @@
     "타임딜"
    ],
    "model": "MH65CC",
-   "dday": 4,
+   "dday": 3,
    "stock": 30,
    "sub": "",
    "subn": 0
@@ -2729,7 +2746,7 @@
     "타임딜"
    ],
    "model": "MH81CC",
-   "dday": 4,
+   "dday": 3,
    "stock": 20,
    "sub": "",
    "subn": 0
@@ -2744,7 +2761,7 @@
     "타임딜"
    ],
    "model": "MH81RR",
-   "dday": 4,
+   "dday": 3,
    "stock": 19,
    "sub": "",
    "subn": 0
@@ -2759,7 +2776,7 @@
     "타임딜"
    ],
    "model": "MX91WR",
-   "dday": 4,
+   "dday": 3,
    "stock": 10,
    "sub": "",
    "subn": 0
@@ -2775,7 +2792,7 @@
    ],
    "model": "SQ06FA1WDS",
    "dday": 3,
-   "stock": 33,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -2790,7 +2807,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 3,
-   "stock": 68,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -2865,7 +2882,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 3,
-   "stock": 50,
+   "stock": 47,
    "sub": "",
    "subn": 0
   },
@@ -2912,7 +2929,7 @@
    ],
    "model": "FQ17HDWHM2",
    "dday": 5,
-   "stock": 26,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -2943,7 +2960,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 3,
-   "stock": 42,
+   "stock": 41,
    "sub": "",
    "subn": 0
   },
@@ -2959,7 +2976,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 3,
-   "stock": 26,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -2991,7 +3008,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 3,
-   "stock": 19,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
@@ -3308,7 +3325,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 3,
-   "stock": 58,
+   "stock": 53,
    "sub": "",
    "subn": 0
   },
@@ -3350,7 +3367,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 3,
-   "stock": 72,
+   "stock": 66,
    "sub": "",
    "subn": 0
   },
@@ -3381,7 +3398,7 @@
    ],
    "model": "DQ185MWGA",
    "dday": 3,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -3411,7 +3428,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 3,
-   "stock": 90,
+   "stock": 89,
    "sub": "",
    "subn": 0
   },
@@ -3426,7 +3443,7 @@
    ],
    "model": "DQ235MWGA",
    "dday": 3,
-   "stock": 78,
+   "stock": 77,
    "sub": "",
    "subn": 0
   },
@@ -3493,7 +3510,6 @@
    ],
    "model": "B94AHB",
    "dday": 25,
-   "stock": 999,
    "sub": "",
    "subn": 0
   }
