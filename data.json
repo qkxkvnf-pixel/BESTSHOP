@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 04:10",
+ "updated": "2026-11-08 08:13",
  "status": {
   "errors": [
    "닷컴ONLY 검색: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.lge.co.kr/sch?keyword=%EB%8B%B7%EC%BB%B4ONLY&tab=all\", waiting until \"networkidle\"\n"
@@ -52,7 +52,7 @@
    ],
    "model": "75NU850BENA",
    "dday": 1,
-   "stock": 50,
+   "stock": 46,
    "sub": "75인치",
    "subn": 75
   },
@@ -113,7 +113,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 1,
-   "stock": 38,
+   "stock": 37,
    "sub": "85인치",
    "subn": 85
   },
@@ -219,7 +219,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 1,
-   "stock": 19,
+   "stock": 18,
    "sub": "85인치",
    "subn": 85
   },
@@ -234,7 +234,7 @@
    ],
    "model": "85QNED8MBEWAS30A",
    "dday": 1,
-   "stock": 19,
+   "stock": 18,
    "sub": "85인치",
    "subn": 85
   },
@@ -324,7 +324,7 @@
     "타임딜"
    ],
    "model": "HW500DAS",
-   "stock": 27,
+   "stock": 25,
    "sub": "",
    "subn": 0
   },
@@ -353,7 +353,7 @@
     "타임딜"
    ],
    "model": "HY505RWLAHM",
-   "stock": 38,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -397,7 +397,7 @@
     "타임딜"
    ],
    "model": "AS186LSAA",
-   "stock": 52,
+   "stock": 51,
    "sub": "",
    "subn": 0
   },
@@ -503,7 +503,7 @@
    ],
    "model": "W2320VANQR",
    "dday": 8,
-   "stock": 183,
+   "stock": 182,
    "sub": "",
    "subn": 0
   },
@@ -565,7 +565,7 @@
    ],
    "model": "FX23VNR",
    "dday": 15,
-   "stock": 13,
+   "stock": 14,
    "sub": "23kg",
    "subn": 23
   },
@@ -581,7 +581,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 15,
-   "stock": 183,
+   "stock": 182,
    "sub": "24kg",
    "subn": 24
   },
@@ -627,7 +627,7 @@
    ],
    "model": "SC3GVE",
    "dday": 1,
-   "stock": 14,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
@@ -643,7 +643,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 1,
-   "stock": 27,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -691,7 +691,7 @@
    ],
    "model": "SC5GMR52CS",
    "dday": 1,
-   "stock": 3,
+   "stock": 2,
    "sub": "",
    "subn": 0
   },
@@ -707,7 +707,7 @@
    ],
    "model": "SC5MSR82A",
    "dday": 1,
-   "stock": 85,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -1321,7 +1321,7 @@
     "타임딜"
    ],
    "model": "DQ235MEGA",
-   "stock": 79,
+   "stock": 78,
    "sub": "",
    "subn": 0
   },
