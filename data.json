@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20 10:30",
+ "updated": "2026-11-20 18:19",
  "status": {
   "errors": [],
-  "timedeal": 116,
+  "timedeal": 112,
   "debug": {
    "count": "수집 215",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=774,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-20T10:29:54.7132378\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
+   "total_api": "{\"timestamp\":\"2026-11-20T18:19:43.1312696\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 215
@@ -27,33 +27,35 @@
    "subn": 32
   },
   {
-   "name": "LG NANO 4K UHD AI (스탠드형)",
+   "name": "LG NANO 4K UHD AI (스탠드형) 107cm",
    "url": "https://www.lge.co.kr/tvs/43nu850bena-stand",
    "img": "https://www.lge.co.kr/kr/images/tvs/md10799857/md10799857-350x350.jpg",
-   "price": 690000,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "43NU850BES.AKRG",
-   "sub": "43인치",
-   "subn": 43
-  },
-  {
-   "name": "LG NANO 4K UHD AI (스탠드형) 138cm",
-   "url": "https://www.lge.co.kr/tvs/55nu850bena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10799853/md10799853-350x350.jpg",
-   "price": 744000,
+   "price": 527400,
    "cat": "TV",
    "tags": [
     "닷컴ONLY",
     "타임딜"
    ],
-   "model": "55NU850BENA",
+   "model": "43NU850BENA",
    "dday": 3,
-   "stock": 37,
-   "sub": "55인치",
-   "subn": 55
+   "stock": 86,
+   "sub": "43인치",
+   "subn": 43
+  },
+  {
+   "name": "LG 울트라 HD TV AI (스탠드형) 125cm",
+   "url": "https://www.lge.co.kr/tvs/50ua7500kna-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10575830/md10575830-350x350.jpg",
+   "price": 585900,
+   "cat": "TV",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "50UA7500KNA",
+   "dday": 3,
+   "stock": 87,
+   "sub": "50인치",
+   "subn": 50
   },
   {
    "name": "LG QNED AI (스탠드형) 138cm",
@@ -67,7 +69,7 @@
    ],
    "model": "55QNED70ABA",
    "dday": 10,
-   "stock": 5,
+   "stock": 4,
    "sub": "55인치",
    "subn": 55
   },
@@ -82,9 +84,22 @@
    ],
    "model": "65NANO80AEA",
    "dday": 10,
-   "stock": 3,
+   "stock": 2,
    "sub": "65인치",
    "subn": 65
+  },
+  {
+   "name": "LG NANO 4K UHD AI (스탠드형)",
+   "url": "https://www.lge.co.kr/tvs/55nu850bena-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10799853/md10799853-350x350.jpg",
+   "price": 890000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "55NU850BES.AKRG",
+   "sub": "55인치",
+   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (스탠드형) 163cm",
@@ -98,22 +113,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 3,
-   "stock": 26,
-   "sub": "65인치",
-   "subn": 65
-  },
-  {
-   "name": "LG QNED AI (스탠드형) 163cm",
-   "url": "https://www.lge.co.kr/tvs/65qned65aba-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10560833/md10560833-350x350.jpg",
-   "price": 1013700,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "65QNED65ABA",
-   "dday": 10,
-   "stock": 2,
+   "stock": 20,
    "sub": "65인치",
    "subn": 65
   },
@@ -144,9 +144,24 @@
    ],
    "model": "65QNED70AEA",
    "dday": 10,
-   "stock": 2,
+   "stock": 1,
    "sub": "65인치",
    "subn": 65
+  },
+  {
+   "name": "LG 나노셀 AI (벽걸이형) 189cm",
+   "url": "https://www.lge.co.kr/tvs/75nano90aka-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10543859/md10543859-350x350.jpg",
+   "price": 1199700,
+   "cat": "TV",
+   "tags": [
+    "타임딜"
+   ],
+   "model": "75NANO90AKA",
+   "dday": 10,
+   "stock": 1,
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) + LG 사운드바",
@@ -192,35 +207,19 @@
    "subn": 65
   },
   {
-   "name": "LG QNED AI (벽걸이형) 189cm",
-   "url": "https://www.lge.co.kr/tvs/75qned70aba-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10654891/md10654891-350x350.jpg",
-   "price": 1339200,
-   "cat": "TV",
-   "tags": [
-    "닷컴ONLY",
-    "타임딜"
-   ],
-   "model": "75QNED70ABA",
-   "dday": 10,
-   "stock": 1,
-   "sub": "75인치",
-   "subn": 75
-  },
-  {
-   "name": "LG 올레드 evo AI (스탠드형) C6 120cm",
-   "url": "https://www.lge.co.kr/tvs/oled48c6ena-stand",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10770850/md10770850-350x350.jpg",
+   "name": "LG 올레드 evo AI (스탠드형) C5 138cm",
+   "url": "https://www.lge.co.kr/tvs/oled55c5ena-stand",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10570839/md10570839-350x350.jpg",
    "price": 1339200,
    "cat": "TV",
    "tags": [
     "타임딜"
    ],
-   "model": "OLED48C6ENA",
+   "model": "OLED55C5ENA",
    "dday": 10,
    "stock": 1,
-   "sub": "48인치",
-   "subn": 48
+   "sub": "55인치",
+   "subn": 55
   },
   {
    "name": "LG NANO 4K UHD AI (벽걸이형) + LG 사운드바",
@@ -248,7 +247,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 3,
-   "stock": 56,
+   "stock": 54,
    "sub": "55인치",
    "subn": 55
   },
@@ -279,9 +278,22 @@
    ],
    "model": "85NU850BENA",
    "dday": 3,
-   "stock": 45,
+   "stock": 40,
    "sub": "85인치",
    "subn": 85
+  },
+  {
+   "name": "LG QNED AI (벽걸이형)",
+   "url": "https://www.lge.co.kr/tvs/75qned70aba-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10654891/md10654891-350x350.jpg",
+   "price": 1590000,
+   "cat": "TV",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "75QNED70ABW.AKRG",
+   "sub": "75인치",
+   "subn": 75
   },
   {
    "name": "LG QNED evo AI (스탠드형) 189cm",
@@ -309,7 +321,7 @@
    ],
    "model": "85NU850BEWAS30A",
    "dday": 3,
-   "stock": 12,
+   "stock": 10,
    "sub": "85인치",
    "subn": 85
   },
@@ -324,7 +336,7 @@
    ],
    "model": "75QNED80BEWAS30A",
    "dday": 3,
-   "stock": 8,
+   "stock": 5,
    "sub": "75인치",
    "subn": 75
   },
@@ -600,7 +612,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 3,
-   "stock": 15,
+   "stock": 11,
    "sub": "85인치",
    "subn": 85
   },
@@ -615,7 +627,7 @@
    ],
    "model": "85QNED8MBEWAS30A",
    "dday": 3,
-   "stock": 15,
+   "stock": 13,
    "sub": "85인치",
    "subn": 85
   },
@@ -721,7 +733,7 @@
    ],
    "model": "OLED77B6BNA",
    "dday": 3,
-   "stock": 9,
+   "stock": 19,
    "sub": "77인치",
    "subn": 77
   },
@@ -754,21 +766,6 @@
    "subn": 86
   },
   {
-   "name": "LG QNED TV (벽걸이형) 247cm",
-   "url": "https://www.lge.co.kr/tvs/98qned89tka-wall",
-   "img": "https://www.lge.co.kr/kr/images/tvs/md10322826/md10322826-350x350.jpg",
-   "price": 5319600,
-   "cat": "TV",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "98QNED89TKA",
-   "dday": 10,
-   "stock": 1,
-   "sub": "98인치",
-   "subn": 98
-  },
-  {
    "name": "LG 퓨리케어 자연기화 가습기",
    "url": "https://www.lge.co.kr/humidifiers/hw500das-akor1",
    "img": "https://www.lge.co.kr/kr/images/humidifiers/md09088827/md09088827-350x350.jpg",
@@ -779,7 +776,7 @@
    ],
    "model": "HW500DAS",
    "dday": 2,
-   "stock": 48,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -794,7 +791,7 @@
    ],
    "model": "HY505RWLAH",
    "dday": 2,
-   "stock": 73,
+   "stock": 70,
    "sub": "",
    "subn": 0
   },
@@ -809,7 +806,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 2,
-   "stock": 72,
+   "stock": 67,
    "sub": "",
    "subn": 0
   },
@@ -824,7 +821,7 @@
    ],
    "model": "HY706RSUABM",
    "dday": 2,
-   "stock": 297,
+   "stock": 289,
    "sub": "",
    "subn": 0
   },
@@ -881,7 +878,7 @@
    "subn": 21
   },
   {
-   "name": "LG 퓨리케어 에어로 Hit 3등급",
+   "name": "LG 퓨리케어 에어로 Hit 31.4㎡ 3등급",
    "url": "https://www.lge.co.kr/air-purifier/as105gwjc",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10675841/md10675841-350x350.jpg",
    "price": 249000,
@@ -891,12 +888,12 @@
    ],
    "model": "AS105GWJC",
    "dday": 2,
-   "stock": 21,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 2등급",
+   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 50㎡ 2등급",
    "url": "https://www.lge.co.kr/air-purifier/as156hwwl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10745834/md10745834-350x350.jpg",
    "price": 338000,
@@ -912,22 +909,7 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 2등급",
-   "url": "https://www.lge.co.kr/air-purifier/as186hwwa",
-   "img": "https://www.lge.co.kr/kr/images/air-purifier/md10745831/md10745831-350x350.jpg",
-   "price": 368000,
-   "cat": "공기청정기",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "AS186HWWA",
-   "dday": 2,
-   "stock": 96,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 2등급",
+   "name": "LG 퓨리케어 360˚ 공기청정기 Hit 2등급 62㎡",
    "url": "https://www.lge.co.kr/air-purifier/as186hwwl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10745833/md10745833-350x350.jpg",
    "price": 368000,
@@ -938,12 +920,12 @@
    ],
    "model": "AS186HWWL",
    "dday": 2,
-   "stock": 52,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 2등급",
+   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 2등급 59.4㎡",
    "url": "https://www.lge.co.kr/air-purifier/as186lsaa",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10698828/md10698828-350x350.jpg",
    "price": 502200,
@@ -953,12 +935,12 @@
    ],
    "model": "AS186LSAA",
    "dday": 2,
-   "stock": 23,
+   "stock": 19,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 오브제컬렉션 에어로부스터 3등급",
+   "name": "LG 퓨리케어 오브제컬렉션 에어로부스터 48.2㎡ 3등급",
    "url": "https://www.lge.co.kr/air-purifier/as155gwdl",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10495853/md10495853-350x350.jpg",
    "price": 575700,
@@ -973,7 +955,7 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트 2등급",
+   "name": "LG 퓨리케어 AI 360˚ 공기청정기 플러스 + 무빙휠 세트 100㎡ 2등급",
    "url": "https://www.lge.co.kr/air-purifier/as305dwwlm-akor2",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10772832/md10772832-350x350.jpg",
    "price": 713400,
@@ -984,12 +966,12 @@
    ],
    "model": "AS305DWWLM",
    "dday": 2,
-   "stock": 72,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 2등급",
+   "name": "LG 퓨리케어 AI 오브제컬렉션 월핏 (스탠드) 115㎡ 2등급",
    "url": "https://www.lge.co.kr/air-purifier/as356lsaa",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10810830/md10810830-350x350.jpg",
    "price": 781200,
@@ -999,7 +981,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 2,
-   "stock": 45,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -1017,7 +999,7 @@
    "subn": 0
   },
   {
-   "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5 + 무빙휠 세트 2등급",
+   "name": "LG 퓨리케어 AI 오브제컬렉션 360˚ 공기청정기 M5 + 무빙휠 세트 2등급 114㎡",
    "url": "https://www.lge.co.kr/air-purifier/as356nsllm",
    "img": "https://www.lge.co.kr/kr/images/air-purifier/md10762836/md10762836-350x350.jpg",
    "price": 1283400,
@@ -1028,7 +1010,7 @@
    ],
    "model": "AS356NSLLM",
    "dday": 2,
-   "stock": 84,
+   "stock": 83,
    "sub": "",
    "subn": 0
   },
@@ -1057,7 +1039,7 @@
    ],
    "model": "MW20GDN",
    "dday": 4,
-   "stock": 103,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -1073,7 +1055,7 @@
    ],
    "model": "MW30EDN",
    "dday": 4,
-   "stock": 53,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -1089,7 +1071,7 @@
    ],
    "model": "MW30BDN",
    "dday": 4,
-   "stock": 190,
+   "stock": 189,
    "sub": "",
    "subn": 0
   },
@@ -1130,7 +1112,7 @@
    ],
    "model": "MW23BDI",
    "dday": 4,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -1145,7 +1127,7 @@
    ],
    "model": "MW23BPI",
    "dday": 4,
-   "stock": 37,
+   "stock": 36,
    "sub": "",
    "subn": 0
   },
@@ -1160,7 +1142,7 @@
    ],
    "model": "MWJ23PI",
    "dday": 4,
-   "stock": 139,
+   "stock": 138,
    "sub": "",
    "subn": 0
   },
@@ -1190,7 +1172,7 @@
    ],
    "model": "MWE25HD",
    "dday": 4,
-   "stock": 35,
+   "stock": 33,
    "sub": "",
    "subn": 0
   },
@@ -1445,7 +1427,7 @@
    "name": "LG 디오스 김치톡톡",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/k220s111",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10675836/md10675836-350x350.jpg",
-   "price": 920000,
+   "price": 860000,
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
@@ -1471,7 +1453,7 @@
    "name": "LG 디오스 오브제컬렉션 김치톡톡",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/z330meef11",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10545829/md10545829-350x350.jpg",
-   "price": 1500000,
+   "price": 1450000,
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
@@ -1484,7 +1466,7 @@
    "name": "LG 디오스 오브제컬렉션 김치톡톡",
    "url": "https://www.lge.co.kr/kimchi-refrigerators/z330mrrf21",
    "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10545827/md10545827-350x350.jpg",
-   "price": 1790000,
+   "price": 1550000,
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
@@ -2557,7 +2539,7 @@
    ],
    "model": "32U889SAW",
    "dday": 3,
-   "stock": 91,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
@@ -2586,7 +2568,7 @@
    ],
    "model": "W1310EGN",
    "dday": 3,
-   "stock": 64,
+   "stock": 60,
    "sub": "",
    "subn": 0
   },
@@ -2602,7 +2584,7 @@
    ],
    "model": "W1310WAN",
    "dday": 10,
-   "stock": 97,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -2618,7 +2600,7 @@
    ],
    "model": "W2320VANQR",
    "dday": 3,
-   "stock": 129,
+   "stock": 128,
    "sub": "",
    "subn": 0
   },
@@ -2633,7 +2615,7 @@
    ],
    "model": "W2420WHNR",
    "dday": 3,
-   "stock": 92,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -2649,7 +2631,7 @@
    ],
    "model": "W2420EGZR",
    "dday": 3,
-   "stock": 124,
+   "stock": 122,
    "sub": "",
    "subn": 0
   },
@@ -2719,7 +2701,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 10,
-   "stock": 165,
+   "stock": 155,
    "sub": "24kg",
    "subn": 24
   },
@@ -2760,7 +2742,7 @@
    ],
    "model": "FX24ENER",
    "dday": 3,
-   "stock": 25,
+   "stock": 19,
    "sub": "24kg",
    "subn": 24
   },
@@ -2840,7 +2822,7 @@
    ],
    "model": "SC3GVE",
    "dday": 10,
-   "stock": 97,
+   "stock": 91,
    "sub": "",
    "subn": 0
   },
@@ -2856,7 +2838,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 10,
-   "stock": 113,
+   "stock": 111,
    "sub": "",
    "subn": 0
   },
@@ -2901,7 +2883,7 @@
    ],
    "model": "SC5MSR42S",
    "dday": 10,
-   "stock": 57,
+   "stock": 52,
    "sub": "",
    "subn": 0
   },
@@ -2949,7 +2931,7 @@
    ],
    "model": "SC5MRR62S",
    "dday": 10,
-   "stock": 65,
+   "stock": 61,
    "sub": "",
    "subn": 0
   },
@@ -2966,21 +2948,6 @@
    "model": "SC5MBR42CS",
    "dday": 10,
    "stock": 91,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 스타일러 오브제컬렉션 (NEW) 5벌+바지 1벌",
-   "url": "https://www.lge.co.kr/lg-styler/sc5mbr8ra",
-   "img": "https://www.lge.co.kr/kr/images/lg-styler/md10544837/md10544837-350x350.jpg",
-   "price": 1562400,
-   "cat": "스타일러",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "SC5MBR8RA",
-   "dday": 10,
-   "stock": 1,
    "sub": "",
    "subn": 0
   },
@@ -3223,7 +3190,7 @@
    ],
    "model": "MH67BR",
    "dday": 10,
-   "stock": 40,
+   "stock": 38,
    "sub": "",
    "subn": 0
   },
@@ -3289,21 +3256,6 @@
   },
   {
    "name": "LG 휘센 벽걸이에어컨 18.7㎡",
-   "url": "https://www.lge.co.kr/air-conditioners/sq06fa1wds-akor",
-   "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10516827/md10516827-350x350.jpg",
-   "price": 510600,
-   "cat": "에어컨",
-   "tags": [
-    "타임딜"
-   ],
-   "model": "SQ06FA1WDS",
-   "dday": 2,
-   "stock": 9,
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 휘센 벽걸이에어컨 18.7㎡",
    "url": "https://www.lge.co.kr/air-conditioners/sq06ez1wbs",
    "img": "https://www.lge.co.kr/kr/images/air-conditioners/md10296829/md10296829-350x350.jpg",
    "price": 546000,
@@ -3313,7 +3265,7 @@
    ],
    "model": "SQ06EZ1WBS",
    "dday": 2,
-   "stock": 98,
+   "stock": 96,
    "sub": "",
    "subn": 0
   },
@@ -3328,7 +3280,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 2,
-   "stock": 65,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -3388,7 +3340,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 2,
-   "stock": 48,
+   "stock": 45,
    "sub": "",
    "subn": 0
   },
@@ -3420,7 +3372,7 @@
    ],
    "model": "FQ17GU1EP1",
    "dday": 2,
-   "stock": 31,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -3435,7 +3387,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 2,
-   "stock": 33,
+   "stock": 32,
    "sub": "",
    "subn": 0
   },
@@ -3451,7 +3403,7 @@
    ],
    "model": "FQ17GC1ED2",
    "dday": 2,
-   "stock": 25,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -3483,7 +3435,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 2,
-   "stock": 58,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -3544,7 +3496,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 2,
-   "stock": 25,
+   "stock": 24,
    "sub": "",
    "subn": 0
   },
@@ -3691,7 +3643,7 @@
    ],
    "model": "BEI3HRBLE",
    "dday": 2,
-   "stock": 94,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3707,7 +3659,7 @@
    ],
    "model": "BEI3HSBLE",
    "dday": 2,
-   "stock": 95,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -3737,7 +3689,7 @@
    ],
    "model": "BEI3HKSLE",
    "dday": 2,
-   "stock": 99,
+   "stock": 100,
    "sub": "",
    "subn": 0
   },
@@ -3765,7 +3717,7 @@
    ],
    "model": "BEI3QMBLOE",
    "dday": 2,
-   "stock": 89,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -3975,7 +3927,7 @@
    ],
    "model": "DQ134MWEC",
    "dday": 2,
-   "stock": 9,
+   "stock": 3,
    "sub": "",
    "subn": 0
   },
@@ -4016,7 +3968,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 2,
-   "stock": 91,
+   "stock": 88,
    "sub": "",
    "subn": 0
   },
@@ -4032,7 +3984,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 2,
-   "stock": 77,
+   "stock": 73,
    "sub": "",
    "subn": 0
   },
@@ -4063,7 +4015,7 @@
    ],
    "model": "DQ235MEGA",
    "dday": 2,
-   "stock": 77,
+   "stock": 75,
    "sub": "",
    "subn": 0
   },
