@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 09:27",
+ "updated": "2026-11-21 16:49",
  "status": {
   "errors": [],
   "timedeal": 106,
@@ -7,7 +7,7 @@
    "count": "수집 215",
    "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규18 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=774,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-21T09:26:51.5104470\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
+   "total_api": "{\"timestamp\":\"2026-11-21T16:49:03.6297160\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 215
@@ -38,7 +38,7 @@
    ],
    "model": "43NU850BENA",
    "dday": 2,
-   "stock": 79,
+   "stock": 75,
    "sub": "43인치",
    "subn": 43
   },
@@ -53,7 +53,7 @@
    ],
    "model": "50UA7500KNA",
    "dday": 2,
-   "stock": 85,
+   "stock": 82,
    "sub": "50인치",
    "subn": 50
   },
@@ -69,7 +69,7 @@
    ],
    "model": "55QNED70ABA",
    "dday": 9,
-   "stock": 3,
+   "stock": 2,
    "sub": "55인치",
    "subn": 55
   },
@@ -98,7 +98,7 @@
    ],
    "model": "65NU850BENA",
    "dday": 2,
-   "stock": 6,
+   "stock": 49,
    "sub": "65인치",
    "subn": 65
   },
@@ -199,7 +199,7 @@
    ],
    "model": "OLED55C6ENA",
    "dday": 2,
-   "stock": 48,
+   "stock": 43,
    "sub": "55인치",
    "subn": 55
   },
@@ -230,7 +230,7 @@
    ],
    "model": "85NU850BENA",
    "dday": 2,
-   "stock": 39,
+   "stock": 27,
    "sub": "85인치",
    "subn": 85
   },
@@ -288,7 +288,7 @@
    ],
    "model": "75QNED80BEWAS30A",
    "dday": 2,
-   "stock": 4,
+   "stock": 5,
    "sub": "75인치",
    "subn": 75
   },
@@ -303,7 +303,7 @@
    ],
    "model": "65MRGB83BEA",
    "dday": 2,
-   "stock": 5,
+   "stock": 4,
    "sub": "65인치",
    "subn": 65
   },
@@ -494,7 +494,7 @@
    ],
    "model": "75QNED92AGA",
    "dday": 2,
-   "stock": 33,
+   "stock": 30,
    "sub": "75인치",
    "subn": 75
   },
@@ -535,7 +535,7 @@
    ],
    "model": "85QNED80BEWAS30A",
    "dday": 2,
-   "stock": 16,
+   "stock": 15,
    "sub": "85인치",
    "subn": 85
   },
@@ -564,7 +564,7 @@
    ],
    "model": "85QNED8MBEA",
    "dday": 2,
-   "stock": 3,
+   "stock": 29,
    "sub": "85인치",
    "subn": 85
   },
@@ -624,7 +624,7 @@
    ],
    "model": "75MRGB83BEA",
    "dday": 2,
-   "stock": 5,
+   "stock": 4,
    "sub": "75인치",
    "subn": 75
   },
@@ -713,24 +713,24 @@
    ],
    "model": "86MRGB83BEA",
    "dday": 2,
-   "stock": 5,
+   "stock": 4,
    "sub": "86인치",
    "subn": 86
   },
   {
-   "name": "LG 퓨리케어 자연기화 가습기",
-   "url": "https://www.lge.co.kr/humidifiers/hw500das-akor1",
-   "img": "https://www.lge.co.kr/kr/images/humidifiers/md09088827/md09088827-350x350.jpg",
-   "price": 305000,
-   "cat": "가습기",
+   "name": "LG QNED TV (벽걸이형) 247cm",
+   "url": "https://www.lge.co.kr/tvs/98qned89tka-wall",
+   "img": "https://www.lge.co.kr/kr/images/tvs/md10322826/md10322826-350x350.jpg",
+   "price": 5319600,
+   "cat": "TV",
    "tags": [
     "타임딜"
    ],
-   "model": "HW500DAS",
-   "dday": 1,
-   "stock": 16,
-   "sub": "",
-   "subn": 0
+   "model": "98QNED89TKA",
+   "dday": 9,
+   "stock": 1,
+   "sub": "98인치",
+   "subn": 98
   },
   {
    "name": "LG 퓨리케어 오브제컬렉션 하이드로에센셜",
@@ -743,7 +743,7 @@
    ],
    "model": "HY505RWLAH",
    "dday": 1,
-   "stock": 63,
+   "stock": 56,
    "sub": "",
    "subn": 0
   },
@@ -758,7 +758,7 @@
    ],
    "model": "HY505RWLAHM",
    "dday": 1,
-   "stock": 63,
+   "stock": 57,
    "sub": "",
    "subn": 0
   },
@@ -773,7 +773,7 @@
    ],
    "model": "HY706RSUABM",
    "dday": 1,
-   "stock": 272,
+   "stock": 255,
    "sub": "",
    "subn": 0
   },
@@ -872,7 +872,7 @@
    ],
    "model": "AS186HWWL",
    "dday": 1,
-   "stock": 40,
+   "stock": 33,
    "sub": "",
    "subn": 0
   },
@@ -887,7 +887,7 @@
    ],
    "model": "AS186LSAA",
    "dday": 1,
-   "stock": 17,
+   "stock": 13,
    "sub": "",
    "subn": 0
   },
@@ -918,7 +918,7 @@
    ],
    "model": "AS305DWWLM",
    "dday": 1,
-   "stock": 53,
+   "stock": 44,
    "sub": "",
    "subn": 0
   },
@@ -933,7 +933,7 @@
    ],
    "model": "AS356LSAA",
    "dday": 1,
-   "stock": 44,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -991,7 +991,7 @@
    ],
    "model": "MW20GDN",
    "dday": 3,
-   "stock": 78,
+   "stock": 63,
    "sub": "",
    "subn": 0
   },
@@ -1007,7 +1007,7 @@
    ],
    "model": "MW30EDN",
    "dday": 3,
-   "stock": 33,
+   "stock": 22,
    "sub": "",
    "subn": 0
   },
@@ -1064,7 +1064,7 @@
    ],
    "model": "MW23BDI",
    "dday": 3,
-   "stock": 95,
+   "stock": 94,
    "sub": "",
    "subn": 0
   },
@@ -1079,7 +1079,7 @@
    ],
    "model": "MW23BPI",
    "dday": 3,
-   "stock": 36,
+   "stock": 35,
    "sub": "",
    "subn": 0
   },
@@ -1094,7 +1094,7 @@
    ],
    "model": "MWJ23PI",
    "dday": 3,
-   "stock": 136,
+   "stock": 132,
    "sub": "",
    "subn": 0
   },
@@ -1109,7 +1109,7 @@
    ],
    "model": "MW25S",
    "dday": 3,
-   "stock": 32,
+   "stock": 30,
    "sub": "",
    "subn": 0
   },
@@ -1124,7 +1124,7 @@
    ],
    "model": "MWE25HD",
    "dday": 3,
-   "stock": 31,
+   "stock": 29,
    "sub": "",
    "subn": 0
   },
@@ -2520,7 +2520,7 @@
    ],
    "model": "W1310EGN",
    "dday": 2,
-   "stock": 54,
+   "stock": 46,
    "sub": "",
    "subn": 0
   },
@@ -2536,7 +2536,7 @@
    ],
    "model": "W1310WAN",
    "dday": 9,
-   "stock": 94,
+   "stock": 93,
    "sub": "",
    "subn": 0
   },
@@ -2552,7 +2552,7 @@
    ],
    "model": "W2320VANQR",
    "dday": 2,
-   "stock": 128,
+   "stock": 125,
    "sub": "",
    "subn": 0
   },
@@ -2583,7 +2583,7 @@
    ],
    "model": "W2420EGZR",
    "dday": 2,
-   "stock": 119,
+   "stock": 116,
    "sub": "",
    "subn": 0
   },
@@ -2651,7 +2651,7 @@
    ],
    "model": "FX24KNTR",
    "dday": 9,
-   "stock": 149,
+   "stock": 140,
    "sub": "24kg",
    "subn": 24
   },
@@ -2692,7 +2692,7 @@
    ],
    "model": "FX24ENER",
    "dday": 2,
-   "stock": 13,
+   "stock": 6,
    "sub": "24kg",
    "subn": 24
   },
@@ -2772,7 +2772,7 @@
    ],
    "model": "SC3GVE",
    "dday": 9,
-   "stock": 90,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -2788,7 +2788,7 @@
    ],
    "model": "SC3GBE52",
    "dday": 9,
-   "stock": 110,
+   "stock": 108,
    "sub": "",
    "subn": 0
   },
@@ -2833,7 +2833,7 @@
    ],
    "model": "SC5MSR42S",
    "dday": 9,
-   "stock": 47,
+   "stock": 43,
    "sub": "",
    "subn": 0
   },
@@ -2865,7 +2865,7 @@
    ],
    "model": "SC5MRR42S",
    "dday": 9,
-   "stock": 93,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -2881,7 +2881,7 @@
    ],
    "model": "SC5MRR62S",
    "dday": 9,
-   "stock": 60,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3030,7 +3030,7 @@
    ],
    "model": "32LX6BEGBACAKXT7SC",
    "dday": 2,
-   "stock": 28,
+   "stock": 27,
    "sub": "",
    "subn": 0
   },
@@ -3230,7 +3230,7 @@
    ],
    "model": "SQ06EA1WCS",
    "dday": 1,
-   "stock": 61,
+   "stock": 58,
    "sub": "",
    "subn": 0
   },
@@ -3245,7 +3245,7 @@
    ],
    "model": "SQ07GJ1WES",
    "dday": 1,
-   "stock": 94,
+   "stock": 92,
    "sub": "",
    "subn": 0
   },
@@ -3275,7 +3275,7 @@
    ],
    "model": "SQ06GJ1WES",
    "dday": 1,
-   "stock": 38,
+   "stock": 37,
    "sub": "",
    "subn": 0
   },
@@ -3290,7 +3290,7 @@
    ],
    "model": "FQ17GW1HD1",
    "dday": 1,
-   "stock": 44,
+   "stock": 42,
    "sub": "",
    "subn": 0
   },
@@ -3337,7 +3337,7 @@
    ],
    "model": "FQ17GW1HD2",
    "dday": 1,
-   "stock": 31,
+   "stock": 28,
    "sub": "",
    "subn": 0
   },
@@ -3385,7 +3385,7 @@
    ],
    "model": "FQ17GU1ED2",
    "dday": 1,
-   "stock": 50,
+   "stock": 48,
    "sub": "",
    "subn": 0
   },
@@ -3430,7 +3430,7 @@
    ],
    "model": "FQ18FU2EA2",
    "dday": 4,
-   "stock": 13,
+   "stock": 12,
    "sub": "",
    "subn": 0
   },
@@ -3446,7 +3446,7 @@
    ],
    "model": "FQ17GU2ED2",
    "dday": 1,
-   "stock": 23,
+   "stock": 20,
    "sub": "",
    "subn": 0
   },
@@ -3609,7 +3609,7 @@
    ],
    "model": "BEI3HSBLE",
    "dday": 1,
-   "stock": 89,
+   "stock": 86,
    "sub": "",
    "subn": 0
   },
@@ -3624,7 +3624,7 @@
    ],
    "model": "BEI3HKBLE",
    "dday": 1,
-   "stock": 98,
+   "stock": 97,
    "sub": "",
    "subn": 0
   },
@@ -3667,7 +3667,7 @@
    ],
    "model": "BEI3QMBLOE",
    "dday": 1,
-   "stock": 85,
+   "stock": 80,
    "sub": "",
    "subn": 0
   },
@@ -3903,7 +3903,7 @@
    ],
    "model": "DQ214MWGA",
    "dday": 1,
-   "stock": 86,
+   "stock": 85,
    "sub": "",
    "subn": 0
   },
@@ -3919,7 +3919,7 @@
    ],
    "model": "DQ205PEGA",
    "dday": 1,
-   "stock": 69,
+   "stock": 64,
    "sub": "",
    "subn": 0
   },
@@ -3935,7 +3935,7 @@
    ],
    "model": "DQ185MWGA",
    "dday": 1,
-   "stock": 88,
+   "stock": 87,
    "sub": "",
    "subn": 0
   },
