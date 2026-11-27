@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27 00:56",
+ "updated": "2026-11-27 09:11",
  "status": {
   "errors": [],
   "timedeal": 0,
   "debug": {
    "count": "수집 212",
-   "pages": "p1:목록100/신규100 p2:목록100/신규97 p3:목록100/신규15 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
+   "pages": "p1:목록100/신규100 p2:목록100/신규98 p3:목록100/신규14 p4:목록100/신규0 p5:목록100/신규0 p6:목록100/신규0",
    "info": "totalCount=774,linkUrl=None,serviceLinkUrl=None,menuType=None,isB2BProduct=False",
-   "total_api": "{\"timestamp\":\"2026-11-27T00:56:26.5300783\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
+   "total_api": "{\"timestamp\":\"2026-11-27T09:11:26.5591904\",\"status\":200,\"message\":\"OK\",\"data\":{\"totalCount\":774}}",
    "fail_sample": "{\"modelId\": \"MD10499828\", \"sku\": \"16ZD90SU-G.AXF6K\", \"salesModelCode\": \"16ZD90SU-G\", \"salesSuffixCode\": \"AXF6K\", \"modelStatusCode\": \"NOT_FOR_SALE\", \"modelGubun\": \"1\", \"modelDisplayName\": \"LG 그램\", \"modelName\": \"16ZD90SU-GXF6K\", \"defaultCategoryId\": \"CT50000046\", \"defaultCategoryName\": \"노트북\", \"superCategoryId\": \"CT50000045\", \"categoryId\": \"CT50000046\", \"subCategoryId\": \"CT50000050\", \"superCategoryName\": \"PC/모니터\", \"categoryName\": \"노트북\", \"subCategoryName\": \"그램\", \"imageAlt\": null, \"noImageUrl\": \"/lg5-common/images/icons/noimage.svg\", \"largeImage\": null, \"mediumImageAddr\": \"/kr/images/notebook/md10499828/md10499828-350x350.jpg\", \"smallImageAddr\": \"/kr/images/notebook/md10499828/md10499828-280x280.jpg\", \"pointFlag\": \"N\", \"optGrpId\": null, \"modelUrlPath\": \"/notebook/16zd90su-gxf6k\", \"lgecomOnlyFla"
   },
   "only": 212
@@ -600,19 +600,6 @@
   },
   {
    "name": "LG 트롬 오브제컬렉션 워시타워",
-   "url": "https://www.lge.co.kr/all-in-one-laundry/w2420egzr-akor1",
-   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
-   "price": 3000000,
-   "cat": "기타",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "W2420EGZR.AKOR1",
-   "sub": "",
-   "subn": 0
-  },
-  {
-   "name": "LG 트롬 오브제컬렉션 워시타워",
    "url": "https://www.lge.co.kr/all-in-one-laundry/wl2521wdur",
    "img": "https://www.lge.co.kr/kr/images/wash-tower/md09942859/md09942859-350x350.jpg",
    "price": 3100000,
@@ -621,6 +608,19 @@
     "닷컴ONLY"
    ],
    "model": "WL2521WDUR.AKOR",
+   "sub": "",
+   "subn": 0
+  },
+  {
+   "name": "LG 트롬 오브제컬렉션 워시타워",
+   "url": "https://www.lge.co.kr/all-in-one-laundry/w2420egzr-akor1",
+   "img": "https://www.lge.co.kr/kr/images/wash-tower/md09159852/md09159852-350x350.jpg",
+   "price": 3130000,
+   "cat": "기타",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "W2420EGZR.AKOR1",
    "sub": "",
    "subn": 0
   },
@@ -834,14 +834,14 @@
   },
   {
    "name": "LG 디오스 AI 오브제컬렉션 김치톡톡 Fit & Max",
-   "url": "https://www.lge.co.kr/kimchi-refrigerators/z386mqq221",
-   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792844/md10792844-350x350.jpg",
-   "price": 2320000,
+   "url": "https://www.lge.co.kr/kimchi-refrigerators/z386mee221",
+   "img": "https://www.lge.co.kr/kr/images/kimchi-refrigerators/md10792843/md10792843-350x350.jpg",
+   "price": 2090000,
    "cat": "김치냉장고",
    "tags": [
     "닷컴ONLY"
    ],
-   "model": "Z386MQQ221.AKOR",
+   "model": "Z386MEE221.AKOR",
    "sub": "300L대",
    "subn": 386
   },
@@ -990,19 +990,6 @@
   },
   {
    "name": "LG 일반냉장고 오브제컬렉션",
-   "url": "https://www.lge.co.kr/refrigerators/d604mps52",
-   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10366862/md10366862-350x350.jpg",
-   "price": 950000,
-   "cat": "냉장고",
-   "tags": [
-    "닷컴ONLY"
-   ],
-   "model": "D604MPS52.AKOR",
-   "sub": "600L대",
-   "subn": 612
-  },
-  {
-   "name": "LG 일반냉장고 오브제컬렉션",
    "url": "https://www.lge.co.kr/refrigerators/d604mps33",
    "img": "https://www.lge.co.kr/kr/images/refrigerators/md10590828/md10590828-350x350.jpg",
    "price": 950000,
@@ -1052,6 +1039,19 @@
    "model": "Q336MEE153.AKOR",
    "sub": "300L대",
    "subn": 333
+  },
+  {
+   "name": "LG 일반냉장고 오브제컬렉션",
+   "url": "https://www.lge.co.kr/refrigerators/d604mps52",
+   "img": "https://www.lge.co.kr/kr/images/refrigerators/md10366862/md10366862-350x350.jpg",
+   "price": 1174000,
+   "cat": "냉장고",
+   "tags": [
+    "닷컴ONLY"
+   ],
+   "model": "D604MPS52.AKOR",
+   "sub": "600L대",
+   "subn": 612
   },
   {
    "name": "LG 모던엣지 AI 오브제컬렉션 Fit & Max",
